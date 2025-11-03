@@ -1,0 +1,1001 @@
+session_id,station_id,operator,city,latitude,longitude,station_type,connector_type,port_count,session_start,session_end,duration_min,energy_kw,price_paid_inr,user_type,vehicle_type,payment_method,weather,weekday,tariff_inr_per_kwh
+MS_S_00001,MS-1409,Private-Operator-2,Pune,18.515717,73.852017,AC Slow,CHAdeMO,4,16-06-2025 07:08,16-06-2025 10:46,218,11.25,137.14,Private,Two-wheeler,UPI,Sunny,Monday,12.19
+MS_S_00002,MS-2535,MSEDCL,Mumbai,19.066611,72.888551,AC Slow,CCS,3,03-07-2025 19:01,03-07-2025 21:54,173,9.42,122.08,Commercial,Two-wheeler,Wallet,Sunny,Thursday,12.96
+MS_S_00003,MS-3615,Private-Operator-2,Mumbai,19.041502,72.866454,AC Slow,Bharat DC-001,1,22-06-2025 08:09,22-06-2025 09:34,85,5.26,61.38,Commercial,Two-wheeler,Subscription,Cool,Sunday,11.67
+MS_S_00004,MS-6881,Reliance BP,Pune,18.549713,73.852184,AC Slow,CHAdeMO,1,22-07-2025 01:46,22-07-2025 04:13,147,5.09,53.75,Commercial,Two-wheeler,Wallet,Cloudy,Tuesday,10.56
+MS_S_00005,MS-6925,Private-Operator-1,Latur,18.38598,76.568114,AC Slow,CCS,2,16-07-2025 02:02,16-07-2025 05:21,199,9.29,77.39,Commercial,Four-wheeler,Card,Sunny,Wednesday,8.33
+MS_S_00006,MS-7227,Reliance BP,Pune,18.508387,73.850866,AC Slow,Bharat DC-001,3,11-07-2025 11:10,11-07-2025 13:14,124,14.52,198.34,Commercial,Three-wheeler,UPI,Sunny,Friday,13.66
+MS_S_00007,MS-3803,Private-Operator-1,Latur,18.425451,76.536183,DC Fast,CCS,1,11-06-2025 14:24,11-06-2025 14:51,27,11.71,215.93,Private,Three-wheeler,UPI,Cool,Wednesday,18.44
+MS_S_00008,MS-1525,Reliance BP,Nashik,20.012269,73.793227,AC Slow,Bharat DC-001,2,18-06-2025 02:13,18-06-2025 05:08,175,8.65,80.36,Commercial,Two-wheeler,Subscription,Hot,Wednesday,9.29
+MS_S_00009,MS-8517,MSEDCL,Solapur,17.63033,75.892003,AC Slow,CHAdeMO,1,09-06-2025 07:47,09-06-2025 10:40,173,1.63,16.76,Commercial,Four-wheeler,Subscription,Cloudy,Monday,10.28
+MS_S_00010,MS-4593,MSEDCL,Aurangabad,19.882682,75.335598,DC Fast,Bharat DC-001,1,06-06-2025 01:55,06-06-2025 02:12,17,20.45,389.78,Private,Four-wheeler,Subscription,Sunny,Friday,19.06
+MS_S_00011,MS-2040,AtherGrid,Latur,18.42962,76.579226,AC Slow,Bharat DC-001,4,09-07-2025 14:33,09-07-2025 16:07,94,11.81,110.9,Private,Three-wheeler,UPI,Cool,Wednesday,9.39
+MS_S_00012,MS-5371,Private-Operator-2,Amravati,20.944025,77.798511,DC Fast,CHAdeMO,1,08-06-2025 09:27,08-06-2025 09:47,20,24.72,333.97,Commercial,Four-wheeler,Card,Sunny,Sunday,13.51
+MS_S_00013,MS-2743,Private-Operator-2,Amravati,20.953651,77.806125,AC Slow,CHAdeMO,1,24-07-2025 20:32,24-07-2025 23:37,185,5.35,55,Commercial,Four-wheeler,UPI,Sunny,Thursday,10.28
+MS_S_00014,MS-6310,AtherGrid,Latur,18.416228,76.591361,DC Fast,Type-2,1,08-06-2025 11:56,08-06-2025 12:25,29,11.58,246.31,Private,Four-wheeler,UPI,Sunny,Sunday,21.27
+MS_S_00015,MS-8962,Tata Power,Pune,18.522141,73.85072,DC Fast,CCS,1,09-06-2025 21:30,09-06-2025 22:15,45,33.75,592.65,Commercial,Four-wheeler,Card,Sunny,Monday,17.56
+MS_S_00016,MS-7537,Private-Operator-2,Thane,19.247858,72.967735,AC Slow,CHAdeMO,2,29-06-2025 16:28,29-06-2025 17:28,60,13.71,133.67,Private,Two-wheeler,Card,Sunny,Sunday,9.75
+MS_S_00017,MS-4608,Tata Power,Latur,18.427308,76.567175,AC Slow,Type-2,1,16-07-2025 20:03,16-07-2025 21:31,88,5.06,46.2,Private,Four-wheeler,UPI,Sunny,Wednesday,9.13
+MS_S_00018,MS-4899,Reliance BP,Amravati,20.923359,77.772447,DC Fast,Bharat DC-001,1,14-06-2025 17:08,14-06-2025 18:04,56,54.09,1028.25,Commercial,Two-wheeler,Subscription,Hot,Saturday,19.01
+MS_S_00019,MS-4119,Tata Power,Solapur,17.660002,75.901708,AC Slow,Type-2,1,13-07-2025 13:22,13-07-2025 15:40,138,12.45,174.67,Private,Three-wheeler,UPI,Sunny,Sunday,14.03
+MS_S_00020,MS-7596,Private-Operator-2,Mumbai,19.072774,72.885781,AC Slow,CHAdeMO,1,22-07-2025 03:15,22-07-2025 04:34,79,2.68,27.76,Commercial,Two-wheeler,Card,Sunny,Tuesday,10.36
+MS_S_00021,MS-8579,MSEDCL,Thane,19.179925,72.97757,AC Slow,Type-2,2,29-06-2025 17:06,29-06-2025 17:48,42,6.09,90.13,Private,Four-wheeler,Card,Cloudy,Sunday,14.8
+MS_S_00022,MS-7658,AtherGrid,Nagpur,21.141953,79.094231,AC Slow,Bharat DC-001,1,14-06-2025 12:57,14-06-2025 13:42,45,9.53,109.79,Private,Four-wheeler,Wallet,Sunny,Saturday,11.52
+MS_S_00023,MS-5673,AtherGrid,Kolhapur,16.727856,74.258339,AC Slow,Bharat DC-001,1,10-06-2025 06:18,10-06-2025 07:43,85,14.8,143.41,Private,Three-wheeler,UPI,Cool,Tuesday,9.69
+MS_S_00024,MS-8811,Private-Operator-1,Mumbai,19.087737,72.921509,AC Slow,CCS,2,04-06-2025 16:05,04-06-2025 17:22,77,6.15,76.44,Private,Three-wheeler,Card,Sunny,Wednesday,12.43
+MS_S_00025,MS-2964,Private-Operator-1,Solapur,17.661893,75.89633,AC Slow,CCS,3,08-07-2025 19:02,08-07-2025 22:10,188,5.49,51.11,Commercial,Four-wheeler,Card,Sunny,Tuesday,9.31
+MS_S_00026,MS-4910,Reliance BP,Aurangabad,19.854954,75.352772,DC Fast,Bharat DC-001,1,09-06-2025 21:41,09-06-2025 22:10,29,33.17,495.56,Private,Two-wheeler,UPI,Sunny,Monday,14.94
+MS_S_00027,MS-9808,MSEDCL,Pune,18.504735,73.850259,DC Fast,CHAdeMO,1,09-06-2025 11:56,09-06-2025 12:10,14,56.52,779.41,Commercial,Two-wheeler,Subscription,Hot,Monday,13.79
+MS_S_00028,MS-5956,Private-Operator-1,Amravati,20.941949,77.805143,DC Fast,Type-2,3,13-07-2025 17:19,13-07-2025 18:11,52,19.19,394.93,Private,Two-wheeler,UPI,Sunny,Sunday,20.58
+MS_S_00029,MS-3546,Reliance BP,Amravati,20.942598,77.794636,AC Slow,CHAdeMO,1,09-07-2025 06:45,09-07-2025 08:42,117,2.3,32.84,Commercial,Two-wheeler,Wallet,Sunny,Wednesday,14.28
+MS_S_00030,MS-2512,Private-Operator-2,Mumbai,19.08101,72.884629,AC Slow,Bharat DC-001,1,24-07-2025 08:02,24-07-2025 08:32,30,11.16,159.36,Private,Three-wheeler,Wallet,Sunny,Thursday,14.28
+MS_S_00031,MS-8239,Private-Operator-1,Nagpur,21.151661,79.073913,AC Slow,Bharat DC-001,1,06-07-2025 00:07,06-07-2025 00:56,49,3.26,46.59,Private,Two-wheeler,Wallet,Hot,Sunday,14.29
+MS_S_00032,MS-3426,AtherGrid,Latur,18.385174,76.573731,AC Slow,CCS,1,03-06-2025 09:23,03-06-2025 13:16,233,8.68,111.45,Private,Four-wheeler,Card,Cool,Tuesday,12.84
+MS_S_00033,MS-2684,Reliance BP,Nashik,20.016768,73.798056,DC Fast,Bharat DC-001,1,10-07-2025 23:09,10-07-2025 23:34,25,22.9,496.93,Private,Four-wheeler,UPI,Hot,Thursday,21.7
+MS_S_00034,MS-6442,AtherGrid,Nagpur,21.12801,79.071884,DC Fast,CCS,2,18-06-2025 05:50,18-06-2025 06:44,54,10.15,170.32,Private,Four-wheeler,Card,Sunny,Wednesday,16.78
+MS_S_00035,MS-8541,Reliance BP,Nashik,19.99776,73.818871,DC Fast,CHAdeMO,1,23-07-2025 07:14,23-07-2025 07:25,11,54.06,1092.01,Commercial,Two-wheeler,UPI,Cloudy,Wednesday,20.2
+MS_S_00036,MS-6753,Private-Operator-2,Thane,19.196882,72.987749,AC Slow,Bharat DC-001,1,14-07-2025 17:21,14-07-2025 17:58,37,3.73,48.71,Commercial,Two-wheeler,Wallet,Sunny,Monday,13.06
+MS_S_00037,MS-2776,Private-Operator-1,Mumbai,19.085465,72.876243,DC Fast,Bharat DC-001,4,23-06-2025 23:50,24-06-2025 00:20,30,55.32,929.93,Private,Two-wheeler,Card,Sunny,Monday,16.81
+MS_S_00038,MS-1727,Private-Operator-2,Thane,19.20937,72.995228,DC Fast,Bharat DC-001,3,01-06-2025 16:59,01-06-2025 17:43,44,21.19,360.44,Private,Two-wheeler,UPI,Cloudy,Sunday,17.01
+MS_S_00039,MS-6143,Private-Operator-2,Aurangabad,19.858523,75.346375,AC Slow,Type-2,2,17-07-2025 09:32,17-07-2025 11:21,109,14.11,181.6,Commercial,Two-wheeler,Wallet,Cloudy,Thursday,12.87
+MS_S_00040,MS-3085,MSEDCL,Amravati,20.944556,77.790216,AC Slow,Bharat DC-001,4,13-07-2025 12:43,13-07-2025 16:24,221,2.96,34.42,Commercial,Two-wheeler,UPI,Hot,Sunday,11.63
+MS_S_00041,MS-5700,MSEDCL,Thane,19.228601,72.988376,DC Fast,Bharat DC-001,2,21-07-2025 18:38,21-07-2025 19:29,51,24.77,391.86,Commercial,Two-wheeler,Card,Sunny,Monday,15.82
+MS_S_00042,MS-8752,Private-Operator-2,Amravati,20.948818,77.801711,DC Fast,CCS,3,13-07-2025 02:18,13-07-2025 03:00,42,33.12,613.38,Commercial,Two-wheeler,Card,Cloudy,Sunday,18.52
+MS_S_00043,MS-4680,MSEDCL,Thane,19.202843,72.973364,DC Fast,CCS,2,02-06-2025 01:15,02-06-2025 01:55,40,53.95,884.24,Private,Two-wheeler,Card,Cloudy,Monday,16.39
+MS_S_00044,MS-9099,AtherGrid,Solapur,17.673625,75.874146,AC Slow,CCS,1,10-06-2025 20:44,10-06-2025 21:15,31,7.52,88.74,Private,Four-wheeler,Card,Hot,Tuesday,11.8
+MS_S_00045,MS-9486,AtherGrid,Nagpur,21.147086,79.066645,AC Slow,Type-2,1,06-07-2025 07:58,06-07-2025 08:59,61,12.52,131.71,Commercial,Three-wheeler,Wallet,Sunny,Sunday,10.52
+MS_S_00046,MS-9270,AtherGrid,Kolhapur,16.705911,74.230268,DC Fast,Bharat DC-001,1,28-07-2025 05:47,28-07-2025 06:27,40,39.26,514.7,Private,Four-wheeler,Wallet,Sunny,Monday,13.11
+MS_S_00047,MS-8939,Private-Operator-2,Amravati,20.896897,77.782729,AC Slow,CCS,2,18-06-2025 14:04,18-06-2025 17:36,212,11.17,165.65,Commercial,Two-wheeler,UPI,Sunny,Wednesday,14.83
+MS_S_00048,MS-3471,MSEDCL,Nagpur,21.1559,79.105515,DC Fast,Bharat DC-001,1,15-07-2025 04:45,15-07-2025 05:08,23,29.14,379.4,Commercial,Two-wheeler,Subscription,Sunny,Tuesday,13.02
+MS_S_00049,MS-2020,MSEDCL,Solapur,17.695209,75.9145,AC Slow,Bharat DC-001,1,25-06-2025 18:44,25-06-2025 19:19,35,3.19,31.1,Commercial,Two-wheeler,Wallet,Hot,Wednesday,9.75
+MS_S_00050,MS-7389,AtherGrid,Thane,19.260743,72.998749,DC Fast,CCS,1,02-07-2025 07:17,02-07-2025 07:54,37,57.52,1241.86,Commercial,Two-wheeler,Subscription,Sunny,Wednesday,21.59
+MS_S_00051,MS-8657,MSEDCL,Nagpur,21.154676,79.103693,AC Slow,Type-2,1,29-07-2025 12:37,29-07-2025 15:31,174,5.98,79.53,Private,Three-wheeler,Card,Cloudy,Tuesday,13.3
+MS_S_00052,MS-3977,Tata Power,Kolhapur,16.699949,74.218344,AC Slow,CHAdeMO,1,25-06-2025 10:13,25-06-2025 12:39,146,7.88,89.12,Commercial,Two-wheeler,Subscription,Sunny,Wednesday,11.31
+MS_S_00053,MS-2341,AtherGrid,Thane,19.247125,72.949383,AC Slow,Type-2,2,18-07-2025 17:03,18-07-2025 19:02,119,9.89,82.28,Private,Four-wheeler,UPI,Sunny,Friday,8.32
+MS_S_00054,MS-5051,MSEDCL,Mumbai,19.079981,72.865696,AC Slow,Type-2,3,10-07-2025 04:15,10-07-2025 05:17,62,10.22,93.41,Private,Two-wheeler,Card,Sunny,Thursday,9.14
+MS_S_00055,MS-5198,Reliance BP,Kolhapur,16.73672,74.218544,AC Slow,CCS,2,09-07-2025 19:47,09-07-2025 23:20,213,14.16,170.34,Private,Four-wheeler,UPI,Sunny,Wednesday,12.03
+MS_S_00056,MS-1420,Reliance BP,Latur,18.41462,76.548146,AC Slow,Bharat DC-001,2,26-06-2025 22:12,26-06-2025 23:01,49,14.18,151.73,Private,Two-wheeler,Wallet,Cloudy,Thursday,10.7
+MS_S_00057,MS-2983,Private-Operator-1,Latur,18.397213,76.577592,AC Slow,Type-2,1,23-06-2025 17:27,23-06-2025 20:46,199,12.83,104.69,Commercial,Two-wheeler,Subscription,Sunny,Monday,8.16
+MS_S_00058,MS-2729,AtherGrid,Kolhapur,16.721257,74.255893,AC Slow,CHAdeMO,2,11-07-2025 14:45,11-07-2025 15:54,69,9.81,138.71,Commercial,Three-wheeler,Subscription,Sunny,Friday,14.14
+MS_S_00059,MS-8136,Private-Operator-2,Kolhapur,16.704582,74.245647,AC Slow,CHAdeMO,1,21-06-2025 07:53,21-06-2025 08:45,52,11.51,157.11,Commercial,Two-wheeler,Subscription,Sunny,Saturday,13.65
+MS_S_00060,MS-7209,Reliance BP,Latur,18.404646,76.582576,AC Slow,Type-2,2,02-07-2025 10:11,02-07-2025 12:45,154,5.77,83.78,Commercial,Two-wheeler,Wallet,Sunny,Wednesday,14.52
+MS_S_00061,MS-1166,Private-Operator-1,Amravati,20.96351,77.77942,DC Fast,CCS,2,06-06-2025 07:46,06-06-2025 08:22,36,10.67,253.2,Private,Three-wheeler,Subscription,Sunny,Friday,23.73
+MS_S_00062,MS-1282,Tata Power,Kolhapur,16.711483,74.240697,AC Slow,CHAdeMO,3,15-06-2025 12:44,15-06-2025 14:16,92,6.45,52.12,Commercial,Two-wheeler,Wallet,Sunny,Sunday,8.08
+MS_S_00063,MS-6419,Reliance BP,Solapur,17.63978,75.882116,DC Fast,Bharat DC-001,2,18-06-2025 09:16,18-06-2025 09:40,24,39.75,708.74,Private,Two-wheeler,Card,Sunny,Wednesday,17.83
+MS_S_00064,MS-4545,Private-Operator-2,Nashik,19.997255,73.771855,DC Fast,Bharat DC-001,2,18-06-2025 23:37,19-06-2025 00:35,58,48.54,1080.99,Commercial,Four-wheeler,Card,Cloudy,Wednesday,22.27
+MS_S_00065,MS-4727,Reliance BP,Thane,19.20179,72.971672,AC Slow,CCS,2,20-06-2025 00:45,20-06-2025 03:31,166,7.18,102.03,Private,Four-wheeler,Wallet,Sunny,Friday,14.21
+MS_S_00066,MS-9042,Tata Power,Nagpur,21.150699,79.078061,AC Slow,Type-2,2,07-07-2025 09:30,07-07-2025 12:02,152,9.66,84.14,Private,Four-wheeler,Wallet,Sunny,Monday,8.71
+MS_S_00067,MS-2869,Tata Power,Kolhapur,16.676038,74.215151,AC Slow,Bharat DC-001,3,02-07-2025 02:36,02-07-2025 05:47,191,10.89,93.33,Private,Two-wheeler,Wallet,Cloudy,Wednesday,8.57
+MS_S_00068,MS-5066,Tata Power,Pune,18.506031,73.852431,DC Fast,Bharat DC-001,3,09-07-2025 19:50,09-07-2025 20:39,49,59.23,1290.62,Commercial,Two-wheeler,Subscription,Sunny,Wednesday,21.79
+MS_S_00069,MS-8025,Reliance BP,Thane,19.21792,72.958049,DC Fast,Type-2,2,10-07-2025 23:06,11-07-2025 00:04,58,28.33,673.69,Private,Two-wheeler,UPI,Sunny,Thursday,23.78
+MS_S_00070,MS-4929,MSEDCL,Nagpur,21.152254,79.071655,AC Slow,Type-2,1,11-06-2025 00:26,11-06-2025 02:51,145,1.79,15.81,Commercial,Two-wheeler,Card,Cloudy,Wednesday,8.83
+MS_S_00071,MS-5632,Private-Operator-2,Thane,19.232103,72.970076,DC Fast,Bharat DC-001,2,05-06-2025 21:14,05-06-2025 21:40,26,57.92,977.11,Private,Two-wheeler,Card,Rain,Thursday,16.87
+MS_S_00072,MS-5352,MSEDCL,Nagpur,21.150282,79.088452,AC Slow,Type-2,4,04-06-2025 05:50,04-06-2025 07:38,108,1.17,17.3,Commercial,Two-wheeler,Subscription,Cloudy,Wednesday,14.79
+MS_S_00073,MS-7594,Reliance BP,Thane,19.247323,72.997285,AC Slow,Bharat DC-001,2,29-06-2025 02:38,29-06-2025 03:18,40,14.57,169.89,Commercial,Three-wheeler,UPI,Hot,Sunday,11.66
+MS_S_00074,MS-4750,Private-Operator-2,Pune,18.564196,73.840534,AC Slow,Type-2,2,19-07-2025 21:52,19-07-2025 23:30,98,9.18,131.37,Private,Two-wheeler,Subscription,Cloudy,Saturday,14.31
+MS_S_00075,MS-3973,Private-Operator-1,Thane,19.203117,72.981108,AC Slow,Bharat DC-001,1,11-07-2025 15:05,11-07-2025 17:35,150,7.49,78.42,Commercial,Two-wheeler,UPI,Sunny,Friday,10.47
+MS_S_00076,MS-6403,AtherGrid,Nagpur,21.164808,79.076662,DC Fast,Bharat DC-001,4,19-06-2025 21:25,19-06-2025 22:23,58,43.4,823.3,Commercial,Two-wheeler,Wallet,Cloudy,Thursday,18.97
+MS_S_00077,MS-2899,AtherGrid,Aurangabad,19.849795,75.379929,DC Fast,Type-2,1,13-07-2025 17:29,13-07-2025 18:05,36,55.1,1250.22,Commercial,Three-wheeler,Subscription,Sunny,Sunday,22.69
+MS_S_00078,MS-1845,MSEDCL,Kolhapur,16.728589,74.233916,DC Fast,CHAdeMO,3,06-07-2025 04:59,06-07-2025 05:27,28,7.49,92.43,Commercial,Two-wheeler,Card,Sunny,Sunday,12.34
+MS_S_00079,MS-6091,Private-Operator-1,Nagpur,21.143509,79.112956,DC Fast,Type-2,1,06-07-2025 13:05,06-07-2025 13:29,24,37.68,638.68,Private,Two-wheeler,UPI,Cool,Sunday,16.95
+MS_S_00080,MS-9165,Private-Operator-2,Nagpur,21.145905,79.08914,AC Slow,CHAdeMO,1,03-07-2025 22:17,04-07-2025 00:33,136,1.79,25.15,Commercial,Two-wheeler,Card,Hot,Thursday,14.05
+MS_S_00081,MS-4122,Private-Operator-1,Solapur,17.638548,75.903552,DC Fast,CCS,3,26-07-2025 02:17,26-07-2025 03:16,59,51.73,787.33,Commercial,Two-wheeler,Wallet,Rain,Saturday,15.22
+MS_S_00082,MS-5634,Private-Operator-2,Mumbai,19.045318,72.903254,DC Fast,CHAdeMO,2,24-07-2025 18:37,24-07-2025 19:29,52,17.58,364.43,Private,Two-wheeler,Subscription,Sunny,Thursday,20.73
+MS_S_00083,MS-6446,Private-Operator-1,Aurangabad,19.899786,75.34465,AC Slow,Bharat DC-001,2,30-06-2025 10:55,30-06-2025 12:13,78,8.28,111.03,Private,Two-wheeler,Card,Cool,Monday,13.41
+MS_S_00084,MS-1715,Reliance BP,Solapur,17.672808,75.933773,AC Slow,Bharat DC-001,2,16-07-2025 12:24,16-07-2025 15:43,199,13.27,143.58,Private,Two-wheeler,UPI,Rain,Wednesday,10.82
+MS_S_00085,MS-9229,Private-Operator-1,Nagpur,21.166968,79.053025,DC Fast,CHAdeMO,1,26-07-2025 03:55,26-07-2025 04:33,38,12.5,152.38,Commercial,Two-wheeler,Card,Sunny,Saturday,12.19
+MS_S_00086,MS-3529,Tata Power,Solapur,17.689947,75.907882,AC Slow,Bharat DC-001,1,21-07-2025 08:21,21-07-2025 11:30,189,13.66,142.61,Private,Four-wheeler,Subscription,Cloudy,Monday,10.44
+MS_S_00087,MS-8994,Private-Operator-1,Aurangabad,19.842132,75.342189,AC Slow,Type-2,2,10-07-2025 02:15,10-07-2025 05:26,191,13.07,191.48,Commercial,Four-wheeler,UPI,Cloudy,Thursday,14.65
+MS_S_00088,MS-2612,Private-Operator-2,Solapur,17.633811,75.919793,AC Slow,Type-2,4,29-06-2025 05:44,29-06-2025 07:30,106,7.9,81.37,Private,Two-wheeler,UPI,Hot,Sunday,10.3
+MS_S_00089,MS-6873,Reliance BP,Thane,19.225632,72.959302,AC Slow,Bharat DC-001,1,10-06-2025 07:33,10-06-2025 09:48,135,2.79,25.28,Private,Two-wheeler,UPI,Cloudy,Tuesday,9.06
+MS_S_00090,MS-7267,Private-Operator-1,Latur,18.389285,76.570681,AC Slow,CCS,1,02-07-2025 18:09,02-07-2025 19:38,89,13.56,153.5,Commercial,Two-wheeler,UPI,Sunny,Wednesday,11.32
+MS_S_00091,MS-5712,Private-Operator-2,Kolhapur,16.702859,74.222595,AC Slow,CCS,1,05-06-2025 14:22,05-06-2025 17:22,180,3.37,33.53,Commercial,Three-wheeler,Subscription,Sunny,Thursday,9.95
+MS_S_00092,MS-4263,AtherGrid,Thane,19.204305,72.98238,AC Slow,Bharat DC-001,1,07-06-2025 07:24,07-06-2025 10:20,176,8.05,103.28,Commercial,Four-wheeler,Wallet,Sunny,Saturday,12.83
+MS_S_00093,MS-7484,Reliance BP,Mumbai,19.088283,72.89285,DC Fast,Type-2,3,07-07-2025 21:49,07-07-2025 22:46,57,8.36,130.42,Commercial,Four-wheeler,Wallet,Cool,Monday,15.6
+MS_S_00094,MS-6772,MSEDCL,Nashik,19.967196,73.817137,AC Slow,CCS,1,10-07-2025 08:43,10-07-2025 12:26,223,6.19,70.5,Private,Three-wheeler,UPI,Rain,Thursday,11.39
+MS_S_00095,MS-8222,Tata Power,Thane,19.229831,72.984325,AC Slow,CHAdeMO,2,17-07-2025 04:05,17-07-2025 05:50,105,1.51,14.75,Commercial,Two-wheeler,Card,Sunny,Thursday,9.77
+MS_S_00096,MS-6994,Private-Operator-1,Amravati,20.905271,77.783069,AC Slow,CHAdeMO,2,24-07-2025 05:16,24-07-2025 07:49,153,2.5,27.83,Commercial,Three-wheeler,Wallet,Cool,Thursday,11.13
+MS_S_00097,MS-8673,Tata Power,Pune,18.507469,73.835069,AC Slow,CCS,1,19-07-2025 07:55,19-07-2025 11:18,203,1.28,13.12,Commercial,Four-wheeler,Wallet,Rain,Saturday,10.25
+MS_S_00098,MS-7464,Tata Power,Pune,18.520241,73.886299,AC Slow,CHAdeMO,3,05-07-2025 03:29,05-07-2025 05:33,124,9.31,118.7,Commercial,Two-wheeler,Wallet,Cloudy,Saturday,12.75
+MS_S_00099,MS-4830,AtherGrid,Pune,18.499655,73.852893,AC Slow,Type-2,2,10-07-2025 17:20,10-07-2025 20:26,186,9.22,121.89,Private,Three-wheeler,Subscription,Sunny,Thursday,13.22
+MS_S_00100,MS-7689,Tata Power,Thane,19.190329,72.989359,AC Slow,CCS,1,03-06-2025 01:19,03-06-2025 03:55,156,10.04,120.48,Private,Four-wheeler,Card,Sunny,Tuesday,12
+MS_S_00101,MS-8432,Reliance BP,Solapur,17.648052,75.88912,AC Slow,Bharat DC-001,1,08-07-2025 23:46,09-07-2025 00:55,69,4.44,40.49,Private,Four-wheeler,Subscription,Hot,Tuesday,9.12
+MS_S_00102,MS-1536,Private-Operator-2,Thane,19.223709,72.977095,AC Slow,CHAdeMO,3,14-06-2025 14:28,14-06-2025 15:58,90,2.12,24.74,Private,Four-wheeler,Wallet,Hot,Saturday,11.67
+MS_S_00103,MS-6876,Tata Power,Amravati,20.925865,77.794108,AC Slow,Bharat DC-001,1,18-06-2025 06:07,18-06-2025 10:07,240,14.57,204.85,Private,Three-wheeler,UPI,Sunny,Wednesday,14.06
+MS_S_00104,MS-6464,MSEDCL,Mumbai,19.042612,72.888567,AC Slow,CCS,2,21-07-2025 18:13,21-07-2025 19:00,47,14.01,166.72,Private,Two-wheeler,Card,Hot,Monday,11.9
+MS_S_00105,MS-3417,Private-Operator-1,Aurangabad,19.843649,75.344262,DC Fast,Type-2,1,18-06-2025 04:08,18-06-2025 04:52,44,22.8,399.68,Private,Two-wheeler,UPI,Sunny,Wednesday,17.53
+MS_S_00106,MS-1243,Reliance BP,Nagpur,21.144478,79.06398,AC Slow,CCS,2,08-07-2025 10:01,08-07-2025 11:15,74,5.04,60.83,Private,Three-wheeler,UPI,Sunny,Tuesday,12.07
+MS_S_00107,MS-8802,AtherGrid,Pune,18.540526,73.845162,AC Slow,CHAdeMO,1,03-07-2025 18:06,03-07-2025 20:31,145,5.71,51.05,Private,Three-wheeler,Wallet,Cloudy,Thursday,8.94
+MS_S_00108,MS-1510,Tata Power,Kolhapur,16.655567,74.227362,AC Slow,Bharat DC-001,2,25-07-2025 12:27,25-07-2025 15:52,205,11.64,141.66,Commercial,Two-wheeler,UPI,Sunny,Friday,12.17
+MS_S_00109,MS-3430,Tata Power,Aurangabad,19.883623,75.33122,AC Slow,CCS,3,18-06-2025 19:40,18-06-2025 22:39,179,12.63,186.42,Commercial,Two-wheeler,Wallet,Cloudy,Wednesday,14.76
+MS_S_00110,MS-9282,Private-Operator-1,Kolhapur,16.728356,74.248388,DC Fast,Bharat DC-001,1,07-06-2025 22:07,07-06-2025 22:58,51,8.66,187.32,Private,Two-wheeler,Card,Cloudy,Saturday,21.63
+MS_S_00111,MS-6553,AtherGrid,Solapur,17.667789,75.89798,AC Slow,Bharat DC-001,2,27-06-2025 23:06,28-06-2025 00:56,110,3.82,34.95,Commercial,Two-wheeler,Card,Sunny,Friday,9.15
+MS_S_00112,MS-2099,Tata Power,Kolhapur,16.729024,74.235138,DC Fast,Type-2,2,06-06-2025 13:06,06-06-2025 14:03,57,24.74,578.92,Private,Two-wheeler,Wallet,Rain,Friday,23.4
+MS_S_00113,MS-7730,Reliance BP,Pune,18.520768,73.890229,AC Slow,Bharat DC-001,1,26-07-2025 23:03,27-07-2025 00:46,103,7.48,75.62,Commercial,Two-wheeler,Card,Cloudy,Saturday,10.11
+MS_S_00114,MS-8900,MSEDCL,Nagpur,21.150512,79.103617,AC Slow,Type-2,3,23-06-2025 17:23,23-06-2025 18:22,59,6.37,75.17,Private,Four-wheeler,UPI,Rain,Monday,11.8
+MS_S_00115,MS-5381,Tata Power,Latur,18.41577,76.552294,AC Slow,CCS,3,18-06-2025 22:48,19-06-2025 00:37,109,9.79,101.23,Commercial,Two-wheeler,Card,Hot,Wednesday,10.34
+MS_S_00116,MS-7566,Tata Power,Latur,18.399813,76.543603,AC Slow,CCS,2,18-07-2025 20:01,18-07-2025 20:54,53,13.51,182.66,Private,Two-wheeler,Subscription,Rain,Friday,13.52
+MS_S_00117,MS-3578,Reliance BP,Aurangabad,19.88578,75.349973,AC Slow,CHAdeMO,2,17-07-2025 10:49,17-07-2025 13:44,175,1.47,17.63,Private,Two-wheeler,UPI,Cloudy,Thursday,11.99
+MS_S_00118,MS-5458,AtherGrid,Pune,18.515003,73.837125,AC Slow,Bharat DC-001,3,02-07-2025 19:28,02-07-2025 21:44,136,2.55,35.52,Private,Two-wheeler,UPI,Sunny,Wednesday,13.93
+MS_S_00119,MS-8972,Private-Operator-1,Thane,19.235692,73.005213,DC Fast,CHAdeMO,1,03-06-2025 07:25,03-06-2025 08:13,48,17.61,376.68,Private,Two-wheeler,Card,Sunny,Tuesday,21.39
+MS_S_00120,MS-5186,Reliance BP,Nagpur,21.110226,79.118121,DC Fast,CHAdeMO,2,08-06-2025 00:31,08-06-2025 01:28,57,18.85,310.84,Private,Two-wheeler,Card,Sunny,Sunday,16.49
+MS_S_00121,MS-6802,Tata Power,Amravati,20.986315,77.781584,AC Slow,Bharat DC-001,3,26-07-2025 23:02,27-07-2025 01:23,141,3.15,38.11,Private,Four-wheeler,Subscription,Sunny,Saturday,12.1
+MS_S_00122,MS-7626,Private-Operator-2,Latur,18.41862,76.565078,AC Slow,Bharat DC-001,3,19-06-2025 03:25,19-06-2025 04:00,35,14.05,168.04,Private,Four-wheeler,Subscription,Cool,Thursday,11.96
+MS_S_00123,MS-2443,AtherGrid,Aurangabad,19.908064,75.333076,DC Fast,Type-2,1,16-06-2025 13:37,16-06-2025 14:12,35,36.7,729.96,Commercial,Four-wheeler,Wallet,Cloudy,Monday,19.89
+MS_S_00124,MS-6456,MSEDCL,Nashik,19.998614,73.811684,DC Fast,Type-2,3,03-07-2025 20:07,03-07-2025 20:50,43,29.8,401.41,Commercial,Two-wheeler,Card,Cloudy,Thursday,13.47
+MS_S_00125,MS-2684,MSEDCL,Nashik,19.977258,73.756703,AC Slow,CHAdeMO,1,13-06-2025 05:38,13-06-2025 06:47,69,1.77,18.32,Private,Two-wheeler,Subscription,Rain,Friday,10.35
+MS_S_00126,MS-8354,Private-Operator-2,Kolhapur,16.698284,74.27668,AC Slow,CHAdeMO,3,26-07-2025 20:20,26-07-2025 21:28,68,5.85,61.02,Commercial,Two-wheeler,Wallet,Sunny,Saturday,10.43
+MS_S_00127,MS-1920,Reliance BP,Thane,19.164362,72.977014,AC Slow,Type-2,1,20-06-2025 14:28,20-06-2025 15:07,39,2.97,27.41,Commercial,Two-wheeler,UPI,Sunny,Friday,9.23
+MS_S_00128,MS-9307,AtherGrid,Latur,18.403622,76.538469,DC Fast,Bharat DC-001,1,08-07-2025 17:50,08-07-2025 18:47,57,36.93,746.72,Commercial,Four-wheeler,Card,Hot,Tuesday,20.22
+MS_S_00129,MS-8792,Private-Operator-1,Aurangabad,19.876479,75.342817,AC Slow,CCS,4,04-06-2025 14:06,04-06-2025 18:03,237,8.03,97.73,Commercial,Four-wheeler,UPI,Hot,Wednesday,12.17
+MS_S_00130,MS-3827,Tata Power,Amravati,20.936745,77.768132,AC Slow,CCS,3,16-07-2025 14:28,16-07-2025 17:12,164,3.87,36.11,Private,Two-wheeler,Wallet,Cloudy,Wednesday,9.33
+MS_S_00131,MS-7697,Reliance BP,Solapur,17.606881,75.92823,AC Slow,Type-2,1,21-07-2025 20:41,21-07-2025 22:36,115,11.86,132.48,Private,Two-wheeler,Subscription,Sunny,Monday,11.17
+MS_S_00132,MS-5128,Private-Operator-2,Thane,19.19015,72.962544,AC Slow,CCS,2,22-06-2025 02:37,22-06-2025 05:56,199,3.17,29.39,Commercial,Two-wheeler,Subscription,Sunny,Sunday,9.27
+MS_S_00133,MS-2388,Reliance BP,Nagpur,21.164514,79.113631,AC Slow,Bharat DC-001,1,12-07-2025 10:52,12-07-2025 11:54,62,1.36,12.36,Private,Three-wheeler,Subscription,Cloudy,Saturday,9.09
+MS_S_00134,MS-6928,Tata Power,Amravati,20.92691,77.788787,AC Slow,CHAdeMO,1,20-06-2025 05:13,20-06-2025 07:10,117,4.24,53.85,Commercial,Two-wheeler,Card,Hot,Friday,12.7
+MS_S_00135,MS-2264,Reliance BP,Nagpur,21.160019,79.097085,DC Fast,Type-2,1,03-07-2025 17:53,03-07-2025 18:50,57,10.47,158.73,Private,Three-wheeler,Card,Hot,Thursday,15.16
+MS_S_00136,MS-7172,MSEDCL,Latur,18.420862,76.554409,DC Fast,CCS,1,12-06-2025 22:49,12-06-2025 23:38,49,41.74,611.91,Private,Three-wheeler,UPI,Hot,Thursday,14.66
+MS_S_00137,MS-6968,Private-Operator-2,Solapur,17.666423,75.881378,AC Slow,CCS,1,29-06-2025 19:18,29-06-2025 23:00,222,3.91,32.02,Commercial,Two-wheeler,Card,Rain,Sunday,8.19
+MS_S_00138,MS-8684,MSEDCL,Thane,19.204213,72.949931,AC Slow,CHAdeMO,3,14-07-2025 18:28,14-07-2025 20:56,148,12.44,129.25,Commercial,Two-wheeler,Subscription,Rain,Monday,10.39
+MS_S_00139,MS-4271,Private-Operator-1,Nagpur,21.104161,79.122129,AC Slow,CCS,1,26-07-2025 08:03,26-07-2025 11:17,194,9.74,105.87,Commercial,Two-wheeler,UPI,Sunny,Saturday,10.87
+MS_S_00140,MS-3042,Reliance BP,Amravati,20.936647,77.801066,AC Slow,Type-2,3,19-07-2025 05:17,19-07-2025 07:42,145,11.69,104.98,Private,Four-wheeler,UPI,Hot,Saturday,8.98
+MS_S_00141,MS-8391,Reliance BP,Nashik,20.003656,73.755597,DC Fast,Type-2,2,27-06-2025 01:25,27-06-2025 02:07,42,28.39,348.91,Commercial,Four-wheeler,Wallet,Sunny,Friday,12.29
+MS_S_00142,MS-1461,Reliance BP,Nashik,19.997869,73.796752,AC Slow,Type-2,1,24-07-2025 22:41,25-07-2025 00:36,115,2.95,40.83,Private,Two-wheeler,Subscription,Rain,Thursday,13.84
+MS_S_00143,MS-8685,AtherGrid,Nagpur,21.149717,79.068633,AC Slow,Type-2,1,28-07-2025 02:01,28-07-2025 03:36,95,1.26,18.14,Private,Two-wheeler,Subscription,Sunny,Monday,14.4
+MS_S_00144,MS-5720,MSEDCL,Pune,18.525521,73.876354,AC Slow,CHAdeMO,2,08-06-2025 01:15,08-06-2025 03:32,137,10.12,139.76,Commercial,Two-wheeler,Subscription,Cloudy,Sunday,13.81
+MS_S_00145,MS-9782,Tata Power,Latur,18.372183,76.535008,AC Slow,CCS,2,16-07-2025 04:18,16-07-2025 06:37,139,3.46,49.82,Commercial,Two-wheeler,Subscription,Sunny,Wednesday,14.4
+MS_S_00146,MS-2402,Private-Operator-1,Nagpur,21.149535,79.073092,AC Slow,CHAdeMO,1,05-06-2025 16:34,05-06-2025 19:13,159,3.33,43.86,Private,Two-wheeler,Subscription,Rain,Thursday,13.17
+MS_S_00147,MS-7338,Reliance BP,Mumbai,19.056483,72.898773,AC Slow,CHAdeMO,1,18-07-2025 00:22,18-07-2025 04:13,231,5.04,52.87,Private,Three-wheeler,UPI,Sunny,Friday,10.49
+MS_S_00148,MS-6447,MSEDCL,Latur,18.391833,76.574606,AC Slow,Type-2,1,23-06-2025 17:21,23-06-2025 21:19,238,10.29,149.82,Commercial,Four-wheeler,Subscription,Cloudy,Monday,14.56
+MS_S_00149,MS-3209,Tata Power,Nagpur,21.197002,79.086279,AC Slow,Bharat DC-001,1,03-06-2025 09:12,03-06-2025 09:53,41,9.33,78,Private,Two-wheeler,Wallet,Rain,Tuesday,8.36
+MS_S_00150,MS-7524,Private-Operator-1,Amravati,20.9367,77.814416,AC Slow,Bharat DC-001,2,17-06-2025 01:48,17-06-2025 05:03,195,2.49,21.24,Commercial,Four-wheeler,UPI,Sunny,Tuesday,8.53
+MS_S_00151,MS-5476,Tata Power,Aurangabad,19.888848,75.362751,DC Fast,CHAdeMO,1,28-06-2025 12:47,28-06-2025 13:25,38,18.55,420.16,Commercial,Two-wheeler,Card,Hot,Saturday,22.65
+MS_S_00152,MS-9151,Reliance BP,Kolhapur,16.703511,74.255713,AC Slow,CHAdeMO,2,22-07-2025 02:46,22-07-2025 05:04,138,6.05,52.27,Private,Two-wheeler,Wallet,Sunny,Tuesday,8.64
+MS_S_00153,MS-2311,Reliance BP,Pune,18.531596,73.878316,AC Slow,CHAdeMO,2,20-06-2025 14:38,20-06-2025 18:11,213,13.22,173.58,Commercial,Two-wheeler,UPI,Sunny,Friday,13.13
+MS_S_00154,MS-8126,Reliance BP,Aurangabad,19.884792,75.347454,DC Fast,Type-2,3,05-06-2025 21:40,05-06-2025 22:15,35,18.73,343.88,Private,Four-wheeler,Card,Sunny,Thursday,18.36
+MS_S_00155,MS-8179,Tata Power,Latur,18.387379,76.581663,AC Slow,CCS,2,05-06-2025 07:49,05-06-2025 11:04,195,13.82,113.88,Commercial,Four-wheeler,UPI,Sunny,Thursday,8.24
+MS_S_00156,MS-3513,Private-Operator-2,Latur,18.409566,76.561195,DC Fast,Bharat DC-001,4,24-06-2025 11:28,24-06-2025 12:26,58,56.93,1033.85,Private,Two-wheeler,Subscription,Sunny,Tuesday,18.16
+MS_S_00157,MS-5566,MSEDCL,Aurangabad,19.86751,75.337117,AC Slow,Type-2,3,02-06-2025 23:11,03-06-2025 01:48,157,1.52,18.5,Private,Two-wheeler,Wallet,Cloudy,Monday,12.17
+MS_S_00158,MS-4515,Private-Operator-1,Kolhapur,16.701263,74.234505,AC Slow,CHAdeMO,2,15-07-2025 15:12,15-07-2025 16:13,61,5.76,75.28,Private,Two-wheeler,Subscription,Sunny,Tuesday,13.07
+MS_S_00159,MS-6236,Private-Operator-2,Pune,18.525741,73.874493,AC Slow,CHAdeMO,2,16-07-2025 02:35,16-07-2025 05:23,168,5.46,67.59,Commercial,Four-wheeler,Card,Sunny,Wednesday,12.38
+MS_S_00160,MS-9335,MSEDCL,Aurangabad,19.877846,75.36461,AC Slow,Type-2,1,13-06-2025 04:15,13-06-2025 08:07,232,13.18,107.42,Commercial,Two-wheeler,Wallet,Sunny,Friday,8.15
+MS_S_00161,MS-3126,Private-Operator-1,Kolhapur,16.694654,74.271487,DC Fast,Type-2,2,05-06-2025 09:25,05-06-2025 10:20,55,59.89,991.78,Commercial,Four-wheeler,UPI,Rain,Thursday,16.56
+MS_S_00162,MS-6194,Private-Operator-2,Nagpur,21.13689,79.117268,AC Slow,Type-2,2,29-06-2025 14:43,29-06-2025 17:25,162,13.23,196.99,Private,Four-wheeler,Card,Sunny,Sunday,14.89
+MS_S_00163,MS-9238,Tata Power,Solapur,17.633011,75.888027,AC Slow,Type-2,2,04-07-2025 04:19,04-07-2025 05:31,72,4.34,38.06,Private,Two-wheeler,Wallet,Sunny,Friday,8.77
+MS_S_00164,MS-5105,MSEDCL,Pune,18.519706,73.861384,AC Slow,CHAdeMO,1,09-06-2025 20:19,09-06-2025 23:26,187,1.59,12.93,Private,Two-wheeler,Card,Cloudy,Monday,8.13
+MS_S_00165,MS-6531,Private-Operator-1,Nagpur,21.165486,79.08392,AC Slow,Type-2,2,23-07-2025 00:05,23-07-2025 00:46,41,4.06,59.48,Commercial,Three-wheeler,Subscription,Hot,Wednesday,14.65
+MS_S_00166,MS-1496,AtherGrid,Latur,18.412329,76.570449,DC Fast,CHAdeMO,1,12-07-2025 09:30,12-07-2025 09:55,25,38.74,548.95,Commercial,Two-wheeler,UPI,Hot,Saturday,14.17
+MS_S_00167,MS-3589,AtherGrid,Mumbai,19.063537,72.86659,AC Slow,Bharat DC-001,2,01-07-2025 14:13,01-07-2025 16:10,117,4.23,39.09,Commercial,Four-wheeler,Wallet,Cloudy,Tuesday,9.24
+MS_S_00168,MS-7532,MSEDCL,Aurangabad,19.90461,75.331885,DC Fast,CHAdeMO,1,03-07-2025 17:06,03-07-2025 17:36,30,8.18,201.23,Private,Two-wheeler,Card,Sunny,Thursday,24.6
+MS_S_00169,MS-2586,Tata Power,Nagpur,21.149858,79.057885,DC Fast,CHAdeMO,1,25-06-2025 19:26,25-06-2025 19:51,25,49.87,744.06,Private,Four-wheeler,Wallet,Cool,Wednesday,14.92
+MS_S_00170,MS-3610,AtherGrid,Nashik,19.985244,73.782046,AC Slow,Bharat DC-001,2,02-07-2025 09:31,02-07-2025 10:06,35,2.28,32.24,Commercial,Two-wheeler,Card,Sunny,Wednesday,14.14
+MS_S_00171,MS-6781,Tata Power,Nashik,20.010671,73.830004,DC Fast,Type-2,4,19-06-2025 15:38,19-06-2025 16:29,51,52.42,1180.5,Commercial,Two-wheeler,UPI,Cloudy,Thursday,22.52
+MS_S_00172,MS-3194,Reliance BP,Solapur,17.659237,75.942291,AC Slow,CHAdeMO,1,19-07-2025 12:23,19-07-2025 13:04,41,6.22,61.08,Private,Two-wheeler,Wallet,Sunny,Saturday,9.82
+MS_S_00173,MS-7329,Private-Operator-1,Pune,18.520072,73.880468,AC Slow,Bharat DC-001,1,19-07-2025 17:17,19-07-2025 20:26,189,10.57,90.16,Private,Two-wheeler,UPI,Cloudy,Saturday,8.53
+MS_S_00174,MS-7114,Reliance BP,Solapur,17.673538,75.943334,AC Slow,CHAdeMO,2,19-07-2025 04:12,19-07-2025 07:16,184,12.55,130.9,Private,Two-wheeler,Card,Cloudy,Saturday,10.43
+MS_S_00175,MS-8761,Private-Operator-1,Aurangabad,19.89261,75.353445,AC Slow,Bharat DC-001,3,10-06-2025 19:57,10-06-2025 22:38,161,12.16,153.34,Commercial,Two-wheeler,Wallet,Sunny,Tuesday,12.61
+MS_S_00176,MS-6511,Private-Operator-1,Latur,18.405658,76.563534,DC Fast,Bharat DC-001,2,16-07-2025 18:19,16-07-2025 18:59,40,39.02,850.25,Commercial,Two-wheeler,UPI,Hot,Wednesday,21.79
+MS_S_00177,MS-6040,Private-Operator-2,Solapur,17.660475,75.931969,AC Slow,Type-2,2,09-07-2025 15:16,09-07-2025 18:33,197,3.25,44.62,Private,Three-wheeler,Subscription,Rain,Wednesday,13.73
+MS_S_00178,MS-9589,Private-Operator-2,Nagpur,21.118603,79.103125,AC Slow,Bharat DC-001,1,10-06-2025 21:15,10-06-2025 21:53,38,9.64,143.35,Private,Two-wheeler,Subscription,Cloudy,Tuesday,14.87
+MS_S_00179,MS-7861,MSEDCL,Aurangabad,19.881188,75.374849,AC Slow,Bharat DC-001,2,15-07-2025 06:26,15-07-2025 09:04,158,11.92,104.3,Commercial,Four-wheeler,UPI,Rain,Tuesday,8.75
+MS_S_00180,MS-9498,MSEDCL,Nagpur,21.136871,79.092082,DC Fast,CHAdeMO,1,13-07-2025 15:33,13-07-2025 16:07,34,39.79,959.73,Private,Two-wheeler,Wallet,Sunny,Sunday,24.12
+MS_S_00181,MS-6804,Private-Operator-2,Amravati,20.961301,77.748536,AC Slow,CHAdeMO,2,10-07-2025 15:12,10-07-2025 16:45,93,1.94,23.44,Commercial,Two-wheeler,Wallet,Sunny,Thursday,12.08
+MS_S_00182,MS-4396,Private-Operator-2,Thane,19.207122,72.985644,AC Slow,Bharat DC-001,3,21-06-2025 15:22,21-06-2025 18:15,173,14.63,216.23,Commercial,Two-wheeler,Subscription,Hot,Saturday,14.78
+MS_S_00183,MS-6654,MSEDCL,Solapur,17.69121,75.905085,DC Fast,CHAdeMO,1,03-06-2025 09:45,03-06-2025 10:00,15,6.22,100.83,Commercial,Three-wheeler,Subscription,Sunny,Tuesday,16.21
+MS_S_00184,MS-4310,Private-Operator-1,Nashik,19.96854,73.745824,DC Fast,CHAdeMO,1,30-07-2025 17:44,30-07-2025 18:11,27,20.05,500.45,Private,Two-wheeler,Card,Sunny,Wednesday,24.96
+MS_S_00185,MS-1860,Tata Power,Nashik,20.002376,73.778518,AC Slow,Bharat DC-001,2,22-06-2025 22:30,22-06-2025 23:25,55,10.71,102.28,Private,Two-wheeler,Card,Cloudy,Sunday,9.55
+MS_S_00186,MS-8793,AtherGrid,Solapur,17.672904,75.904416,DC Fast,CCS,1,19-07-2025 09:20,19-07-2025 09:48,28,57.3,799.91,Private,Three-wheeler,Card,Cloudy,Saturday,13.96
+MS_S_00187,MS-1611,MSEDCL,Amravati,20.936488,77.783867,AC Slow,Bharat DC-001,2,27-07-2025 05:59,27-07-2025 06:38,39,6.57,65.17,Commercial,Four-wheeler,Card,Cool,Sunday,9.92
+MS_S_00188,MS-1613,Tata Power,Thane,19.193269,73.006975,DC Fast,CHAdeMO,1,07-07-2025 19:06,07-07-2025 19:37,31,16.72,207.33,Commercial,Four-wheeler,Card,Sunny,Monday,12.4
+MS_S_00189,MS-8668,Reliance BP,Amravati,20.944255,77.788135,DC Fast,CCS,1,22-07-2025 03:21,22-07-2025 03:41,20,58.25,839.38,Commercial,Three-wheeler,UPI,Rain,Tuesday,14.41
+MS_S_00190,MS-5833,Private-Operator-1,Aurangabad,19.88013,75.35748,DC Fast,CCS,3,12-06-2025 19:54,12-06-2025 20:44,50,46.86,943.76,Commercial,Two-wheeler,UPI,Hot,Thursday,20.14
+MS_S_00191,MS-2562,MSEDCL,Solapur,17.646372,75.942419,DC Fast,CCS,1,01-07-2025 10:59,01-07-2025 11:24,25,11.45,156.06,Commercial,Two-wheeler,Wallet,Sunny,Tuesday,13.63
+MS_S_00192,MS-5947,Private-Operator-1,Aurangabad,19.893013,75.330248,AC Slow,Type-2,1,17-06-2025 20:23,17-06-2025 23:50,207,1.9,22.93,Private,Two-wheeler,Card,Sunny,Tuesday,12.07
+MS_S_00193,MS-9233,Private-Operator-2,Solapur,17.650854,75.857922,AC Slow,CHAdeMO,1,15-07-2025 03:40,15-07-2025 05:25,105,1.16,9.87,Private,Two-wheeler,Card,Sunny,Tuesday,8.51
+MS_S_00194,MS-3509,AtherGrid,Kolhapur,16.68566,74.242346,AC Slow,CHAdeMO,1,27-06-2025 22:35,28-06-2025 01:05,150,10.73,150.43,Private,Four-wheeler,UPI,Rain,Friday,14.02
+MS_S_00195,MS-8319,Private-Operator-1,Amravati,20.967468,77.796547,AC Slow,CHAdeMO,4,05-06-2025 18:07,05-06-2025 18:52,45,2.99,34.36,Private,Two-wheeler,Card,Hot,Thursday,11.49
+MS_S_00196,MS-6375,Private-Operator-1,Nagpur,21.140856,79.07456,AC Slow,Bharat DC-001,1,08-06-2025 21:13,09-06-2025 00:46,213,5.57,64.72,Private,Four-wheeler,Subscription,Cloudy,Sunday,11.62
+MS_S_00197,MS-8429,MSEDCL,Mumbai,19.111954,72.890517,AC Slow,Bharat DC-001,1,30-06-2025 18:03,30-06-2025 20:56,173,6.56,58.58,Commercial,Three-wheeler,Subscription,Sunny,Monday,8.93
+MS_S_00198,MS-1049,Private-Operator-2,Thane,19.246287,72.996593,DC Fast,CCS,1,08-07-2025 02:02,08-07-2025 02:39,37,14.21,189.85,Private,Two-wheeler,UPI,Sunny,Tuesday,13.36
+MS_S_00199,MS-8734,Tata Power,Pune,18.534364,73.86457,AC Slow,CHAdeMO,3,27-06-2025 05:49,27-06-2025 06:53,64,1.73,20.4,Commercial,Two-wheeler,Subscription,Rain,Friday,11.79
+MS_S_00200,MS-7184,AtherGrid,Kolhapur,16.731348,74.247252,DC Fast,Type-2,3,14-07-2025 21:55,14-07-2025 22:39,44,23.67,534.71,Commercial,Two-wheeler,Subscription,Sunny,Monday,22.59
+MS_S_00201,MS-3086,Private-Operator-2,Amravati,20.924372,77.769322,AC Slow,CCS,2,24-07-2025 00:48,24-07-2025 01:23,35,8.37,109.81,Commercial,Three-wheeler,Subscription,Cool,Thursday,13.12
+MS_S_00202,MS-7214,MSEDCL,Amravati,20.947857,77.767526,DC Fast,CCS,1,30-06-2025 11:09,30-06-2025 11:36,27,58.67,961.01,Private,Two-wheeler,Subscription,Sunny,Monday,16.38
+MS_S_00203,MS-1256,MSEDCL,Latur,18.40976,76.563001,DC Fast,CCS,1,05-06-2025 03:38,05-06-2025 03:50,12,35.54,758.78,Private,Two-wheeler,UPI,Sunny,Thursday,21.35
+MS_S_00204,MS-8191,MSEDCL,Solapur,17.654752,75.873028,AC Slow,CCS,2,19-07-2025 01:08,19-07-2025 03:46,158,2.01,16.5,Private,Four-wheeler,Wallet,Cool,Saturday,8.21
+MS_S_00205,MS-6253,MSEDCL,Latur,18.384485,76.531313,DC Fast,CHAdeMO,2,27-07-2025 04:42,27-07-2025 05:25,43,45.85,803.75,Commercial,Two-wheeler,Card,Sunny,Sunday,17.53
+MS_S_00206,MS-9120,Tata Power,Solapur,17.693579,75.897222,DC Fast,CHAdeMO,1,12-07-2025 21:24,12-07-2025 22:24,60,52.69,1028.51,Commercial,Two-wheeler,Wallet,Cloudy,Saturday,19.52
+MS_S_00207,MS-4012,Private-Operator-1,Solapur,17.672946,75.874872,AC Slow,Bharat DC-001,3,16-06-2025 07:19,16-06-2025 10:50,211,13.61,149.03,Commercial,Four-wheeler,Subscription,Sunny,Monday,10.95
+MS_S_00208,MS-9683,MSEDCL,Solapur,17.647389,75.914316,DC Fast,Bharat DC-001,1,16-06-2025 08:13,16-06-2025 08:44,31,39.26,793.44,Commercial,Four-wheeler,UPI,Cloudy,Monday,20.21
+MS_S_00209,MS-4120,Tata Power,Amravati,20.936889,77.802455,DC Fast,CHAdeMO,3,25-06-2025 21:38,25-06-2025 22:26,48,14.88,224.54,Private,Two-wheeler,Card,Sunny,Wednesday,15.09
+MS_S_00210,MS-4422,Reliance BP,Kolhapur,16.727975,74.208506,AC Slow,CHAdeMO,3,29-07-2025 00:13,29-07-2025 01:31,78,7.23,83.87,Private,Three-wheeler,Subscription,Cool,Tuesday,11.6
+MS_S_00211,MS-4350,AtherGrid,Nashik,19.971606,73.813017,AC Slow,CCS,1,06-07-2025 10:49,06-07-2025 12:31,102,14.57,142.93,Commercial,Two-wheeler,Wallet,Sunny,Sunday,9.81
+MS_S_00212,MS-9147,AtherGrid,Amravati,20.938936,77.75334,DC Fast,Type-2,1,22-07-2025 23:30,23-07-2025 00:28,58,58.34,1044.29,Private,Two-wheeler,Subscription,Hot,Tuesday,17.9
+MS_S_00213,MS-4625,Private-Operator-2,Mumbai,19.106015,72.894704,AC Slow,CCS,3,02-06-2025 08:35,02-06-2025 11:34,179,7.03,68.47,Commercial,Two-wheeler,Card,Cloudy,Monday,9.74
+MS_S_00214,MS-4768,AtherGrid,Aurangabad,19.869767,75.384835,AC Slow,CCS,1,02-07-2025 17:41,02-07-2025 21:06,205,1.51,19.86,Commercial,Four-wheeler,Subscription,Sunny,Wednesday,13.15
+MS_S_00215,MS-3756,Private-Operator-2,Kolhapur,16.699819,74.239373,DC Fast,CHAdeMO,3,11-06-2025 04:46,11-06-2025 05:30,44,37.19,866.16,Private,Two-wheeler,UPI,Sunny,Wednesday,23.29
+MS_S_00216,MS-1104,AtherGrid,Mumbai,19.090653,72.876086,AC Slow,CCS,1,24-07-2025 20:14,24-07-2025 21:01,47,8.44,122.89,Private,Two-wheeler,Subscription,Rain,Thursday,14.56
+MS_S_00217,MS-1990,Private-Operator-1,Aurangabad,19.894527,75.35023,AC Slow,Bharat DC-001,2,13-07-2025 15:01,13-07-2025 15:32,31,1.58,14.28,Commercial,Two-wheeler,Wallet,Cloudy,Sunday,9.04
+MS_S_00218,MS-5697,Tata Power,Amravati,20.959564,77.758202,AC Slow,Bharat DC-001,2,22-07-2025 05:06,22-07-2025 06:00,54,7.84,99.33,Private,Two-wheeler,Wallet,Cloudy,Tuesday,12.67
+MS_S_00219,MS-5379,AtherGrid,Aurangabad,19.863725,75.381581,AC Slow,Type-2,2,24-06-2025 12:29,24-06-2025 15:23,174,14.58,126.26,Private,Two-wheeler,UPI,Sunny,Tuesday,8.66
+MS_S_00220,MS-2531,AtherGrid,Mumbai,19.079008,72.884999,DC Fast,Bharat DC-001,1,25-06-2025 17:30,25-06-2025 17:43,13,43.09,986.76,Private,Two-wheeler,Subscription,Cloudy,Wednesday,22.9
+MS_S_00221,MS-2562,Private-Operator-1,Aurangabad,19.898311,75.367041,AC Slow,Type-2,2,15-06-2025 06:57,15-06-2025 10:24,207,13.16,157.79,Commercial,Two-wheeler,UPI,Hot,Sunday,11.99
+MS_S_00222,MS-9897,Private-Operator-1,Thane,19.224353,72.963014,AC Slow,Type-2,2,12-06-2025 10:01,12-06-2025 11:24,83,6.51,81.77,Commercial,Four-wheeler,Wallet,Cloudy,Thursday,12.56
+MS_S_00223,MS-4939,Private-Operator-1,Nagpur,21.152227,79.096638,DC Fast,Bharat DC-001,1,14-07-2025 17:21,14-07-2025 17:55,34,58.74,1015.61,Private,Four-wheeler,UPI,Rain,Monday,17.29
+MS_S_00224,MS-6666,Tata Power,Amravati,20.961189,77.754448,AC Slow,Type-2,2,28-06-2025 07:53,28-06-2025 08:42,49,13.3,144.04,Commercial,Four-wheeler,Wallet,Sunny,Saturday,10.83
+MS_S_00225,MS-5478,AtherGrid,Mumbai,19.072999,72.880212,DC Fast,Bharat DC-001,2,15-06-2025 11:35,15-06-2025 12:09,34,48.88,863.22,Commercial,Two-wheeler,Wallet,Sunny,Sunday,17.66
+MS_S_00226,MS-2204,Tata Power,Nashik,20.02939,73.772861,AC Slow,CHAdeMO,1,10-06-2025 12:45,10-06-2025 16:35,230,5.54,58.56,Commercial,Two-wheeler,UPI,Cloudy,Tuesday,10.57
+MS_S_00227,MS-1085,Reliance BP,Pune,18.55324,73.876896,AC Slow,Bharat DC-001,1,24-06-2025 08:06,24-06-2025 09:09,63,4.33,45.94,Commercial,Two-wheeler,Subscription,Sunny,Tuesday,10.61
+MS_S_00228,MS-1430,Tata Power,Pune,18.470412,73.902519,AC Slow,CHAdeMO,1,06-07-2025 02:38,06-07-2025 05:41,183,6.32,88.73,Commercial,Two-wheeler,Subscription,Rain,Sunday,14.04
+MS_S_00229,MS-2387,Private-Operator-2,Solapur,17.680351,75.955195,AC Slow,CCS,1,07-07-2025 16:10,07-07-2025 19:35,205,6.32,68.19,Private,Two-wheeler,Wallet,Sunny,Monday,10.79
+MS_S_00230,MS-3390,Tata Power,Kolhapur,16.720179,74.248924,AC Slow,CCS,2,28-06-2025 08:26,28-06-2025 10:12,106,12.38,161.31,Private,Two-wheeler,Card,Sunny,Saturday,13.03
+MS_S_00231,MS-4203,AtherGrid,Kolhapur,16.689921,74.237686,AC Slow,Type-2,3,09-06-2025 09:00,09-06-2025 11:11,131,1.84,26.75,Commercial,Four-wheeler,Wallet,Sunny,Monday,14.54
+MS_S_00232,MS-6484,AtherGrid,Kolhapur,16.708598,74.27114,AC Slow,CCS,1,20-06-2025 10:38,20-06-2025 14:05,207,4.99,50.65,Commercial,Two-wheeler,Subscription,Sunny,Friday,10.15
+MS_S_00233,MS-5775,Private-Operator-2,Aurangabad,19.85655,75.338807,AC Slow,Bharat DC-001,2,07-07-2025 07:20,07-07-2025 09:26,126,11.03,109.31,Commercial,Two-wheeler,Card,Sunny,Monday,9.91
+MS_S_00234,MS-9939,MSEDCL,Latur,18.396973,76.566996,AC Slow,Type-2,2,17-07-2025 14:45,17-07-2025 16:08,83,3.54,41.35,Commercial,Four-wheeler,UPI,Sunny,Thursday,11.68
+MS_S_00235,MS-9180,MSEDCL,Solapur,17.664378,75.933683,AC Slow,CHAdeMO,1,16-06-2025 08:42,16-06-2025 09:51,69,14.48,164.78,Commercial,Two-wheeler,Subscription,Rain,Monday,11.38
+MS_S_00236,MS-7566,Private-Operator-1,Latur,18.409977,76.561412,AC Slow,Bharat DC-001,2,05-07-2025 01:50,05-07-2025 03:52,122,14.32,174.85,Private,Two-wheeler,Card,Rain,Saturday,12.21
+MS_S_00237,MS-3725,Private-Operator-2,Aurangabad,19.851323,75.329442,AC Slow,Type-2,1,07-07-2025 20:43,07-07-2025 23:58,195,9.55,103.9,Commercial,Four-wheeler,Subscription,Sunny,Monday,10.88
+MS_S_00238,MS-1172,Tata Power,Pune,18.50693,73.86228,DC Fast,CHAdeMO,1,15-06-2025 16:47,15-06-2025 17:30,43,50.24,879.7,Private,Two-wheeler,Subscription,Cloudy,Sunday,17.51
+MS_S_00239,MS-9199,MSEDCL,Kolhapur,16.717676,74.251576,AC Slow,CHAdeMO,1,02-06-2025 15:06,02-06-2025 16:51,105,9.21,84.55,Private,Two-wheeler,Card,Sunny,Monday,9.18
+MS_S_00240,MS-6110,Reliance BP,Aurangabad,19.895478,75.38751,AC Slow,Bharat DC-001,1,21-07-2025 06:33,21-07-2025 09:06,153,1.33,16.61,Private,Two-wheeler,Subscription,Sunny,Monday,12.49
+MS_S_00241,MS-2100,Reliance BP,Aurangabad,19.860127,75.376082,AC Slow,Type-2,1,22-07-2025 22:07,22-07-2025 22:42,35,9.32,106.99,Private,Three-wheeler,Card,Hot,Tuesday,11.48
+MS_S_00242,MS-9454,MSEDCL,Nashik,20.00888,73.822368,AC Slow,CCS,2,22-06-2025 17:27,22-06-2025 19:55,148,10.69,159.71,Commercial,Three-wheeler,Card,Sunny,Sunday,14.94
+MS_S_00243,MS-7481,Tata Power,Solapur,17.648266,75.886105,AC Slow,CCS,1,29-06-2025 18:27,29-06-2025 20:36,129,2.2,31.37,Private,Two-wheeler,UPI,Sunny,Sunday,14.26
+MS_S_00244,MS-2667,Private-Operator-1,Latur,18.413676,76.529482,AC Slow,CCS,1,24-06-2025 10:12,24-06-2025 12:39,147,1.97,22.91,Commercial,Two-wheeler,Wallet,Sunny,Tuesday,11.63
+MS_S_00245,MS-7367,Private-Operator-1,Latur,18.433553,76.536407,DC Fast,Bharat DC-001,2,08-07-2025 03:22,08-07-2025 03:54,32,34.31,556.51,Private,Four-wheeler,Wallet,Hot,Tuesday,16.22
+MS_S_00246,MS-2388,Private-Operator-2,Latur,18.3949,76.559485,DC Fast,CCS,2,21-06-2025 03:15,21-06-2025 03:44,29,35.68,767.12,Commercial,Three-wheeler,Subscription,Sunny,Saturday,21.5
+MS_S_00247,MS-3258,Private-Operator-1,Solapur,17.663287,75.878126,AC Slow,Bharat DC-001,4,28-06-2025 05:31,28-06-2025 08:43,192,3.45,44.26,Private,Two-wheeler,Subscription,Cloudy,Saturday,12.83
+MS_S_00248,MS-3298,MSEDCL,Thane,19.240126,72.990283,AC Slow,CHAdeMO,1,24-07-2025 14:39,24-07-2025 15:22,43,11.59,120.88,Private,Two-wheeler,Card,Hot,Thursday,10.43
+MS_S_00249,MS-9281,Private-Operator-2,Solapur,17.684162,75.909234,DC Fast,Bharat DC-001,1,27-06-2025 21:31,27-06-2025 22:07,36,26.96,376.9,Commercial,Two-wheeler,UPI,Rain,Friday,13.98
+MS_S_00250,MS-1505,MSEDCL,Latur,18.411671,76.557551,AC Slow,CHAdeMO,2,03-06-2025 08:14,03-06-2025 11:01,167,2.25,29.9,Commercial,Two-wheeler,Subscription,Sunny,Tuesday,13.29
+MS_S_00251,MS-9369,Tata Power,Amravati,20.92168,77.752375,DC Fast,Type-2,2,18-06-2025 17:52,18-06-2025 18:25,33,6.99,111.42,Private,Four-wheeler,Subscription,Cloudy,Wednesday,15.94
+MS_S_00252,MS-4580,AtherGrid,Amravati,20.915333,77.735942,AC Slow,Type-2,3,18-07-2025 20:48,18-07-2025 22:21,93,8.75,88.73,Private,Two-wheeler,Wallet,Sunny,Friday,10.14
+MS_S_00253,MS-8193,Tata Power,Pune,18.522037,73.854722,AC Slow,CCS,2,14-06-2025 23:37,15-06-2025 03:03,206,13.87,159.23,Commercial,Two-wheeler,Card,Sunny,Saturday,11.48
+MS_S_00254,MS-4390,Tata Power,Nashik,19.984138,73.809641,AC Slow,CHAdeMO,3,05-07-2025 08:38,05-07-2025 11:25,167,13.15,179.37,Commercial,Two-wheeler,Wallet,Sunny,Saturday,13.64
+MS_S_00255,MS-2560,MSEDCL,Amravati,20.937964,77.778818,AC Slow,Bharat DC-001,1,29-07-2025 01:17,29-07-2025 04:34,197,3.43,44.11,Private,Two-wheeler,Wallet,Sunny,Tuesday,12.86
+MS_S_00256,MS-7434,AtherGrid,Nashik,19.996999,73.806155,AC Slow,CCS,3,07-07-2025 20:17,07-07-2025 23:27,190,2.86,40.13,Commercial,Two-wheeler,UPI,Sunny,Monday,14.03
+MS_S_00257,MS-9447,Private-Operator-2,Solapur,17.638598,75.900296,AC Slow,CHAdeMO,2,15-07-2025 11:29,15-07-2025 14:03,154,3.45,39.74,Private,Four-wheeler,UPI,Sunny,Tuesday,11.52
+MS_S_00258,MS-6869,Tata Power,Kolhapur,16.706133,74.253894,AC Slow,Bharat DC-001,1,14-06-2025 13:52,14-06-2025 15:16,84,1.36,12.17,Commercial,Four-wheeler,Wallet,Sunny,Saturday,8.95
+MS_S_00259,MS-3139,Private-Operator-1,Amravati,20.918613,77.776118,DC Fast,Bharat DC-001,1,21-07-2025 10:57,21-07-2025 11:50,53,22.15,411.55,Private,Two-wheeler,Subscription,Rain,Monday,18.58
+MS_S_00260,MS-3035,MSEDCL,Mumbai,19.071731,72.907515,AC Slow,Bharat DC-001,1,30-06-2025 00:27,30-06-2025 01:48,81,9.67,121.36,Private,Four-wheeler,Wallet,Cool,Monday,12.55
+MS_S_00261,MS-5489,Tata Power,Nagpur,21.133532,79.082151,AC Slow,CHAdeMO,4,17-06-2025 02:23,17-06-2025 05:43,200,1.81,23.29,Private,Two-wheeler,Wallet,Hot,Tuesday,12.87
+MS_S_00262,MS-8032,Private-Operator-2,Nashik,20.006239,73.813613,DC Fast,Type-2,1,16-07-2025 03:00,16-07-2025 03:23,23,33.02,824.18,Private,Two-wheeler,Subscription,Sunny,Wednesday,24.96
+MS_S_00263,MS-1132,Private-Operator-2,Mumbai,19.048662,72.873205,AC Slow,CHAdeMO,2,23-07-2025 03:55,23-07-2025 06:13,138,8.38,92.01,Commercial,Two-wheeler,Subscription,Cloudy,Wednesday,10.98
+MS_S_00264,MS-2678,Tata Power,Pune,18.50887,73.804879,AC Slow,CHAdeMO,1,24-06-2025 09:08,24-06-2025 11:15,127,12.59,165.43,Private,Three-wheeler,Card,Rain,Tuesday,13.14
+MS_S_00265,MS-9691,Private-Operator-1,Pune,18.490822,73.860367,AC Slow,Type-2,1,10-07-2025 20:10,10-07-2025 22:32,142,11.64,104.29,Private,Three-wheeler,Card,Sunny,Thursday,8.96
+MS_S_00266,MS-8248,MSEDCL,Solapur,17.659594,75.917986,AC Slow,Type-2,1,28-07-2025 03:08,28-07-2025 06:50,222,14.66,199.52,Commercial,Two-wheeler,Subscription,Sunny,Monday,13.61
+MS_S_00267,MS-3290,MSEDCL,Aurangabad,19.875654,75.324635,AC Slow,CHAdeMO,2,12-07-2025 02:15,12-07-2025 05:06,171,7.36,102.38,Commercial,Four-wheeler,UPI,Cloudy,Saturday,13.91
+MS_S_00268,MS-4366,Private-Operator-1,Thane,19.190862,72.945829,AC Slow,CCS,1,18-07-2025 12:18,18-07-2025 15:33,195,11.32,128.26,Private,Two-wheeler,UPI,Sunny,Friday,11.33
+MS_S_00269,MS-9185,Private-Operator-2,Nashik,19.984119,73.810598,AC Slow,Type-2,2,04-07-2025 00:23,04-07-2025 02:14,111,13.49,198.17,Commercial,Two-wheeler,Card,Sunny,Friday,14.69
+MS_S_00270,MS-2195,Tata Power,Kolhapur,16.748146,74.231186,DC Fast,Type-2,1,01-06-2025 08:13,01-06-2025 08:25,12,19.01,435.9,Commercial,Two-wheeler,Subscription,Hot,Sunday,22.93
+MS_S_00271,MS-7590,Tata Power,Solapur,17.66054,75.891332,DC Fast,CCS,3,18-06-2025 02:19,18-06-2025 02:34,15,40.02,799.6,Private,Four-wheeler,Card,Cloudy,Wednesday,19.98
+MS_S_00272,MS-6353,AtherGrid,Amravati,20.930094,77.782694,AC Slow,Type-2,2,20-06-2025 22:27,21-06-2025 02:03,216,8.17,104.25,Private,Two-wheeler,UPI,Cool,Friday,12.76
+MS_S_00273,MS-2900,AtherGrid,Solapur,17.632957,75.886968,AC Slow,Type-2,1,20-06-2025 21:47,21-06-2025 01:05,198,14.39,189.37,Private,Two-wheeler,Card,Rain,Friday,13.16
+MS_S_00274,MS-3684,AtherGrid,Mumbai,19.099714,72.892079,AC Slow,CHAdeMO,2,04-07-2025 16:50,04-07-2025 20:50,240,10.26,95.42,Private,Two-wheeler,Wallet,Rain,Friday,9.3
+MS_S_00275,MS-1480,Reliance BP,Pune,18.540321,73.841564,AC Slow,Bharat DC-001,1,18-06-2025 16:04,18-06-2025 17:41,97,2.15,31.78,Private,Two-wheeler,Wallet,Rain,Wednesday,14.78
+MS_S_00276,MS-9185,Private-Operator-1,Mumbai,19.102564,72.888825,AC Slow,CCS,1,24-06-2025 05:16,24-06-2025 09:03,227,3.88,34.34,Private,Two-wheeler,UPI,Sunny,Tuesday,8.85
+MS_S_00277,MS-1201,MSEDCL,Mumbai,19.06313,72.896257,AC Slow,Type-2,2,01-07-2025 11:24,01-07-2025 12:32,68,1.59,23.5,Private,Two-wheeler,Subscription,Sunny,Tuesday,14.78
+MS_S_00278,MS-6272,MSEDCL,Nashik,20.008266,73.81125,DC Fast,Bharat DC-001,2,29-07-2025 23:20,29-07-2025 23:47,27,37.03,804.29,Commercial,Two-wheeler,UPI,Hot,Tuesday,21.72
+MS_S_00279,MS-4656,Private-Operator-1,Nagpur,21.124904,79.048873,AC Slow,Type-2,1,26-06-2025 02:56,26-06-2025 05:25,149,13.99,133.88,Commercial,Two-wheeler,Subscription,Hot,Thursday,9.57
+MS_S_00280,MS-7044,MSEDCL,Mumbai,19.071575,72.872164,AC Slow,CHAdeMO,2,07-07-2025 09:47,07-07-2025 12:56,189,14.2,137.46,Commercial,Two-wheeler,Subscription,Sunny,Monday,9.68
+MS_S_00281,MS-9954,MSEDCL,Nashik,19.994158,73.795452,DC Fast,CCS,2,01-06-2025 13:01,01-06-2025 13:25,24,20.72,468.48,Private,Four-wheeler,UPI,Cloudy,Sunday,22.61
+MS_S_00282,MS-6038,Tata Power,Solapur,17.673158,75.929869,DC Fast,CCS,1,04-07-2025 07:26,04-07-2025 08:07,41,51.31,1101.63,Private,Three-wheeler,UPI,Cool,Friday,21.47
+MS_S_00283,MS-4792,Private-Operator-1,Mumbai,19.083994,72.864673,AC Slow,Bharat DC-001,2,15-07-2025 11:29,15-07-2025 15:10,221,14.79,215.34,Private,Two-wheeler,Subscription,Sunny,Tuesday,14.56
+MS_S_00284,MS-2020,AtherGrid,Pune,18.526577,73.890744,DC Fast,CCS,1,16-06-2025 09:16,16-06-2025 09:46,30,32.82,752.56,Commercial,Three-wheeler,Wallet,Hot,Monday,22.93
+MS_S_00285,MS-8417,Reliance BP,Aurangabad,19.891267,75.350923,AC Slow,CCS,2,05-06-2025 06:08,05-06-2025 09:57,229,5.17,61.83,Private,Two-wheeler,Card,Rain,Thursday,11.96
+MS_S_00286,MS-8635,Reliance BP,Kolhapur,16.70082,74.22629,AC Slow,Bharat DC-001,2,08-06-2025 17:22,08-06-2025 21:09,227,3.24,36.39,Commercial,Two-wheeler,UPI,Sunny,Sunday,11.23
+MS_S_00287,MS-3582,Private-Operator-2,Pune,18.496482,73.865592,DC Fast,CHAdeMO,1,23-07-2025 22:44,23-07-2025 23:32,48,35.53,764.96,Commercial,Two-wheeler,Card,Sunny,Wednesday,21.53
+MS_S_00288,MS-7492,Private-Operator-1,Aurangabad,19.860502,75.356266,AC Slow,Type-2,2,14-07-2025 09:16,14-07-2025 13:15,239,8.76,70.43,Private,Four-wheeler,Subscription,Cool,Monday,8.04
+MS_S_00289,MS-5093,Tata Power,Amravati,20.951848,77.771543,DC Fast,Bharat DC-001,1,07-06-2025 04:07,07-06-2025 04:17,10,22.98,320.34,Private,Two-wheeler,Subscription,Sunny,Saturday,13.94
+MS_S_00290,MS-2376,Private-Operator-1,Aurangabad,19.880694,75.361952,DC Fast,CHAdeMO,1,29-07-2025 02:01,29-07-2025 02:15,14,29.67,634.64,Commercial,Four-wheeler,UPI,Sunny,Tuesday,21.39
+MS_S_00291,MS-3007,Tata Power,Aurangabad,19.845687,75.368552,AC Slow,Bharat DC-001,1,04-06-2025 05:59,04-06-2025 08:55,176,10.74,86.13,Commercial,Two-wheeler,Subscription,Sunny,Wednesday,8.02
+MS_S_00292,MS-3831,Reliance BP,Solapur,17.648615,75.910091,DC Fast,CCS,1,29-07-2025 05:17,29-07-2025 05:44,27,37.35,681.64,Private,Two-wheeler,Card,Sunny,Tuesday,18.25
+MS_S_00293,MS-9173,AtherGrid,Thane,19.238781,72.989951,AC Slow,Bharat DC-001,2,04-06-2025 02:17,04-06-2025 04:25,128,8.85,108.15,Private,Three-wheeler,Card,Sunny,Wednesday,12.22
+MS_S_00294,MS-1319,AtherGrid,Amravati,20.933996,77.769935,AC Slow,CHAdeMO,3,01-07-2025 17:50,01-07-2025 20:24,154,7.98,68.15,Commercial,Two-wheeler,Card,Sunny,Tuesday,8.54
+MS_S_00295,MS-6224,Private-Operator-1,Mumbai,19.053166,72.873827,DC Fast,CCS,2,02-06-2025 08:03,02-06-2025 08:43,40,48.37,905.49,Private,Four-wheeler,UPI,Cloudy,Monday,18.72
+MS_S_00296,MS-4951,Reliance BP,Nashik,20.027769,73.802416,AC Slow,Type-2,1,19-07-2025 07:36,19-07-2025 11:30,234,2.24,21.37,Private,Two-wheeler,Wallet,Sunny,Saturday,9.54
+MS_S_00297,MS-1462,Private-Operator-2,Aurangabad,19.900621,75.354942,DC Fast,CHAdeMO,3,07-07-2025 18:09,07-07-2025 18:55,46,40.34,705.14,Commercial,Two-wheeler,Card,Hot,Monday,17.48
+MS_S_00298,MS-1621,Tata Power,Kolhapur,16.742692,74.274165,AC Slow,Type-2,1,15-06-2025 19:14,15-06-2025 19:49,35,12.76,136.4,Private,Two-wheeler,Card,Cloudy,Sunday,10.69
+MS_S_00299,MS-6582,Private-Operator-2,Nagpur,21.148618,79.052831,AC Slow,CCS,1,29-07-2025 10:03,29-07-2025 10:38,35,5.68,46.46,Private,Four-wheeler,Wallet,Sunny,Tuesday,8.18
+MS_S_00300,MS-7120,Private-Operator-2,Pune,18.530672,73.846046,AC Slow,Bharat DC-001,3,08-07-2025 03:21,08-07-2025 05:08,107,4.63,50.98,Private,Three-wheeler,Subscription,Sunny,Tuesday,11.01
+MS_S_00301,MS-6198,MSEDCL,Kolhapur,16.70445,74.278745,AC Slow,CHAdeMO,1,15-06-2025 21:37,16-06-2025 01:35,238,2.87,24.57,Commercial,Three-wheeler,Wallet,Sunny,Sunday,8.56
+MS_S_00302,MS-3911,Private-Operator-2,Nagpur,21.125832,79.094236,AC Slow,Type-2,2,15-07-2025 18:25,15-07-2025 22:12,227,11.72,106.77,Private,Two-wheeler,Wallet,Cool,Tuesday,9.11
+MS_S_00303,MS-4619,Private-Operator-2,Latur,18.406997,76.556527,DC Fast,Type-2,2,30-07-2025 15:09,30-07-2025 15:40,31,57.61,743.17,Private,Two-wheeler,Wallet,Rain,Wednesday,12.9
+MS_S_00304,MS-2453,Private-Operator-2,Nagpur,21.164072,79.072136,AC Slow,CHAdeMO,1,29-06-2025 00:16,29-06-2025 01:39,83,13.69,133.48,Private,Two-wheeler,UPI,Sunny,Sunday,9.75
+MS_S_00305,MS-1788,AtherGrid,Mumbai,19.027515,72.895381,AC Slow,Bharat DC-001,2,17-07-2025 13:10,17-07-2025 15:25,135,1.92,21.91,Commercial,Two-wheeler,Subscription,Sunny,Thursday,11.41
+MS_S_00306,MS-8855,Private-Operator-1,Pune,18.52174,73.867019,AC Slow,CCS,3,11-06-2025 14:04,11-06-2025 17:58,234,1.31,16.57,Commercial,Two-wheeler,Wallet,Hot,Wednesday,12.65
+MS_S_00307,MS-2215,Reliance BP,Pune,18.536285,73.831614,DC Fast,CCS,1,27-07-2025 12:10,27-07-2025 13:06,56,28.03,431.1,Private,Two-wheeler,Subscription,Sunny,Sunday,15.38
+MS_S_00308,MS-8066,Private-Operator-2,Mumbai,19.043697,72.900995,AC Slow,CCS,2,09-07-2025 13:10,09-07-2025 13:53,43,7.5,111,Private,Four-wheeler,Subscription,Sunny,Wednesday,14.8
+MS_S_00309,MS-9849,Reliance BP,Amravati,20.941411,77.801973,AC Slow,CHAdeMO,1,20-06-2025 07:06,20-06-2025 07:48,42,4.15,40.5,Commercial,Two-wheeler,Wallet,Sunny,Friday,9.76
+MS_S_00310,MS-8005,Tata Power,Mumbai,19.079529,72.870359,AC Slow,CHAdeMO,1,23-07-2025 21:40,24-07-2025 00:43,183,13.04,170.3,Private,Two-wheeler,Card,Sunny,Wednesday,13.06
+MS_S_00311,MS-2342,AtherGrid,Thane,19.227031,72.996179,AC Slow,Type-2,1,20-06-2025 12:30,20-06-2025 15:05,155,7.42,84.51,Commercial,Two-wheeler,Subscription,Hot,Friday,11.39
+MS_S_00312,MS-7078,AtherGrid,Nagpur,21.146216,79.07364,AC Slow,CHAdeMO,1,12-06-2025 14:02,12-06-2025 15:39,97,10.11,119.5,Commercial,Two-wheeler,Wallet,Sunny,Thursday,11.82
+MS_S_00313,MS-2009,MSEDCL,Latur,18.396081,76.544616,DC Fast,Type-2,1,06-06-2025 21:22,06-06-2025 22:06,44,7.86,174.65,Private,Two-wheeler,Subscription,Sunny,Friday,22.22
+MS_S_00314,MS-7858,Private-Operator-1,Amravati,20.943862,77.773953,AC Slow,Bharat DC-001,1,07-07-2025 07:30,07-07-2025 09:16,106,11.59,134.91,Private,Two-wheeler,Card,Sunny,Monday,11.64
+MS_S_00315,MS-8357,MSEDCL,Pune,18.538062,73.855143,DC Fast,CCS,3,14-06-2025 06:08,14-06-2025 06:20,12,18.13,323.98,Commercial,Two-wheeler,Card,Sunny,Saturday,17.87
+MS_S_00316,MS-5225,Reliance BP,Latur,18.400473,76.583569,AC Slow,Type-2,1,06-06-2025 12:35,06-06-2025 14:46,131,2.48,31.25,Commercial,Two-wheeler,UPI,Cloudy,Friday,12.6
+MS_S_00317,MS-9561,AtherGrid,Latur,18.427385,76.547237,DC Fast,Type-2,4,27-06-2025 04:09,27-06-2025 04:55,46,16.21,304.75,Private,Four-wheeler,UPI,Cloudy,Friday,18.8
+MS_S_00318,MS-9775,Reliance BP,Thane,19.219657,72.995155,AC Slow,Bharat DC-001,2,17-06-2025 12:41,17-06-2025 15:15,154,12.17,131.07,Commercial,Two-wheeler,Wallet,Cloudy,Tuesday,10.77
+MS_S_00319,MS-3356,Private-Operator-1,Solapur,17.653204,75.898327,AC Slow,Bharat DC-001,2,03-06-2025 12:56,03-06-2025 14:50,114,12.11,123.76,Private,Three-wheeler,Wallet,Cloudy,Tuesday,10.22
+MS_S_00320,MS-1331,Reliance BP,Aurangabad,19.91745,75.321949,AC Slow,CHAdeMO,3,20-06-2025 08:53,20-06-2025 11:28,155,10.16,92.05,Private,Four-wheeler,Card,Hot,Friday,9.06
+MS_S_00321,MS-5923,Private-Operator-2,Nagpur,21.144207,79.097247,AC Slow,Bharat DC-001,3,20-07-2025 10:17,20-07-2025 13:53,216,12.25,141.36,Private,Two-wheeler,Card,Sunny,Sunday,11.54
+MS_S_00322,MS-8937,Private-Operator-1,Solapur,17.656157,75.926115,DC Fast,CHAdeMO,2,23-07-2025 01:32,23-07-2025 02:32,60,39.91,565.13,Commercial,Three-wheeler,Subscription,Sunny,Wednesday,14.16
+MS_S_00323,MS-9589,Private-Operator-1,Nagpur,21.157393,79.094716,AC Slow,Type-2,1,12-06-2025 06:56,12-06-2025 08:17,81,8.84,103.34,Private,Two-wheeler,UPI,Hot,Thursday,11.69
+MS_S_00324,MS-4262,Reliance BP,Aurangabad,19.879569,75.369652,AC Slow,CHAdeMO,2,23-07-2025 14:32,23-07-2025 16:43,131,3.62,50.72,Private,Three-wheeler,Card,Cloudy,Wednesday,14.01
+MS_S_00325,MS-9008,Private-Operator-1,Aurangabad,19.833763,75.331144,DC Fast,Bharat DC-001,1,12-06-2025 15:37,12-06-2025 16:22,45,30.91,701.04,Private,Four-wheeler,Wallet,Sunny,Thursday,22.68
+MS_S_00326,MS-5670,Tata Power,Pune,18.537212,73.867635,AC Slow,Bharat DC-001,3,04-06-2025 05:54,04-06-2025 08:50,176,5.69,52.46,Private,Four-wheeler,Card,Rain,Wednesday,9.22
+MS_S_00327,MS-5408,Private-Operator-2,Nashik,20.029808,73.783354,AC Slow,Bharat DC-001,1,03-07-2025 00:55,03-07-2025 04:44,229,2.99,31.22,Private,Two-wheeler,Card,Cool,Thursday,10.44
+MS_S_00328,MS-1138,MSEDCL,Nagpur,21.153875,79.087716,DC Fast,CHAdeMO,2,09-07-2025 09:45,09-07-2025 10:40,55,24.38,559.28,Commercial,Four-wheeler,Wallet,Cloudy,Wednesday,22.94
+MS_S_00329,MS-5128,MSEDCL,Kolhapur,16.695708,74.247323,AC Slow,Bharat DC-001,1,20-06-2025 21:33,21-06-2025 00:42,189,10.47,107.63,Private,Two-wheeler,Wallet,Sunny,Friday,10.28
+MS_S_00330,MS-5631,Reliance BP,Amravati,20.954826,77.75208,AC Slow,Type-2,3,01-07-2025 02:21,01-07-2025 04:01,100,4.18,57.93,Commercial,Two-wheeler,Wallet,Cloudy,Tuesday,13.86
+MS_S_00331,MS-3456,Private-Operator-1,Nashik,20.007778,73.793392,DC Fast,CCS,2,28-07-2025 01:51,28-07-2025 02:39,48,21.79,321.62,Commercial,Three-wheeler,UPI,Sunny,Monday,14.76
+MS_S_00332,MS-5843,Reliance BP,Kolhapur,16.713196,74.238475,DC Fast,Bharat DC-001,2,26-06-2025 12:47,26-06-2025 12:59,12,48.36,998.15,Private,Two-wheeler,Card,Cloudy,Thursday,20.64
+MS_S_00333,MS-8794,Private-Operator-2,Amravati,20.959542,77.776592,DC Fast,CHAdeMO,2,03-07-2025 09:54,03-07-2025 10:14,20,11.1,197.69,Private,Two-wheeler,Subscription,Hot,Thursday,17.81
+MS_S_00334,MS-5237,Private-Operator-2,Nagpur,21.135093,79.086389,AC Slow,CCS,1,14-07-2025 10:41,14-07-2025 11:33,52,14.68,128.89,Private,Three-wheeler,Wallet,Sunny,Monday,8.78
+MS_S_00335,MS-6428,Reliance BP,Solapur,17.670162,75.901209,DC Fast,CHAdeMO,3,08-07-2025 09:29,08-07-2025 09:46,17,20.4,472.46,Private,Two-wheeler,Card,Sunny,Tuesday,23.16
+MS_S_00336,MS-2963,Private-Operator-2,Amravati,20.918691,77.80072,DC Fast,Bharat DC-001,3,04-07-2025 09:26,04-07-2025 09:39,13,5.99,146.87,Private,Two-wheeler,Card,Hot,Friday,24.52
+MS_S_00337,MS-7704,Private-Operator-1,Aurangabad,19.883546,75.380064,DC Fast,Bharat DC-001,1,10-06-2025 10:55,10-06-2025 11:50,55,53,713.38,Private,Two-wheeler,Card,Sunny,Tuesday,13.46
+MS_S_00338,MS-1950,Tata Power,Aurangabad,19.892199,75.310974,AC Slow,Bharat DC-001,1,18-06-2025 06:48,18-06-2025 10:36,228,1.17,13.2,Private,Two-wheeler,UPI,Sunny,Wednesday,11.28
+MS_S_00339,MS-8105,Private-Operator-2,Nagpur,21.164806,79.122412,AC Slow,Bharat DC-001,1,26-06-2025 13:30,26-06-2025 15:38,128,11.4,95.08,Private,Three-wheeler,UPI,Sunny,Thursday,8.34
+MS_S_00340,MS-9700,MSEDCL,Aurangabad,19.877601,75.366538,DC Fast,Type-2,1,14-07-2025 00:40,14-07-2025 01:36,56,9.34,141.13,Commercial,Two-wheeler,UPI,Sunny,Monday,15.11
+MS_S_00341,MS-9246,Private-Operator-1,Solapur,17.679404,75.916422,AC Slow,CHAdeMO,3,11-06-2025 02:52,11-06-2025 03:33,41,9.39,82.63,Commercial,Two-wheeler,Wallet,Sunny,Wednesday,8.8
+MS_S_00342,MS-3192,Reliance BP,Solapur,17.646818,75.869787,DC Fast,Bharat DC-001,2,23-06-2025 06:10,23-06-2025 06:45,35,33.46,588.9,Private,Three-wheeler,Card,Sunny,Monday,17.6
+MS_S_00343,MS-1359,Private-Operator-1,Nashik,20.029746,73.816098,DC Fast,CCS,2,08-06-2025 11:45,08-06-2025 12:36,51,54.09,960.64,Commercial,Four-wheeler,Wallet,Rain,Sunday,17.76
+MS_S_00344,MS-1796,Private-Operator-1,Amravati,20.932479,77.762135,AC Slow,Type-2,2,13-07-2025 03:41,13-07-2025 04:16,35,4.32,50.07,Private,Two-wheeler,Subscription,Sunny,Sunday,11.59
+MS_S_00345,MS-9966,Reliance BP,Pune,18.521272,73.890601,AC Slow,Bharat DC-001,2,15-07-2025 04:13,15-07-2025 07:40,207,14.31,174.58,Private,Two-wheeler,UPI,Cloudy,Tuesday,12.2
+MS_S_00346,MS-5423,Private-Operator-1,Amravati,20.925165,77.778259,AC Slow,CCS,1,27-06-2025 03:32,27-06-2025 07:06,214,4.56,48.02,Commercial,Two-wheeler,UPI,Cloudy,Friday,10.53
+MS_S_00347,MS-4254,Private-Operator-1,Kolhapur,16.676874,74.241638,AC Slow,CCS,1,20-07-2025 08:53,20-07-2025 11:36,163,14.6,150.67,Commercial,Three-wheeler,Wallet,Cool,Sunday,10.32
+MS_S_00348,MS-1645,Private-Operator-1,Nagpur,21.139616,79.073157,AC Slow,Bharat DC-001,1,29-07-2025 06:44,29-07-2025 09:17,153,3.9,45.32,Private,Two-wheeler,UPI,Sunny,Tuesday,11.62
+MS_S_00349,MS-9095,MSEDCL,Pune,18.517197,73.870127,DC Fast,Type-2,2,20-07-2025 16:04,20-07-2025 17:00,56,33.2,525.22,Commercial,Three-wheeler,Subscription,Rain,Sunday,15.82
+MS_S_00350,MS-5327,AtherGrid,Thane,19.23982,72.978526,AC Slow,Type-2,2,07-06-2025 05:55,07-06-2025 06:35,40,2.59,26.99,Commercial,Four-wheeler,Wallet,Hot,Saturday,10.42
+MS_S_00351,MS-2898,Tata Power,Solapur,17.645732,75.876126,AC Slow,Type-2,2,01-06-2025 04:42,01-06-2025 07:57,195,14.9,132.91,Commercial,Four-wheeler,Wallet,Sunny,Sunday,8.92
+MS_S_00352,MS-7105,Reliance BP,Pune,18.488776,73.874601,AC Slow,CCS,1,08-06-2025 12:25,08-06-2025 14:51,146,13.71,178.23,Commercial,Three-wheeler,Subscription,Sunny,Sunday,13
+MS_S_00353,MS-3732,Tata Power,Solapur,17.650239,75.909336,DC Fast,CCS,4,15-07-2025 23:03,15-07-2025 23:23,20,50.17,603.04,Commercial,Four-wheeler,Subscription,Sunny,Tuesday,12.02
+MS_S_00354,MS-7221,Reliance BP,Nagpur,21.140429,79.070376,AC Slow,Type-2,1,26-07-2025 21:56,27-07-2025 01:32,216,9.45,121.05,Private,Two-wheeler,Subscription,Cool,Saturday,12.81
+MS_S_00355,MS-7738,AtherGrid,Pune,18.517775,73.858237,AC Slow,Type-2,1,05-06-2025 08:41,05-06-2025 10:31,110,2.69,29.4,Private,Four-wheeler,Wallet,Sunny,Thursday,10.93
+MS_S_00356,MS-9570,Private-Operator-2,Amravati,20.915592,77.807219,AC Slow,Type-2,1,28-06-2025 21:46,28-06-2025 23:19,93,14.18,179.8,Commercial,Two-wheeler,UPI,Sunny,Saturday,12.68
+MS_S_00357,MS-3571,Private-Operator-1,Mumbai,19.095063,72.883442,AC Slow,Bharat DC-001,1,25-07-2025 15:55,25-07-2025 17:07,72,9.91,142.6,Commercial,Two-wheeler,Wallet,Sunny,Friday,14.39
+MS_S_00358,MS-1824,Private-Operator-1,Thane,19.195425,72.980271,DC Fast,CCS,1,06-07-2025 20:24,06-07-2025 20:59,35,54.63,702.54,Private,Two-wheeler,Subscription,Hot,Sunday,12.86
+MS_S_00359,MS-9166,AtherGrid,Pune,18.509426,73.858557,AC Slow,CHAdeMO,1,08-06-2025 15:47,08-06-2025 19:04,197,5.13,58.48,Commercial,Two-wheeler,UPI,Sunny,Sunday,11.4
+MS_S_00360,MS-5990,Private-Operator-1,Pune,18.539789,73.865244,AC Slow,CCS,2,12-07-2025 21:29,12-07-2025 23:26,117,5.8,75.98,Private,Four-wheeler,Subscription,Sunny,Saturday,13.1
+MS_S_00361,MS-8751,Private-Operator-2,Aurangabad,19.896212,75.329888,DC Fast,CHAdeMO,1,16-07-2025 14:07,16-07-2025 14:23,16,42.01,654.52,Private,Two-wheeler,Wallet,Rain,Wednesday,15.58
+MS_S_00362,MS-9973,Private-Operator-1,Thane,19.215614,72.994316,AC Slow,CHAdeMO,2,15-07-2025 03:02,15-07-2025 04:14,72,12.51,175.14,Commercial,Two-wheeler,Card,Sunny,Tuesday,14
+MS_S_00363,MS-2978,AtherGrid,Nashik,20.018151,73.812334,AC Slow,CCS,2,30-06-2025 06:45,30-06-2025 08:41,116,6.2,75.7,Commercial,Two-wheeler,UPI,Sunny,Monday,12.21
+MS_S_00364,MS-8493,Private-Operator-2,Kolhapur,16.698839,74.258893,AC Slow,CCS,1,02-07-2025 00:33,02-07-2025 04:11,218,7.03,63.27,Commercial,Four-wheeler,Subscription,Sunny,Wednesday,9
+MS_S_00365,MS-3903,Private-Operator-2,Amravati,20.926157,77.774816,AC Slow,CCS,1,17-07-2025 04:06,17-07-2025 06:15,129,10.04,125.1,Commercial,Two-wheeler,Subscription,Cloudy,Thursday,12.46
+MS_S_00366,MS-5067,Reliance BP,Solapur,17.635213,75.894551,AC Slow,Bharat DC-001,1,22-06-2025 09:28,22-06-2025 13:24,236,10.48,128.28,Commercial,Three-wheeler,Wallet,Sunny,Sunday,12.24
+MS_S_00367,MS-6143,Private-Operator-2,Amravati,20.927923,77.778711,DC Fast,CCS,1,13-06-2025 06:39,13-06-2025 07:34,55,42.86,592.75,Commercial,Four-wheeler,Card,Sunny,Friday,13.83
+MS_S_00368,MS-9255,Private-Operator-1,Nagpur,21.144033,79.0808,AC Slow,CHAdeMO,4,16-07-2025 03:48,16-07-2025 05:48,120,6.38,52.76,Commercial,Three-wheeler,Wallet,Cloudy,Wednesday,8.27
+MS_S_00369,MS-1209,Private-Operator-1,Solapur,17.671118,75.90049,AC Slow,Type-2,1,02-06-2025 12:09,02-06-2025 12:52,43,11.59,129.92,Private,Two-wheeler,Card,Cloudy,Monday,11.21
+MS_S_00370,MS-5105,MSEDCL,Thane,19.241762,72.985493,AC Slow,Type-2,4,15-07-2025 09:13,15-07-2025 12:55,222,5.4,76.79,Commercial,Four-wheeler,UPI,Cloudy,Tuesday,14.22
+MS_S_00371,MS-4675,Private-Operator-2,Latur,18.377582,76.538065,DC Fast,Bharat DC-001,1,16-06-2025 16:50,16-06-2025 17:50,60,57.86,987.09,Commercial,Three-wheeler,UPI,Rain,Monday,17.06
+MS_S_00372,MS-7349,AtherGrid,Solapur,17.672661,75.916417,AC Slow,CHAdeMO,1,06-07-2025 01:00,06-07-2025 04:40,220,8.75,103.16,Commercial,Four-wheeler,Wallet,Sunny,Sunday,11.79
+MS_S_00373,MS-9955,Private-Operator-2,Latur,18.405637,76.551158,AC Slow,CCS,1,20-07-2025 23:12,21-07-2025 00:57,105,4.63,43.34,Private,Two-wheeler,Card,Sunny,Sunday,9.36
+MS_S_00374,MS-2955,AtherGrid,Amravati,20.915945,77.783785,AC Slow,Type-2,4,28-06-2025 08:35,28-06-2025 10:12,97,8.81,91.89,Commercial,Two-wheeler,Subscription,Sunny,Saturday,10.43
+MS_S_00375,MS-1654,MSEDCL,Nagpur,21.167819,79.127367,AC Slow,CHAdeMO,2,09-07-2025 01:49,09-07-2025 04:59,190,7.84,84.75,Commercial,Two-wheeler,Wallet,Cloudy,Wednesday,10.81
+MS_S_00376,MS-6207,Private-Operator-1,Pune,18.573287,73.826641,AC Slow,CCS,1,12-06-2025 16:04,12-06-2025 19:55,231,6.53,54.07,Commercial,Two-wheeler,Subscription,Cloudy,Thursday,8.28
+MS_S_00377,MS-6724,MSEDCL,Pune,18.542116,73.85866,AC Slow,CCS,4,13-07-2025 10:21,13-07-2025 12:23,122,13.73,179.31,Commercial,Four-wheeler,UPI,Sunny,Sunday,13.06
+MS_S_00378,MS-6668,AtherGrid,Pune,18.532831,73.849308,AC Slow,CCS,2,28-07-2025 20:39,28-07-2025 23:48,189,2.75,37.29,Private,Three-wheeler,Wallet,Sunny,Monday,13.56
+MS_S_00379,MS-2857,AtherGrid,Solapur,17.682421,75.905372,DC Fast,CHAdeMO,1,05-07-2025 23:18,05-07-2025 23:29,11,30.45,753.64,Commercial,Two-wheeler,Subscription,Hot,Saturday,24.75
+MS_S_00380,MS-1718,Reliance BP,Kolhapur,16.693087,74.270789,AC Slow,CCS,1,21-06-2025 16:05,21-06-2025 16:59,54,5,47.1,Private,Three-wheeler,Card,Sunny,Saturday,9.42
+MS_S_00381,MS-7950,Tata Power,Nashik,19.996402,73.795511,AC Slow,CCS,1,05-07-2025 22:56,06-07-2025 02:35,219,9.08,127.66,Private,Three-wheeler,Card,Rain,Saturday,14.06
+MS_S_00382,MS-8523,Private-Operator-2,Mumbai,19.072053,72.874675,DC Fast,CHAdeMO,2,03-06-2025 02:04,03-06-2025 02:17,13,36.54,892.67,Commercial,Two-wheeler,Card,Sunny,Tuesday,24.43
+MS_S_00383,MS-7678,AtherGrid,Thane,19.230171,72.919292,DC Fast,Bharat DC-001,1,11-07-2025 12:27,11-07-2025 12:57,30,51.58,1217.8,Private,Two-wheeler,UPI,Sunny,Friday,23.61
+MS_S_00384,MS-1745,Private-Operator-2,Latur,18.431482,76.579551,AC Slow,Type-2,3,23-06-2025 16:06,23-06-2025 17:50,104,1.27,14.4,Commercial,Three-wheeler,Wallet,Rain,Monday,11.34
+MS_S_00385,MS-7249,AtherGrid,Kolhapur,16.692466,74.260548,DC Fast,Type-2,1,01-07-2025 05:34,01-07-2025 05:58,24,21.47,357.69,Commercial,Four-wheeler,Wallet,Sunny,Tuesday,16.66
+MS_S_00386,MS-5883,Private-Operator-2,Nagpur,21.164863,79.098462,AC Slow,CHAdeMO,4,01-06-2025 17:55,01-06-2025 20:47,172,1.12,16.78,Private,Two-wheeler,Subscription,Sunny,Sunday,14.98
+MS_S_00387,MS-9970,Tata Power,Amravati,20.92457,77.787638,AC Slow,CHAdeMO,1,14-06-2025 23:47,15-06-2025 03:22,215,11.33,156.81,Commercial,Four-wheeler,Card,Sunny,Saturday,13.84
+MS_S_00388,MS-4014,MSEDCL,Nagpur,21.152829,79.109603,DC Fast,CHAdeMO,2,13-06-2025 03:11,13-06-2025 04:03,52,41.22,905.19,Private,Four-wheeler,Subscription,Rain,Friday,21.96
+MS_S_00389,MS-2198,Reliance BP,Amravati,20.923896,77.77611,AC Slow,Type-2,1,17-06-2025 03:12,17-06-2025 06:47,215,2.09,22.68,Commercial,Two-wheeler,Card,Cloudy,Tuesday,10.85
+MS_S_00390,MS-5671,Private-Operator-1,Pune,18.482528,73.860966,AC Slow,Type-2,1,28-07-2025 06:20,28-07-2025 08:54,154,12.32,180.24,Commercial,Three-wheeler,Card,Sunny,Monday,14.63
+MS_S_00391,MS-6971,Reliance BP,Latur,18.376849,76.545346,AC Slow,Bharat DC-001,2,11-06-2025 00:20,11-06-2025 01:53,93,12.12,156.95,Commercial,Two-wheeler,Wallet,Rain,Wednesday,12.95
+MS_S_00392,MS-6432,AtherGrid,Nagpur,21.162389,79.084323,AC Slow,Bharat DC-001,1,29-06-2025 11:49,29-06-2025 13:37,108,12.25,177.62,Private,Two-wheeler,UPI,Sunny,Sunday,14.5
+MS_S_00393,MS-3293,Private-Operator-1,Thane,19.219499,72.983648,AC Slow,CCS,1,17-06-2025 23:56,18-06-2025 03:06,190,4.16,51.92,Private,Four-wheeler,UPI,Sunny,Tuesday,12.48
+MS_S_00394,MS-7637,Private-Operator-1,Latur,18.34861,76.564277,AC Slow,CCS,2,29-07-2025 01:35,29-07-2025 03:11,96,2.72,38.68,Commercial,Three-wheeler,Card,Cloudy,Tuesday,14.22
+MS_S_00395,MS-7430,MSEDCL,Aurangabad,19.892342,75.323829,AC Slow,CHAdeMO,2,09-06-2025 14:32,09-06-2025 17:12,160,2,25.56,Commercial,Two-wheeler,Card,Sunny,Monday,12.78
+MS_S_00396,MS-3717,Private-Operator-1,Latur,18.416848,76.550421,DC Fast,CCS,3,29-06-2025 05:11,29-06-2025 05:57,46,35.39,663.92,Private,Three-wheeler,Subscription,Hot,Sunday,18.76
+MS_S_00397,MS-1662,MSEDCL,Aurangabad,19.865718,75.346347,AC Slow,Bharat DC-001,1,15-06-2025 02:16,15-06-2025 04:20,124,4.98,44.52,Private,Two-wheeler,Wallet,Sunny,Sunday,8.94
+MS_S_00398,MS-8695,AtherGrid,Solapur,17.653342,75.909504,DC Fast,Type-2,1,03-06-2025 20:20,03-06-2025 20:36,16,5.01,93.39,Commercial,Four-wheeler,Wallet,Rain,Tuesday,18.64
+MS_S_00399,MS-9918,Private-Operator-1,Latur,18.395838,76.554525,DC Fast,CCS,1,25-06-2025 20:24,25-06-2025 20:57,33,18.58,401.89,Private,Two-wheeler,Subscription,Cloudy,Wednesday,21.63
+MS_S_00400,MS-9460,AtherGrid,Nashik,20.002751,73.793672,AC Slow,CHAdeMO,1,23-07-2025 11:31,23-07-2025 15:23,232,12.8,130.43,Private,Two-wheeler,Card,Sunny,Wednesday,10.19
+MS_S_00401,MS-3713,MSEDCL,Kolhapur,16.710307,74.231645,AC Slow,Type-2,3,03-07-2025 20:17,03-07-2025 21:41,84,6.28,92.63,Private,Two-wheeler,UPI,Sunny,Thursday,14.75
+MS_S_00402,MS-7793,Reliance BP,Nashik,20.016808,73.814523,AC Slow,Type-2,1,01-07-2025 21:30,02-07-2025 00:02,152,9.86,127.49,Private,Three-wheeler,Subscription,Sunny,Tuesday,12.93
+MS_S_00403,MS-4992,Tata Power,Mumbai,19.063647,72.871379,DC Fast,CCS,2,07-07-2025 18:10,07-07-2025 18:28,18,57.29,1210.54,Private,Four-wheeler,Card,Cloudy,Monday,21.13
+MS_S_00404,MS-3725,Reliance BP,Mumbai,19.076011,72.889724,DC Fast,CCS,2,04-07-2025 12:38,04-07-2025 13:24,46,7.65,127.6,Commercial,Four-wheeler,Card,Cloudy,Friday,16.68
+MS_S_00405,MS-8723,AtherGrid,Kolhapur,16.694837,74.240344,AC Slow,CCS,1,15-06-2025 13:38,15-06-2025 14:44,66,3.92,41.47,Private,Three-wheeler,Wallet,Rain,Sunday,10.58
+MS_S_00406,MS-6614,AtherGrid,Nagpur,21.158244,79.065423,DC Fast,Type-2,1,15-06-2025 12:24,15-06-2025 12:42,18,50.22,1157.57,Private,Two-wheeler,Subscription,Sunny,Sunday,23.05
+MS_S_00407,MS-2577,MSEDCL,Nagpur,21.114725,79.104558,AC Slow,Bharat DC-001,3,28-07-2025 19:38,28-07-2025 20:17,39,4.02,51.21,Private,Two-wheeler,Card,Hot,Monday,12.74
+MS_S_00408,MS-9835,Tata Power,Latur,18.385212,76.593453,AC Slow,Bharat DC-001,2,04-07-2025 13:23,04-07-2025 14:04,41,11.34,115.78,Commercial,Two-wheeler,Subscription,Cloudy,Friday,10.21
+MS_S_00409,MS-6742,Private-Operator-1,Solapur,17.649018,75.903144,DC Fast,Type-2,1,28-06-2025 04:16,28-06-2025 04:56,40,53.96,849.33,Private,Two-wheeler,Subscription,Rain,Saturday,15.74
+MS_S_00410,MS-4096,Tata Power,Thane,19.213728,72.958213,AC Slow,Type-2,2,07-07-2025 16:07,07-07-2025 18:50,163,4.75,65.79,Private,Three-wheeler,Wallet,Sunny,Monday,13.85
+MS_S_00411,MS-6935,Tata Power,Solapur,17.659515,75.901142,AC Slow,CCS,1,28-06-2025 20:37,28-06-2025 22:11,94,8.43,102.59,Commercial,Two-wheeler,Wallet,Sunny,Saturday,12.17
+MS_S_00412,MS-4337,AtherGrid,Solapur,17.674208,75.920764,DC Fast,Bharat DC-001,2,12-06-2025 11:35,12-06-2025 12:20,45,42.26,678.27,Commercial,Two-wheeler,Subscription,Sunny,Thursday,16.05
+MS_S_00413,MS-2951,Private-Operator-2,Nagpur,21.159257,79.100036,AC Slow,CCS,4,29-06-2025 22:10,29-06-2025 23:05,55,2.76,22.41,Commercial,Four-wheeler,UPI,Sunny,Sunday,8.12
+MS_S_00414,MS-7375,Private-Operator-2,Nagpur,21.147837,79.11918,AC Slow,Type-2,1,22-07-2025 02:52,22-07-2025 03:59,67,1.25,12.56,Commercial,Two-wheeler,Wallet,Sunny,Tuesday,10.05
+MS_S_00415,MS-7075,Tata Power,Nashik,20.000795,73.790818,AC Slow,Type-2,1,17-07-2025 12:59,17-07-2025 15:11,132,1.02,10.3,Commercial,Three-wheeler,UPI,Cloudy,Thursday,10.1
+MS_S_00416,MS-9099,AtherGrid,Nagpur,21.141336,79.117997,DC Fast,Type-2,1,13-06-2025 21:59,13-06-2025 22:42,43,54.42,1207.04,Private,Four-wheeler,Card,Sunny,Friday,22.18
+MS_S_00417,MS-3776,Private-Operator-2,Latur,18.406935,76.527736,AC Slow,Type-2,1,24-06-2025 07:41,24-06-2025 08:11,30,1.92,18.43,Private,Four-wheeler,Subscription,Cool,Tuesday,9.6
+MS_S_00418,MS-7474,AtherGrid,Aurangabad,19.876618,75.347914,DC Fast,CCS,1,04-07-2025 00:47,04-07-2025 01:42,55,8.18,200,Private,Two-wheeler,Wallet,Sunny,Friday,24.45
+MS_S_00419,MS-5530,MSEDCL,Aurangabad,19.868696,75.336946,DC Fast,CCS,1,30-06-2025 12:36,30-06-2025 12:46,10,25.11,374.89,Commercial,Two-wheeler,UPI,Sunny,Monday,14.93
+MS_S_00420,MS-5821,Reliance BP,Amravati,20.947364,77.801803,AC Slow,Type-2,2,22-07-2025 16:16,22-07-2025 19:03,167,9.1,82.17,Commercial,Three-wheeler,Subscription,Hot,Tuesday,9.03
+MS_S_00421,MS-8923,MSEDCL,Latur,18.40432,76.569927,AC Slow,CHAdeMO,2,20-07-2025 14:43,20-07-2025 17:10,147,4.64,48.35,Private,Two-wheeler,Wallet,Hot,Sunday,10.42
+MS_S_00422,MS-7269,Private-Operator-2,Pune,18.503697,73.898491,AC Slow,CCS,3,14-07-2025 22:14,15-07-2025 02:08,234,10.91,92.08,Commercial,Two-wheeler,UPI,Sunny,Monday,8.44
+MS_S_00423,MS-5067,Reliance BP,Thane,19.258772,72.978236,AC Slow,Type-2,4,26-06-2025 21:47,27-06-2025 01:47,240,8.42,81.59,Private,Two-wheeler,Wallet,Sunny,Thursday,9.69
+MS_S_00424,MS-5408,MSEDCL,Nashik,19.953263,73.820469,AC Slow,CCS,1,02-07-2025 23:12,03-07-2025 00:42,90,12.3,138.01,Commercial,Two-wheeler,Card,Rain,Wednesday,11.22
+MS_S_00425,MS-6833,MSEDCL,Nashik,19.988915,73.801571,AC Slow,Type-2,1,08-06-2025 02:43,08-06-2025 06:02,199,7.24,68.49,Private,Four-wheeler,UPI,Sunny,Sunday,9.46
+MS_S_00426,MS-7081,Private-Operator-1,Kolhapur,16.673038,74.252543,DC Fast,CHAdeMO,1,02-07-2025 18:55,02-07-2025 19:22,27,57.33,1429.24,Commercial,Two-wheeler,Card,Sunny,Wednesday,24.93
+MS_S_00427,MS-9613,AtherGrid,Mumbai,19.084518,72.878083,AC Slow,Bharat DC-001,2,05-07-2025 01:32,05-07-2025 03:30,118,2.02,24.97,Private,Two-wheeler,UPI,Sunny,Saturday,12.36
+MS_S_00428,MS-8537,Reliance BP,Amravati,20.951795,77.753135,DC Fast,Type-2,1,01-06-2025 21:13,01-06-2025 21:47,34,31.23,666.45,Commercial,Two-wheeler,Wallet,Cloudy,Sunday,21.34
+MS_S_00429,MS-9987,Reliance BP,Nagpur,21.139539,79.088186,DC Fast,CCS,1,18-06-2025 15:39,18-06-2025 16:10,31,36.08,794.84,Commercial,Two-wheeler,Subscription,Sunny,Wednesday,22.03
+MS_S_00430,MS-6981,AtherGrid,Aurangabad,19.851192,75.35539,AC Slow,CHAdeMO,1,29-06-2025 05:36,29-06-2025 06:39,63,13.97,134.11,Private,Four-wheeler,Wallet,Cool,Sunday,9.6
+MS_S_00431,MS-8081,AtherGrid,Nashik,19.988766,73.788477,AC Slow,CCS,3,10-06-2025 23:09,11-06-2025 01:40,151,11.2,97.1,Private,Two-wheeler,Card,Hot,Tuesday,8.67
+MS_S_00432,MS-9748,Private-Operator-2,Amravati,20.952284,77.775376,AC Slow,CHAdeMO,2,21-07-2025 15:19,21-07-2025 16:53,94,2.66,26.65,Private,Two-wheeler,Card,Cloudy,Monday,10.02
+MS_S_00433,MS-4530,Reliance BP,Mumbai,19.104392,72.865692,DC Fast,Bharat DC-001,1,24-07-2025 20:06,24-07-2025 20:44,38,46.86,788.65,Commercial,Two-wheeler,Wallet,Rain,Thursday,16.83
+MS_S_00434,MS-1324,AtherGrid,Aurangabad,19.862507,75.359113,DC Fast,Type-2,4,23-06-2025 21:38,23-06-2025 22:00,22,36.74,611.35,Private,Four-wheeler,Wallet,Cloudy,Monday,16.64
+MS_S_00435,MS-6326,Private-Operator-2,Aurangabad,19.876485,75.324221,AC Slow,Bharat DC-001,1,20-07-2025 23:28,21-07-2025 00:18,50,10.19,98.64,Commercial,Two-wheeler,Card,Sunny,Sunday,9.68
+MS_S_00436,MS-6527,AtherGrid,Nagpur,21.137659,79.101926,AC Slow,Bharat DC-001,1,25-07-2025 02:05,25-07-2025 03:16,71,1.5,13.85,Commercial,Two-wheeler,Wallet,Sunny,Friday,9.23
+MS_S_00437,MS-7479,Reliance BP,Thane,19.250644,72.980187,DC Fast,Bharat DC-001,2,20-07-2025 11:47,20-07-2025 12:34,47,29.01,566.86,Commercial,Two-wheeler,Card,Cloudy,Sunday,19.54
+MS_S_00438,MS-3048,Private-Operator-2,Mumbai,19.072218,72.896133,AC Slow,CCS,1,13-07-2025 08:47,13-07-2025 12:16,209,13.52,197.8,Private,Two-wheeler,UPI,Rain,Sunday,14.63
+MS_S_00439,MS-2045,AtherGrid,Pune,18.495352,73.863973,DC Fast,Type-2,1,02-06-2025 12:33,02-06-2025 13:31,58,32.36,474.4,Private,Two-wheeler,Card,Cool,Monday,14.66
+MS_S_00440,MS-7387,Reliance BP,Pune,18.468316,73.860679,AC Slow,CCS,3,16-06-2025 23:18,17-06-2025 01:41,143,3.9,33.15,Private,Two-wheeler,Card,Cloudy,Monday,8.5
+MS_S_00441,MS-1575,Private-Operator-2,Mumbai,19.089604,72.90155,DC Fast,CHAdeMO,3,26-07-2025 10:55,26-07-2025 11:35,40,23.27,489.14,Commercial,Two-wheeler,Card,Sunny,Saturday,21.02
+MS_S_00442,MS-3900,Private-Operator-1,Amravati,20.927316,77.77737,AC Slow,Bharat DC-001,3,11-07-2025 23:40,12-07-2025 02:34,174,8.55,85.33,Commercial,Four-wheeler,Subscription,Sunny,Friday,9.98
+MS_S_00443,MS-4721,Tata Power,Amravati,20.923886,77.779683,AC Slow,Bharat DC-001,2,20-06-2025 11:26,20-06-2025 13:02,96,1,10.92,Private,Two-wheeler,Card,Sunny,Friday,10.92
+MS_S_00444,MS-5698,AtherGrid,Aurangabad,19.889787,75.320324,DC Fast,Type-2,1,15-07-2025 15:48,15-07-2025 16:28,40,21.73,346.59,Commercial,Four-wheeler,Card,Sunny,Tuesday,15.95
+MS_S_00445,MS-9981,Reliance BP,Mumbai,19.099882,72.858077,DC Fast,CCS,3,27-06-2025 17:27,27-06-2025 18:02,35,28.24,450.15,Commercial,Four-wheeler,Card,Sunny,Friday,15.94
+MS_S_00446,MS-2297,AtherGrid,Thane,19.20635,73.006547,DC Fast,CCS,1,04-07-2025 19:51,04-07-2025 20:45,54,25.4,602.74,Commercial,Three-wheeler,Wallet,Cloudy,Friday,23.73
+MS_S_00447,MS-4080,Tata Power,Solapur,17.643291,75.91685,AC Slow,CCS,2,09-06-2025 09:07,09-06-2025 12:20,193,2.1,24.8,Commercial,Two-wheeler,Subscription,Sunny,Monday,11.81
+MS_S_00448,MS-6253,Tata Power,Nashik,20.010509,73.759738,DC Fast,CCS,2,04-06-2025 17:01,04-06-2025 17:22,21,57.37,719.99,Commercial,Two-wheeler,Subscription,Cool,Wednesday,12.55
+MS_S_00449,MS-4814,Tata Power,Mumbai,19.115913,72.939898,AC Slow,CCS,2,01-06-2025 15:13,01-06-2025 17:10,117,11.63,101.41,Commercial,Four-wheeler,Subscription,Sunny,Sunday,8.72
+MS_S_00450,MS-6410,Tata Power,Mumbai,19.069587,72.913604,AC Slow,CCS,3,04-06-2025 08:49,04-06-2025 10:59,130,12.59,162.16,Commercial,Two-wheeler,Wallet,Sunny,Wednesday,12.88
+MS_S_00451,MS-1206,Tata Power,Solapur,17.676679,75.894055,DC Fast,CCS,2,25-06-2025 14:15,25-06-2025 15:12,57,45.09,1046.09,Private,Two-wheeler,UPI,Cool,Wednesday,23.2
+MS_S_00452,MS-4415,AtherGrid,Amravati,20.94619,77.794579,AC Slow,Bharat DC-001,1,14-07-2025 09:59,14-07-2025 11:51,112,5.7,84.64,Private,Three-wheeler,UPI,Sunny,Monday,14.85
+MS_S_00453,MS-8884,Private-Operator-2,Thane,19.196466,72.970358,DC Fast,CHAdeMO,2,13-06-2025 11:56,13-06-2025 12:09,13,57.09,1053.31,Private,Four-wheeler,Card,Hot,Friday,18.45
+MS_S_00454,MS-6316,Tata Power,Solapur,17.629543,75.899259,DC Fast,CCS,2,21-07-2025 08:37,21-07-2025 08:54,17,26.14,322.31,Private,Two-wheeler,UPI,Sunny,Monday,12.33
+MS_S_00455,MS-8786,Private-Operator-2,Latur,18.409141,76.547394,DC Fast,CCS,3,24-06-2025 02:15,24-06-2025 02:35,20,35.05,861.18,Commercial,Four-wheeler,UPI,Sunny,Tuesday,24.57
+MS_S_00456,MS-6824,Private-Operator-2,Mumbai,19.032933,72.899643,DC Fast,CCS,3,15-07-2025 17:50,15-07-2025 18:06,16,14.86,332.86,Private,Two-wheeler,Wallet,Sunny,Tuesday,22.4
+MS_S_00457,MS-4161,Tata Power,Kolhapur,16.71887,74.23546,AC Slow,Bharat DC-001,3,23-06-2025 23:08,24-06-2025 00:42,94,3.2,32.54,Commercial,Three-wheeler,Wallet,Hot,Monday,10.17
+MS_S_00458,MS-9029,MSEDCL,Amravati,20.961639,77.784225,DC Fast,CCS,2,05-07-2025 11:20,05-07-2025 12:16,56,18.78,377.85,Private,Two-wheeler,Card,Sunny,Saturday,20.12
+MS_S_00459,MS-5844,Reliance BP,Kolhapur,16.669475,74.251473,DC Fast,CHAdeMO,1,30-06-2025 00:49,30-06-2025 01:39,50,42.07,533.03,Private,Four-wheeler,Wallet,Cloudy,Monday,12.67
+MS_S_00460,MS-4912,Reliance BP,Latur,18.396415,76.591275,AC Slow,Type-2,1,13-07-2025 17:52,13-07-2025 20:01,129,9.7,100.3,Commercial,Four-wheeler,Card,Sunny,Sunday,10.34
+MS_S_00461,MS-5638,Reliance BP,Latur,18.38667,76.585316,AC Slow,Bharat DC-001,2,12-07-2025 10:07,12-07-2025 11:01,54,5,55.15,Private,Two-wheeler,Card,Cloudy,Saturday,11.03
+MS_S_00462,MS-1512,MSEDCL,Nagpur,21.168148,79.11717,AC Slow,Type-2,1,02-07-2025 06:06,02-07-2025 06:44,38,14.22,177.61,Commercial,Three-wheeler,Wallet,Cloudy,Wednesday,12.49
+MS_S_00463,MS-7002,MSEDCL,Mumbai,19.056725,72.858557,AC Slow,Type-2,1,01-06-2025 06:41,01-06-2025 09:16,155,11.51,100.25,Private,Two-wheeler,UPI,Hot,Sunday,8.71
+MS_S_00464,MS-7814,Reliance BP,Aurangabad,19.871592,75.324815,AC Slow,Type-2,4,23-07-2025 19:17,23-07-2025 22:02,165,1.95,22.68,Private,Four-wheeler,UPI,Sunny,Wednesday,11.63
+MS_S_00465,MS-9511,Tata Power,Nashik,19.967569,73.7768,DC Fast,Type-2,2,17-07-2025 07:34,17-07-2025 08:08,34,28.25,466.12,Private,Two-wheeler,Card,Sunny,Thursday,16.5
+MS_S_00466,MS-7802,Private-Operator-2,Amravati,20.941545,77.780387,AC Slow,Type-2,1,20-07-2025 20:36,20-07-2025 22:37,121,4.76,47.65,Commercial,Four-wheeler,Card,Cloudy,Sunday,10.01
+MS_S_00467,MS-7579,Private-Operator-1,Nagpur,21.134866,79.082767,AC Slow,CHAdeMO,1,13-07-2025 05:34,13-07-2025 08:37,183,2.06,30.2,Commercial,Four-wheeler,Wallet,Sunny,Sunday,14.66
+MS_S_00468,MS-7755,Private-Operator-2,Aurangabad,19.892428,75.320335,AC Slow,Bharat DC-001,2,23-07-2025 23:20,24-07-2025 02:25,185,10.08,99.49,Private,Two-wheeler,Wallet,Sunny,Wednesday,9.87
+MS_S_00469,MS-8412,AtherGrid,Aurangabad,19.896553,75.34873,DC Fast,Bharat DC-001,2,01-06-2025 23:02,01-06-2025 23:30,28,22.21,344.7,Private,Four-wheeler,Wallet,Cloudy,Sunday,15.52
+MS_S_00470,MS-5920,MSEDCL,Mumbai,19.08703,72.884512,DC Fast,CCS,1,25-07-2025 10:01,25-07-2025 11:00,59,13.52,328.27,Commercial,Four-wheeler,Card,Hot,Friday,24.28
+MS_S_00471,MS-1618,AtherGrid,Pune,18.515812,73.85583,AC Slow,CHAdeMO,2,10-06-2025 04:16,10-06-2025 06:19,123,10.82,138.06,Private,Two-wheeler,Wallet,Hot,Tuesday,12.76
+MS_S_00472,MS-7550,Private-Operator-1,Pune,18.542887,73.850018,AC Slow,CCS,1,17-07-2025 02:46,17-07-2025 04:39,113,7.3,107.31,Private,Two-wheeler,UPI,Rain,Thursday,14.7
+MS_S_00473,MS-5921,Tata Power,Latur,18.408529,76.557113,AC Slow,Bharat DC-001,2,06-06-2025 01:58,06-06-2025 05:45,227,14.68,127.86,Commercial,Two-wheeler,UPI,Sunny,Friday,8.71
+MS_S_00474,MS-1187,Private-Operator-2,Nashik,19.988765,73.757668,AC Slow,Bharat DC-001,2,04-06-2025 09:33,04-06-2025 10:13,40,13.8,152.35,Private,Two-wheeler,Card,Sunny,Wednesday,11.04
+MS_S_00475,MS-1827,Private-Operator-2,Nagpur,21.119955,79.101994,DC Fast,Bharat DC-001,1,29-06-2025 19:36,29-06-2025 20:18,42,37.42,747.28,Commercial,Two-wheeler,Subscription,Sunny,Sunday,19.97
+MS_S_00476,MS-3165,Reliance BP,Nagpur,21.130125,79.074389,DC Fast,Type-2,1,01-07-2025 18:47,01-07-2025 19:00,13,15.96,373.62,Commercial,Two-wheeler,Subscription,Cloudy,Tuesday,23.41
+MS_S_00477,MS-3209,AtherGrid,Nagpur,21.159441,79.117945,AC Slow,CCS,1,02-07-2025 12:41,02-07-2025 15:37,176,1.88,21.07,Private,Two-wheeler,Wallet,Sunny,Wednesday,11.21
+MS_S_00478,MS-6298,Private-Operator-2,Solapur,17.669894,75.91584,DC Fast,Type-2,1,08-06-2025 21:26,08-06-2025 22:03,37,57.33,1312.86,Private,Two-wheeler,UPI,Sunny,Sunday,22.9
+MS_S_00479,MS-3773,Reliance BP,Thane,19.235683,72.995846,DC Fast,Bharat DC-001,2,10-07-2025 04:28,10-07-2025 04:40,12,16.02,320.72,Private,Two-wheeler,Wallet,Hot,Thursday,20.02
+MS_S_00480,MS-2405,Tata Power,Nagpur,21.16726,79.135477,AC Slow,Type-2,1,16-06-2025 19:59,16-06-2025 21:06,67,6.2,89.59,Commercial,Two-wheeler,UPI,Hot,Monday,14.45
+MS_S_00481,MS-8373,AtherGrid,Thane,19.213683,73.007165,AC Slow,Type-2,1,22-06-2025 06:47,22-06-2025 09:34,167,13.53,171.43,Commercial,Two-wheeler,Card,Sunny,Sunday,12.67
+MS_S_00482,MS-7170,Private-Operator-1,Mumbai,19.11585,72.862367,AC Slow,Type-2,1,17-06-2025 05:03,17-06-2025 06:45,102,10.88,119.57,Commercial,Two-wheeler,UPI,Sunny,Tuesday,10.99
+MS_S_00483,MS-7367,Private-Operator-2,Pune,18.512657,73.855792,DC Fast,CHAdeMO,1,13-07-2025 21:23,13-07-2025 21:39,16,50.36,795.69,Commercial,Two-wheeler,Subscription,Sunny,Sunday,15.8
+MS_S_00484,MS-2631,Reliance BP,Amravati,20.927538,77.807873,AC Slow,Bharat DC-001,2,26-07-2025 19:34,26-07-2025 20:26,52,1.79,20.48,Commercial,Two-wheeler,UPI,Sunny,Saturday,11.44
+MS_S_00485,MS-5053,Private-Operator-1,Mumbai,19.091807,72.884501,DC Fast,CHAdeMO,1,22-06-2025 15:25,22-06-2025 16:22,57,13.77,194.02,Commercial,Three-wheeler,Wallet,Sunny,Sunday,14.09
+MS_S_00486,MS-4869,Private-Operator-1,Thane,19.196597,72.961592,DC Fast,CHAdeMO,2,22-07-2025 01:40,22-07-2025 02:06,26,11.07,174.46,Private,Four-wheeler,Wallet,Hot,Tuesday,15.76
+MS_S_00487,MS-3485,Reliance BP,Nashik,20.007137,73.800745,AC Slow,Bharat DC-001,2,13-07-2025 04:05,13-07-2025 07:41,216,6,62.88,Private,Two-wheeler,Card,Sunny,Sunday,10.48
+MS_S_00488,MS-6118,Private-Operator-1,Solapur,17.661618,75.862014,AC Slow,CHAdeMO,3,29-06-2025 17:08,29-06-2025 18:30,82,14.34,147.56,Private,Four-wheeler,Wallet,Cloudy,Sunday,10.29
+MS_S_00489,MS-3215,AtherGrid,Amravati,20.940904,77.838705,DC Fast,CCS,3,12-07-2025 18:58,12-07-2025 19:18,20,10.64,182.05,Private,Two-wheeler,Card,Sunny,Saturday,17.11
+MS_S_00490,MS-6221,AtherGrid,Mumbai,19.084402,72.889837,AC Slow,Bharat DC-001,3,20-06-2025 14:47,20-06-2025 18:47,240,10.48,145.36,Commercial,Two-wheeler,Card,Hot,Friday,13.87
+MS_S_00491,MS-3155,MSEDCL,Pune,18.53151,73.838326,AC Slow,Type-2,2,19-07-2025 19:39,19-07-2025 21:17,98,3.25,41.34,Private,Two-wheeler,Card,Cloudy,Saturday,12.72
+MS_S_00492,MS-6886,Tata Power,Mumbai,19.095516,72.896069,AC Slow,Bharat DC-001,1,09-06-2025 16:54,09-06-2025 19:58,184,3.31,26.51,Commercial,Two-wheeler,Subscription,Sunny,Monday,8.01
+MS_S_00493,MS-8763,MSEDCL,Kolhapur,16.690808,74.21813,AC Slow,CCS,1,13-06-2025 07:02,13-06-2025 09:16,134,2.17,17.64,Private,Four-wheeler,Subscription,Rain,Friday,8.13
+MS_S_00494,MS-4323,MSEDCL,Nashik,19.969948,73.778505,AC Slow,Type-2,1,12-06-2025 14:55,12-06-2025 18:02,187,8.27,101.31,Commercial,Four-wheeler,Card,Sunny,Thursday,12.25
+MS_S_00495,MS-7633,Tata Power,Solapur,17.62818,75.868802,AC Slow,Bharat DC-001,4,17-07-2025 10:25,17-07-2025 13:31,186,9.63,114.6,Private,Two-wheeler,Subscription,Hot,Thursday,11.9
+MS_S_00496,MS-1694,MSEDCL,Kolhapur,16.652285,74.243368,AC Slow,Bharat DC-001,2,18-07-2025 01:35,18-07-2025 03:44,129,10.83,99.64,Private,Two-wheeler,Subscription,Cloudy,Friday,9.2
+MS_S_00497,MS-5989,Reliance BP,Solapur,17.641392,75.911508,DC Fast,Bharat DC-001,2,11-06-2025 13:18,11-06-2025 14:07,49,34.29,462.91,Private,Two-wheeler,Subscription,Hot,Wednesday,13.5
+MS_S_00498,MS-9202,Tata Power,Pune,18.537569,73.852008,AC Slow,CCS,1,20-07-2025 18:57,20-07-2025 22:25,208,10.69,100.91,Commercial,Two-wheeler,Subscription,Cloudy,Sunday,9.44
+MS_S_00499,MS-3930,AtherGrid,Mumbai,19.128416,72.855461,AC Slow,CCS,2,27-07-2025 14:05,27-07-2025 15:39,94,6.87,55.85,Private,Three-wheeler,UPI,Sunny,Sunday,8.13
+MS_S_00500,MS-2870,Private-Operator-2,Pune,18.526013,73.891872,AC Slow,Bharat DC-001,2,11-07-2025 11:05,11-07-2025 13:49,164,4.55,36.72,Private,Two-wheeler,Subscription,Rain,Friday,8.07
+MS_S_00501,MS-3799,Reliance BP,Mumbai,19.097929,72.865186,DC Fast,CCS,3,11-06-2025 04:11,11-06-2025 05:10,59,51.38,940.77,Commercial,Two-wheeler,Subscription,Rain,Wednesday,18.31
+MS_S_00502,MS-3960,Tata Power,Thane,19.202299,72.97683,AC Slow,CCS,1,13-06-2025 00:39,13-06-2025 04:24,225,12.97,183.91,Commercial,Two-wheeler,Subscription,Sunny,Friday,14.18
+MS_S_00503,MS-1094,Private-Operator-1,Amravati,20.954369,77.734062,AC Slow,Bharat DC-001,3,16-06-2025 06:37,16-06-2025 09:55,198,13.62,128.3,Commercial,Two-wheeler,UPI,Sunny,Monday,9.42
+MS_S_00504,MS-9967,Reliance BP,Nashik,20.021502,73.779962,DC Fast,CCS,1,04-06-2025 05:09,04-06-2025 05:22,13,40.66,526.95,Private,Two-wheeler,UPI,Cloudy,Wednesday,12.96
+MS_S_00505,MS-5889,Reliance BP,Latur,18.396293,76.536807,AC Slow,Type-2,4,04-06-2025 03:26,04-06-2025 04:41,75,8.83,90.51,Commercial,Three-wheeler,Card,Sunny,Wednesday,10.25
+MS_S_00506,MS-6901,Tata Power,Kolhapur,16.722941,74.268798,AC Slow,Type-2,1,20-07-2025 09:20,20-07-2025 11:24,124,6.17,69.41,Private,Four-wheeler,UPI,Hot,Sunday,11.25
+MS_S_00507,MS-8713,MSEDCL,Thane,19.21427,72.97797,DC Fast,Type-2,1,15-07-2025 08:21,15-07-2025 09:04,43,16.97,349.58,Private,Three-wheeler,UPI,Sunny,Tuesday,20.6
+MS_S_00508,MS-9666,Tata Power,Pune,18.529546,73.885816,DC Fast,Bharat DC-001,2,17-07-2025 22:38,17-07-2025 23:38,60,35.16,452.16,Commercial,Two-wheeler,Wallet,Cool,Thursday,12.86
+MS_S_00509,MS-9608,Private-Operator-1,Thane,19.226495,72.960878,DC Fast,CHAdeMO,2,30-07-2025 04:39,30-07-2025 05:25,46,49.17,920.95,Commercial,Two-wheeler,Card,Sunny,Wednesday,18.73
+MS_S_00510,MS-4812,Private-Operator-2,Latur,18.414932,76.569864,AC Slow,CHAdeMO,2,13-06-2025 00:07,13-06-2025 00:43,36,3.38,31.64,Private,Three-wheeler,Card,Sunny,Friday,9.36
+MS_S_00511,MS-7793,AtherGrid,Latur,18.412813,76.579426,DC Fast,Type-2,2,22-06-2025 11:35,22-06-2025 12:25,50,37.84,775.72,Private,Three-wheeler,Wallet,Sunny,Sunday,20.5
+MS_S_00512,MS-6042,Reliance BP,Pune,18.503447,73.843658,AC Slow,CHAdeMO,1,20-07-2025 00:07,20-07-2025 03:32,205,7.63,99.27,Commercial,Three-wheeler,UPI,Sunny,Sunday,13.01
+MS_S_00513,MS-4178,Reliance BP,Nagpur,21.146112,79.106246,AC Slow,CHAdeMO,1,30-07-2025 21:30,31-07-2025 00:01,151,4.01,43.99,Private,Two-wheeler,Subscription,Rain,Wednesday,10.97
+MS_S_00514,MS-6490,AtherGrid,Amravati,20.947616,77.799612,AC Slow,Bharat DC-001,1,30-07-2025 23:03,31-07-2025 01:46,163,10.75,114.81,Commercial,Two-wheeler,UPI,Sunny,Wednesday,10.68
+MS_S_00515,MS-6434,Reliance BP,Nashik,20.000937,73.800865,DC Fast,Type-2,1,10-06-2025 08:53,10-06-2025 09:04,11,43.08,664.72,Commercial,Three-wheeler,Card,Sunny,Tuesday,15.43
+MS_S_00516,MS-7382,MSEDCL,Latur,18.418264,76.533257,AC Slow,Type-2,1,26-07-2025 09:45,26-07-2025 11:35,110,3.67,47.2,Commercial,Two-wheeler,Subscription,Rain,Saturday,12.86
+MS_S_00517,MS-7088,AtherGrid,Nashik,19.983565,73.801441,AC Slow,CHAdeMO,2,14-06-2025 16:19,14-06-2025 17:33,74,12.41,166.91,Private,Four-wheeler,UPI,Sunny,Saturday,13.45
+MS_S_00518,MS-9290,Tata Power,Kolhapur,16.711993,74.212004,AC Slow,Bharat DC-001,2,28-07-2025 16:09,28-07-2025 17:27,78,6.16,67.94,Commercial,Three-wheeler,Wallet,Sunny,Monday,11.03
+MS_S_00519,MS-3347,Tata Power,Aurangabad,19.869611,75.357937,AC Slow,CCS,2,14-06-2025 23:02,15-06-2025 01:29,147,5.52,78.88,Private,Two-wheeler,UPI,Sunny,Saturday,14.29
+MS_S_00520,MS-2426,Reliance BP,Latur,18.418385,76.529889,DC Fast,Bharat DC-001,4,27-07-2025 01:06,27-07-2025 01:49,43,50.4,1158.19,Commercial,Two-wheeler,Wallet,Rain,Sunday,22.98
+MS_S_00521,MS-6257,MSEDCL,Nashik,20.012636,73.802049,AC Slow,CCS,1,19-06-2025 08:34,19-06-2025 10:25,111,14.98,154.14,Private,Two-wheeler,Card,Rain,Thursday,10.29
+MS_S_00522,MS-2875,Tata Power,Thane,19.197966,72.973218,DC Fast,Type-2,4,14-06-2025 17:22,14-06-2025 18:07,45,18.28,228.87,Private,Four-wheeler,Wallet,Sunny,Saturday,12.52
+MS_S_00523,MS-5011,MSEDCL,Latur,18.430635,76.534356,AC Slow,Type-2,1,20-06-2025 19:57,20-06-2025 21:53,116,11.97,143.16,Private,Two-wheeler,Subscription,Cloudy,Friday,11.96
+MS_S_00524,MS-2735,AtherGrid,Mumbai,19.083736,72.89952,AC Slow,Type-2,1,06-06-2025 13:25,06-06-2025 14:40,75,11.7,144.73,Commercial,Three-wheeler,Wallet,Rain,Friday,12.37
+MS_S_00525,MS-4246,Private-Operator-2,Aurangabad,19.879098,75.343778,AC Slow,Type-2,2,30-07-2025 14:36,30-07-2025 15:39,63,13.1,158.64,Commercial,Two-wheeler,Wallet,Sunny,Wednesday,12.11
+MS_S_00526,MS-8709,MSEDCL,Kolhapur,16.714997,74.215314,DC Fast,CCS,1,10-06-2025 19:16,10-06-2025 19:49,33,43.91,749.1,Commercial,Four-wheeler,Wallet,Sunny,Tuesday,17.06
+MS_S_00527,MS-8987,Tata Power,Kolhapur,16.71751,74.261005,DC Fast,Type-2,3,01-07-2025 03:22,01-07-2025 04:02,40,23.8,448.87,Private,Two-wheeler,Wallet,Sunny,Tuesday,18.86
+MS_S_00528,MS-3087,Private-Operator-1,Latur,18.387822,76.590233,AC Slow,Type-2,1,26-06-2025 22:50,26-06-2025 23:47,57,7.37,93.75,Private,Four-wheeler,Subscription,Sunny,Thursday,12.72
+MS_S_00529,MS-7773,MSEDCL,Solapur,17.680129,75.93323,DC Fast,CCS,1,06-07-2025 05:30,06-07-2025 06:04,34,32.52,682.27,Private,Four-wheeler,Subscription,Sunny,Sunday,20.98
+MS_S_00530,MS-6606,Private-Operator-1,Solapur,17.671158,75.888804,AC Slow,CCS,1,12-06-2025 21:42,12-06-2025 22:31,49,9.9,120.78,Commercial,Two-wheeler,Subscription,Rain,Thursday,12.2
+MS_S_00531,MS-2599,AtherGrid,Aurangabad,19.907283,75.36038,AC Slow,CCS,2,20-06-2025 12:04,20-06-2025 15:07,183,12.72,116.9,Commercial,Two-wheeler,UPI,Sunny,Friday,9.19
+MS_S_00532,MS-4565,MSEDCL,Pune,18.469809,73.850768,DC Fast,Type-2,3,19-07-2025 04:42,19-07-2025 05:01,19,57.85,1097.41,Commercial,Two-wheeler,Subscription,Sunny,Saturday,18.97
+MS_S_00533,MS-4369,Private-Operator-2,Nashik,20.03261,73.82126,AC Slow,CHAdeMO,2,20-06-2025 18:50,20-06-2025 22:13,203,4.88,70.52,Commercial,Three-wheeler,Wallet,Sunny,Friday,14.45
+MS_S_00534,MS-1133,Private-Operator-1,Pune,18.5243,73.841534,AC Slow,Bharat DC-001,1,25-07-2025 04:54,25-07-2025 06:39,105,1.44,15.78,Private,Two-wheeler,Wallet,Sunny,Friday,10.96
+MS_S_00535,MS-5623,Tata Power,Pune,18.532991,73.840614,DC Fast,CCS,3,28-06-2025 22:37,28-06-2025 23:12,35,41.25,608.44,Commercial,Two-wheeler,Subscription,Cloudy,Saturday,14.75
+MS_S_00536,MS-4460,Private-Operator-2,Amravati,20.942463,77.795407,AC Slow,CCS,3,01-07-2025 04:12,01-07-2025 07:04,172,14.96,122.82,Commercial,Four-wheeler,Card,Sunny,Tuesday,8.21
+MS_S_00537,MS-3056,MSEDCL,Thane,19.207971,72.974171,DC Fast,Type-2,1,05-06-2025 20:01,05-06-2025 20:20,19,51.61,661.12,Commercial,Three-wheeler,Card,Rain,Thursday,12.81
+MS_S_00538,MS-3248,Private-Operator-2,Pune,18.516283,73.841768,DC Fast,Bharat DC-001,3,26-07-2025 14:57,26-07-2025 15:57,60,51.89,1255.22,Commercial,Three-wheeler,Subscription,Cloudy,Saturday,24.19
+MS_S_00539,MS-7948,Private-Operator-1,Amravati,20.927577,77.773302,AC Slow,Bharat DC-001,1,25-06-2025 11:14,25-06-2025 12:31,77,4.21,47.49,Private,Two-wheeler,Card,Sunny,Wednesday,11.28
+MS_S_00540,MS-5411,AtherGrid,Amravati,20.936165,77.788589,AC Slow,CHAdeMO,1,03-06-2025 01:36,03-06-2025 04:09,153,14.62,194.74,Private,Two-wheeler,UPI,Rain,Tuesday,13.32
+MS_S_00541,MS-9624,Reliance BP,Nagpur,21.136056,79.081162,AC Slow,Bharat DC-001,2,04-07-2025 02:33,04-07-2025 05:39,186,5.57,56.26,Commercial,Three-wheeler,UPI,Sunny,Friday,10.1
+MS_S_00542,MS-6119,Private-Operator-1,Amravati,20.949301,77.767852,AC Slow,Type-2,1,28-07-2025 10:34,28-07-2025 14:23,229,10.44,88.11,Commercial,Two-wheeler,Subscription,Sunny,Monday,8.44
+MS_S_00543,MS-6431,AtherGrid,Latur,18.408371,76.543631,AC Slow,CHAdeMO,1,22-07-2025 09:18,22-07-2025 10:30,72,13.11,119.04,Commercial,Three-wheeler,Wallet,Sunny,Tuesday,9.08
+MS_S_00544,MS-8752,Private-Operator-1,Mumbai,19.079677,72.931561,AC Slow,CCS,2,07-07-2025 01:42,07-07-2025 03:26,104,12.25,109.76,Private,Two-wheeler,UPI,Hot,Monday,8.96
+MS_S_00545,MS-9283,Tata Power,Nagpur,21.144188,79.071539,AC Slow,CHAdeMO,2,17-06-2025 04:39,17-06-2025 06:20,101,4.83,55.11,Commercial,Two-wheeler,UPI,Sunny,Tuesday,11.41
+MS_S_00546,MS-3860,Private-Operator-1,Latur,18.443777,76.554175,AC Slow,CCS,3,13-07-2025 14:23,13-07-2025 18:19,236,1.8,19.67,Private,Two-wheeler,UPI,Sunny,Sunday,10.93
+MS_S_00547,MS-2382,MSEDCL,Aurangabad,19.884076,75.304747,AC Slow,CCS,2,24-07-2025 15:48,24-07-2025 18:03,135,11.88,166.8,Private,Three-wheeler,Card,Rain,Thursday,14.04
+MS_S_00548,MS-6653,Tata Power,Nashik,19.996522,73.761696,DC Fast,CHAdeMO,4,19-07-2025 03:03,19-07-2025 03:23,20,53.92,907.47,Commercial,Two-wheeler,Card,Sunny,Saturday,16.83
+MS_S_00549,MS-7390,AtherGrid,Solapur,17.678929,75.89907,DC Fast,CHAdeMO,1,10-06-2025 16:55,10-06-2025 17:32,37,31.57,722.95,Commercial,Two-wheeler,Wallet,Sunny,Tuesday,22.9
+MS_S_00550,MS-1672,Tata Power,Amravati,20.932532,77.773003,AC Slow,CHAdeMO,1,25-07-2025 13:39,25-07-2025 16:55,196,7.36,98.18,Commercial,Two-wheeler,UPI,Hot,Friday,13.34
+MS_S_00551,MS-7408,AtherGrid,Thane,19.262676,72.974919,DC Fast,CCS,1,17-07-2025 21:37,17-07-2025 22:36,59,36.23,707.57,Commercial,Three-wheeler,Card,Sunny,Thursday,19.53
+MS_S_00552,MS-9972,Tata Power,Aurangabad,19.880536,75.321354,AC Slow,Type-2,2,24-07-2025 02:00,24-07-2025 04:15,135,6.21,78.43,Private,Three-wheeler,Wallet,Sunny,Thursday,12.63
+MS_S_00553,MS-5641,Reliance BP,Nashik,19.986535,73.806467,AC Slow,CCS,1,03-06-2025 00:39,03-06-2025 01:32,53,4.06,37.68,Private,Four-wheeler,UPI,Sunny,Tuesday,9.28
+MS_S_00554,MS-2415,Private-Operator-1,Pune,18.544759,73.846436,DC Fast,CCS,4,25-06-2025 21:48,25-06-2025 22:39,51,36.42,504.78,Private,Four-wheeler,Card,Cloudy,Wednesday,13.86
+MS_S_00555,MS-5826,AtherGrid,Thane,19.207676,72.987778,AC Slow,Type-2,1,11-07-2025 14:59,11-07-2025 16:39,100,8.79,122.36,Commercial,Two-wheeler,UPI,Rain,Friday,13.92
+MS_S_00556,MS-2022,AtherGrid,Thane,19.201528,72.960366,DC Fast,Bharat DC-001,1,22-06-2025 01:16,22-06-2025 01:42,26,17,397.12,Private,Two-wheeler,Card,Sunny,Sunday,23.36
+MS_S_00557,MS-7432,MSEDCL,Latur,18.396254,76.569768,AC Slow,Bharat DC-001,3,07-06-2025 04:34,07-06-2025 08:20,226,12.1,149.92,Private,Four-wheeler,Wallet,Sunny,Saturday,12.39
+MS_S_00558,MS-1571,Tata Power,Pune,18.50167,73.843344,AC Slow,Type-2,1,07-07-2025 23:16,08-07-2025 03:04,228,2.31,26.33,Commercial,Two-wheeler,UPI,Sunny,Monday,11.4
+MS_S_00559,MS-7397,Reliance BP,Mumbai,19.063863,72.886854,AC Slow,CCS,3,15-07-2025 10:57,15-07-2025 13:07,130,7.55,85.01,Commercial,Two-wheeler,Subscription,Cloudy,Tuesday,11.26
+MS_S_00560,MS-9849,MSEDCL,Pune,18.509875,73.884467,AC Slow,Type-2,1,25-06-2025 22:52,26-06-2025 02:41,229,9.36,140.4,Commercial,Two-wheeler,Wallet,Sunny,Wednesday,15
+MS_S_00561,MS-1904,Private-Operator-2,Solapur,17.662725,75.863789,DC Fast,Type-2,1,24-06-2025 17:54,24-06-2025 18:25,31,6.68,97.93,Commercial,Four-wheeler,Wallet,Sunny,Tuesday,14.66
+MS_S_00562,MS-3893,Private-Operator-1,Nashik,19.955818,73.824294,AC Slow,Type-2,3,25-06-2025 21:12,25-06-2025 22:58,106,8.14,93.69,Private,Three-wheeler,Wallet,Cloudy,Wednesday,11.51
+MS_S_00563,MS-2390,Private-Operator-2,Kolhapur,16.693603,74.24989,DC Fast,Bharat DC-001,1,18-07-2025 06:08,18-07-2025 06:20,12,6.37,113.64,Private,Two-wheeler,UPI,Sunny,Friday,17.84
+MS_S_00564,MS-6041,AtherGrid,Amravati,20.9284,77.804143,AC Slow,Bharat DC-001,1,02-06-2025 01:21,02-06-2025 02:05,44,3.43,36.56,Private,Two-wheeler,Card,Sunny,Monday,10.66
+MS_S_00565,MS-8509,Private-Operator-2,Amravati,20.95111,77.815972,DC Fast,CCS,1,18-07-2025 18:14,18-07-2025 18:28,14,47.5,716.3,Private,Two-wheeler,UPI,Sunny,Friday,15.08
+MS_S_00566,MS-1750,MSEDCL,Kolhapur,16.706961,74.269217,DC Fast,CCS,1,01-06-2025 05:40,01-06-2025 05:53,13,8.64,105.84,Private,Two-wheeler,Card,Hot,Sunday,12.25
+MS_S_00567,MS-2047,Tata Power,Latur,18.410835,76.565645,DC Fast,Type-2,1,02-07-2025 19:51,02-07-2025 20:40,49,23.98,297.11,Private,Two-wheeler,Subscription,Sunny,Wednesday,12.39
+MS_S_00568,MS-2979,Private-Operator-2,Aurangabad,19.893583,75.334189,DC Fast,CCS,1,21-06-2025 06:48,21-06-2025 07:00,12,38.63,804.28,Commercial,Two-wheeler,Wallet,Cloudy,Saturday,20.82
+MS_S_00569,MS-7801,MSEDCL,Nagpur,21.163321,79.117653,DC Fast,CHAdeMO,3,06-07-2025 05:28,06-07-2025 05:53,25,45.65,712.6,Private,Two-wheeler,Subscription,Hot,Sunday,15.61
+MS_S_00570,MS-1256,AtherGrid,Nagpur,21.11301,79.080351,DC Fast,Type-2,1,01-06-2025 00:11,01-06-2025 00:26,15,23.7,308.81,Commercial,Two-wheeler,Subscription,Rain,Sunday,13.03
+MS_S_00571,MS-4377,MSEDCL,Nagpur,21.15861,79.08439,AC Slow,CHAdeMO,3,04-07-2025 14:26,04-07-2025 15:57,91,14.1,131.13,Private,Two-wheeler,Subscription,Hot,Friday,9.3
+MS_S_00572,MS-2442,Private-Operator-2,Latur,18.410704,76.500777,AC Slow,CHAdeMO,1,23-06-2025 13:00,23-06-2025 15:52,172,3.28,39.92,Private,Four-wheeler,UPI,Sunny,Monday,12.17
+MS_S_00573,MS-6929,Private-Operator-1,Latur,18.418333,76.59102,AC Slow,CCS,1,30-06-2025 20:42,30-06-2025 22:05,83,10.27,136.18,Private,Two-wheeler,Card,Sunny,Monday,13.26
+MS_S_00574,MS-9151,MSEDCL,Kolhapur,16.686022,74.278247,DC Fast,CCS,3,13-07-2025 01:03,13-07-2025 01:54,51,46.64,593.26,Private,Two-wheeler,Wallet,Sunny,Sunday,12.72
+MS_S_00575,MS-8424,Tata Power,Latur,18.431712,76.538474,AC Slow,Type-2,3,18-07-2025 01:59,18-07-2025 04:46,167,13.54,194.43,Private,Two-wheeler,UPI,Sunny,Friday,14.36
+MS_S_00576,MS-4855,Private-Operator-2,Pune,18.544862,73.851523,AC Slow,Bharat DC-001,1,08-07-2025 18:20,08-07-2025 20:37,137,3.58,37.2,Commercial,Two-wheeler,UPI,Sunny,Tuesday,10.39
+MS_S_00577,MS-4731,Tata Power,Aurangabad,19.837955,75.341927,AC Slow,CCS,2,18-07-2025 13:55,18-07-2025 15:16,81,8.44,84.57,Private,Two-wheeler,Subscription,Sunny,Friday,10.02
+MS_S_00578,MS-8141,MSEDCL,Mumbai,19.094227,72.879815,AC Slow,CCS,1,30-07-2025 19:29,30-07-2025 20:44,75,3.3,29.11,Private,Two-wheeler,Card,Sunny,Wednesday,8.82
+MS_S_00579,MS-5418,MSEDCL,Aurangabad,19.88148,75.368747,AC Slow,CHAdeMO,2,09-06-2025 01:44,09-06-2025 04:39,175,10.22,148.39,Private,Two-wheeler,Subscription,Sunny,Monday,14.52
+MS_S_00580,MS-7852,MSEDCL,Kolhapur,16.702546,74.245167,DC Fast,CHAdeMO,3,15-06-2025 09:38,15-06-2025 09:58,20,26.97,438.26,Private,Two-wheeler,Card,Rain,Sunday,16.25
+MS_S_00581,MS-7745,Private-Operator-1,Pune,18.550728,73.868742,AC Slow,Bharat DC-001,1,26-07-2025 06:37,26-07-2025 09:08,151,2.66,39.53,Commercial,Two-wheeler,Subscription,Hot,Saturday,14.86
+MS_S_00582,MS-5060,Reliance BP,Nashik,20.002655,73.764965,AC Slow,Bharat DC-001,2,08-07-2025 07:57,08-07-2025 10:58,181,8.45,73.68,Private,Two-wheeler,UPI,Hot,Tuesday,8.72
+MS_S_00583,MS-8711,Private-Operator-2,Mumbai,19.037844,72.860492,AC Slow,Type-2,3,28-06-2025 16:25,28-06-2025 18:57,152,12.46,185.4,Private,Two-wheeler,Card,Hot,Saturday,14.88
+MS_S_00584,MS-1203,Private-Operator-2,Pune,18.531531,73.82999,AC Slow,Bharat DC-001,1,14-06-2025 04:22,14-06-2025 06:07,105,10.69,119.83,Private,Two-wheeler,Wallet,Sunny,Saturday,11.21
+MS_S_00585,MS-8524,Private-Operator-1,Nagpur,21.143927,79.114716,AC Slow,Type-2,2,30-06-2025 14:49,30-06-2025 15:54,65,6.03,82.97,Commercial,Two-wheeler,Wallet,Hot,Monday,13.76
+MS_S_00586,MS-1022,Private-Operator-2,Kolhapur,16.674613,74.186657,AC Slow,Type-2,1,25-06-2025 22:21,26-06-2025 01:06,165,12.28,126.48,Commercial,Four-wheeler,Card,Sunny,Wednesday,10.3
+MS_S_00587,MS-6500,Private-Operator-2,Pune,18.512171,73.879778,DC Fast,Type-2,1,03-07-2025 21:23,03-07-2025 21:36,13,25.95,584.13,Commercial,Two-wheeler,UPI,Sunny,Thursday,22.51
+MS_S_00588,MS-7003,MSEDCL,Aurangabad,19.880008,75.352284,AC Slow,Type-2,1,06-07-2025 22:49,07-07-2025 00:11,82,14.06,124.15,Commercial,Two-wheeler,UPI,Sunny,Sunday,8.83
+MS_S_00589,MS-4437,Private-Operator-2,Kolhapur,16.71407,74.223654,AC Slow,CCS,1,21-06-2025 11:57,21-06-2025 13:35,98,7.66,83.11,Commercial,Two-wheeler,UPI,Cloudy,Saturday,10.85
+MS_S_00590,MS-6656,AtherGrid,Aurangabad,19.856945,75.339168,DC Fast,Bharat DC-001,2,03-07-2025 16:53,03-07-2025 17:10,17,44.31,571.16,Commercial,Two-wheeler,Wallet,Sunny,Thursday,12.89
+MS_S_00591,MS-4085,AtherGrid,Pune,18.534692,73.815701,AC Slow,Type-2,3,06-06-2025 12:57,06-06-2025 14:12,75,10.26,87.62,Private,Two-wheeler,Wallet,Sunny,Friday,8.54
+MS_S_00592,MS-3424,AtherGrid,Pune,18.492967,73.842511,AC Slow,CCS,3,26-07-2025 06:33,26-07-2025 09:43,190,12.41,152.39,Commercial,Four-wheeler,Card,Sunny,Saturday,12.28
+MS_S_00593,MS-6680,AtherGrid,Kolhapur,16.693889,74.247388,AC Slow,Bharat DC-001,1,18-07-2025 20:01,18-07-2025 21:45,104,6.78,86.31,Private,Four-wheeler,Card,Sunny,Friday,12.73
+MS_S_00594,MS-6503,AtherGrid,Amravati,20.935532,77.768413,AC Slow,CHAdeMO,1,12-07-2025 20:50,12-07-2025 22:43,113,3.2,44.13,Commercial,Two-wheeler,Card,Sunny,Saturday,13.79
+MS_S_00595,MS-3813,Reliance BP,Thane,19.253399,72.978468,AC Slow,CCS,3,01-07-2025 11:18,01-07-2025 15:05,227,8.8,84.66,Private,Two-wheeler,Subscription,Hot,Tuesday,9.62
+MS_S_00596,MS-3634,Private-Operator-2,Nagpur,21.150305,79.102054,DC Fast,CHAdeMO,1,12-06-2025 05:53,12-06-2025 06:48,55,53.74,1297.82,Private,Two-wheeler,UPI,Cloudy,Thursday,24.15
+MS_S_00597,MS-6187,Private-Operator-1,Mumbai,19.061339,72.914061,AC Slow,CCS,1,29-06-2025 08:23,29-06-2025 09:40,77,11.53,135.13,Private,Three-wheeler,Wallet,Sunny,Sunday,11.72
+MS_S_00598,MS-7109,AtherGrid,Nagpur,21.169811,79.091007,DC Fast,CCS,3,05-07-2025 09:07,05-07-2025 09:18,11,13.05,297.93,Commercial,Four-wheeler,Subscription,Sunny,Saturday,22.83
+MS_S_00599,MS-3556,Tata Power,Aurangabad,19.875068,75.367679,AC Slow,CHAdeMO,1,12-07-2025 22:18,13-07-2025 00:49,151,13.81,134.79,Private,Four-wheeler,Subscription,Hot,Saturday,9.76
+MS_S_00600,MS-2840,Private-Operator-2,Aurangabad,19.874311,75.351692,AC Slow,Bharat DC-001,1,28-07-2025 01:08,28-07-2025 04:31,203,9.02,92.73,Commercial,Two-wheeler,Card,Cloudy,Monday,10.28
+MS_S_00601,MS-6855,Tata Power,Kolhapur,16.70241,74.254897,DC Fast,CHAdeMO,1,04-06-2025 19:41,04-06-2025 20:03,22,41.91,941.72,Private,Four-wheeler,Wallet,Cloudy,Wednesday,22.47
+MS_S_00602,MS-1369,Tata Power,Nashik,20.03049,73.811212,DC Fast,Bharat DC-001,1,14-07-2025 21:05,14-07-2025 21:47,42,59.47,733.86,Commercial,Two-wheeler,UPI,Sunny,Monday,12.34
+MS_S_00603,MS-7513,MSEDCL,Aurangabad,19.850337,75.354748,DC Fast,Bharat DC-001,1,24-06-2025 12:23,24-06-2025 12:33,10,56.62,813.06,Commercial,Two-wheeler,Subscription,Sunny,Tuesday,14.36
+MS_S_00604,MS-2435,MSEDCL,Amravati,20.931383,77.75481,AC Slow,Bharat DC-001,2,18-07-2025 13:51,18-07-2025 16:14,143,6.84,62.38,Commercial,Three-wheeler,Subscription,Sunny,Friday,9.12
+MS_S_00605,MS-2410,MSEDCL,Nagpur,21.166774,79.121308,DC Fast,CCS,3,20-06-2025 15:55,20-06-2025 16:38,43,9.63,164.77,Private,Four-wheeler,Subscription,Cool,Friday,17.11
+MS_S_00606,MS-1108,AtherGrid,Pune,18.530224,73.849539,AC Slow,CHAdeMO,1,27-06-2025 05:35,27-06-2025 08:03,148,1.33,18.41,Private,Two-wheeler,Subscription,Rain,Friday,13.84
+MS_S_00607,MS-9037,Tata Power,Thane,19.180113,73.004466,DC Fast,CHAdeMO,1,24-07-2025 18:19,24-07-2025 19:00,41,7.78,97.33,Commercial,Two-wheeler,UPI,Cloudy,Thursday,12.51
+MS_S_00608,MS-5303,Reliance BP,Nagpur,21.144015,79.087449,AC Slow,Bharat DC-001,2,08-06-2025 20:42,08-06-2025 22:25,103,1.16,15.67,Commercial,Four-wheeler,Card,Sunny,Sunday,13.51
+MS_S_00609,MS-2955,Reliance BP,Mumbai,19.095031,72.857277,AC Slow,Bharat DC-001,1,05-06-2025 19:47,05-06-2025 21:49,122,14.63,172.78,Commercial,Four-wheeler,Subscription,Cloudy,Thursday,11.81
+MS_S_00610,MS-7114,Private-Operator-1,Pune,18.518418,73.844644,AC Slow,Type-2,3,25-07-2025 08:10,25-07-2025 11:08,178,6.25,74.06,Commercial,Two-wheeler,Card,Sunny,Friday,11.85
+MS_S_00611,MS-3675,Tata Power,Aurangabad,19.873987,75.325367,DC Fast,CHAdeMO,3,24-06-2025 13:40,24-06-2025 14:12,32,17.34,259.06,Commercial,Two-wheeler,UPI,Sunny,Tuesday,14.94
+MS_S_00612,MS-4175,Private-Operator-2,Amravati,20.87926,77.771504,AC Slow,CCS,3,19-07-2025 03:38,19-07-2025 07:20,222,2.17,20.57,Commercial,Four-wheeler,Wallet,Sunny,Saturday,9.48
+MS_S_00613,MS-6939,Tata Power,Thane,19.244873,72.984364,AC Slow,CHAdeMO,1,23-07-2025 04:00,23-07-2025 05:05,65,8.42,76.87,Commercial,Four-wheeler,Subscription,Cloudy,Wednesday,9.13
+MS_S_00614,MS-3671,Tata Power,Aurangabad,19.853113,75.308263,DC Fast,CCS,1,10-06-2025 16:14,10-06-2025 16:36,22,13.21,204.62,Private,Two-wheeler,UPI,Rain,Tuesday,15.49
+MS_S_00615,MS-3150,Tata Power,Pune,18.501485,73.868865,DC Fast,Bharat DC-001,1,23-06-2025 09:44,23-06-2025 10:17,33,6.91,118.09,Commercial,Four-wheeler,Wallet,Sunny,Monday,17.09
+MS_S_00616,MS-5991,Tata Power,Nagpur,21.125756,79.073151,AC Slow,Type-2,1,15-06-2025 04:54,15-06-2025 08:21,207,13.41,191.36,Private,Two-wheeler,Card,Sunny,Sunday,14.27
+MS_S_00617,MS-2287,AtherGrid,Nagpur,21.165368,79.098643,AC Slow,Type-2,1,05-06-2025 00:49,05-06-2025 03:22,153,10.41,143.45,Private,Two-wheeler,UPI,Rain,Thursday,13.78
+MS_S_00618,MS-1971,AtherGrid,Amravati,20.913464,77.796874,AC Slow,Type-2,1,29-07-2025 08:02,29-07-2025 08:48,46,11.33,119.19,Private,Four-wheeler,UPI,Sunny,Tuesday,10.52
+MS_S_00619,MS-4365,Private-Operator-1,Latur,18.426859,76.597192,AC Slow,CCS,4,12-06-2025 21:22,12-06-2025 21:59,37,3.19,47.59,Commercial,Four-wheeler,Wallet,Sunny,Thursday,14.92
+MS_S_00620,MS-3630,Private-Operator-1,Aurangabad,19.845499,75.3057,DC Fast,CCS,1,03-07-2025 18:04,03-07-2025 18:20,16,30.72,615.94,Private,Two-wheeler,Card,Hot,Thursday,20.05
+MS_S_00621,MS-3814,Private-Operator-1,Thane,19.222004,72.986609,AC Slow,Type-2,2,17-07-2025 03:59,17-07-2025 05:23,84,12.91,121.48,Commercial,Two-wheeler,Card,Hot,Thursday,9.41
+MS_S_00622,MS-2758,MSEDCL,Kolhapur,16.685954,74.22976,DC Fast,CHAdeMO,2,25-06-2025 13:13,25-06-2025 13:55,42,47.87,584.49,Private,Four-wheeler,Wallet,Sunny,Wednesday,12.21
+MS_S_00623,MS-8633,Tata Power,Pune,18.538408,73.865725,DC Fast,CCS,1,02-07-2025 11:45,02-07-2025 12:13,28,52.61,701.82,Private,Two-wheeler,Subscription,Cloudy,Wednesday,13.34
+MS_S_00624,MS-7304,Reliance BP,Pune,18.535112,73.892336,AC Slow,Bharat DC-001,2,09-07-2025 23:19,10-07-2025 02:44,205,9.32,113.89,Commercial,Two-wheeler,Subscription,Cool,Wednesday,12.22
+MS_S_00625,MS-8011,MSEDCL,Thane,19.197297,72.99325,AC Slow,Type-2,1,28-07-2025 15:43,28-07-2025 17:47,124,11.76,112.66,Commercial,Three-wheeler,Subscription,Sunny,Monday,9.58
+MS_S_00626,MS-9563,Private-Operator-2,Kolhapur,16.710675,74.223543,AC Slow,Type-2,2,08-06-2025 04:25,08-06-2025 06:37,132,4.06,34.19,Private,Three-wheeler,Card,Cloudy,Sunday,8.42
+MS_S_00627,MS-6959,MSEDCL,Pune,18.535987,73.85592,DC Fast,CHAdeMO,1,13-06-2025 19:54,13-06-2025 20:29,35,45.38,746.05,Commercial,Three-wheeler,Wallet,Sunny,Friday,16.44
+MS_S_00628,MS-5472,Private-Operator-2,Latur,18.387583,76.598828,AC Slow,Bharat DC-001,1,23-06-2025 15:42,23-06-2025 18:46,184,1.19,10.2,Commercial,Two-wheeler,Card,Cool,Monday,8.57
+MS_S_00629,MS-2770,Tata Power,Kolhapur,16.708694,74.262058,AC Slow,CHAdeMO,1,02-07-2025 15:14,02-07-2025 18:24,190,5.14,65.02,Private,Two-wheeler,UPI,Hot,Wednesday,12.65
+MS_S_00630,MS-9161,Private-Operator-2,Pune,18.487028,73.877875,AC Slow,Type-2,2,12-06-2025 12:38,12-06-2025 16:01,203,1.97,17,Commercial,Three-wheeler,UPI,Sunny,Thursday,8.63
+MS_S_00631,MS-9518,AtherGrid,Pune,18.52498,73.819542,DC Fast,Bharat DC-001,1,13-06-2025 09:42,13-06-2025 10:23,41,12.88,274.22,Commercial,Two-wheeler,UPI,Sunny,Friday,21.29
+MS_S_00632,MS-8051,Tata Power,Mumbai,19.083352,72.880662,DC Fast,Bharat DC-001,3,29-06-2025 10:54,29-06-2025 11:28,34,48.57,1009.77,Private,Two-wheeler,Wallet,Sunny,Sunday,20.79
+MS_S_00633,MS-9052,AtherGrid,Nagpur,21.169535,79.116927,AC Slow,CCS,1,20-06-2025 22:24,21-06-2025 00:58,154,4.81,45.84,Commercial,Three-wheeler,Subscription,Rain,Friday,9.53
+MS_S_00634,MS-3560,Private-Operator-1,Kolhapur,16.718308,74.282124,AC Slow,Type-2,1,26-06-2025 08:31,26-06-2025 11:32,181,11.2,114.91,Commercial,Four-wheeler,Wallet,Cool,Thursday,10.26
+MS_S_00635,MS-2006,Tata Power,Aurangabad,19.880829,75.35623,AC Slow,Type-2,1,09-06-2025 11:22,09-06-2025 15:19,237,2.32,32.06,Private,Four-wheeler,Wallet,Rain,Monday,13.82
+MS_S_00636,MS-2594,AtherGrid,Solapur,17.641575,75.933509,AC Slow,CHAdeMO,1,23-06-2025 13:22,23-06-2025 14:06,44,11.21,150.89,Private,Two-wheeler,Wallet,Cloudy,Monday,13.46
+MS_S_00637,MS-2391,Private-Operator-2,Latur,18.410592,76.571681,AC Slow,Type-2,1,26-07-2025 09:07,26-07-2025 11:03,116,8.56,119.5,Commercial,Two-wheeler,Subscription,Sunny,Saturday,13.96
+MS_S_00638,MS-9433,AtherGrid,Latur,18.37777,76.590668,AC Slow,CHAdeMO,1,02-06-2025 22:30,03-06-2025 01:30,180,8.68,92.53,Commercial,Two-wheeler,Subscription,Sunny,Monday,10.66
+MS_S_00639,MS-2601,AtherGrid,Aurangabad,19.904571,75.293544,AC Slow,Type-2,1,15-07-2025 21:13,15-07-2025 23:09,116,5.41,46.96,Commercial,Two-wheeler,Wallet,Sunny,Tuesday,8.68
+MS_S_00640,MS-8143,MSEDCL,Aurangabad,19.85206,75.321794,DC Fast,Bharat DC-001,4,11-07-2025 02:53,11-07-2025 03:37,44,37.05,835.85,Commercial,Two-wheeler,Subscription,Sunny,Friday,22.56
+MS_S_00641,MS-2506,Private-Operator-2,Nashik,20.004271,73.771041,AC Slow,Type-2,2,08-07-2025 10:17,08-07-2025 11:04,47,10.55,107.72,Commercial,Two-wheeler,Wallet,Cloudy,Tuesday,10.21
+MS_S_00642,MS-5945,Private-Operator-1,Pune,18.53104,73.863933,AC Slow,CHAdeMO,2,28-06-2025 21:34,28-06-2025 23:24,110,10.71,138.16,Commercial,Two-wheeler,Subscription,Sunny,Saturday,12.9
+MS_S_00643,MS-3958,Tata Power,Amravati,20.979121,77.758705,AC Slow,CCS,2,07-07-2025 15:13,07-07-2025 18:32,199,9.67,90.03,Commercial,Two-wheeler,Subscription,Cool,Monday,9.31
+MS_S_00644,MS-1981,Private-Operator-1,Latur,18.407922,76.540954,DC Fast,CCS,1,24-06-2025 14:09,24-06-2025 14:34,25,11.91,292.15,Commercial,Four-wheeler,Subscription,Sunny,Tuesday,24.53
+MS_S_00645,MS-2055,Private-Operator-2,Aurangabad,19.880123,75.325219,AC Slow,CCS,2,25-07-2025 13:17,25-07-2025 17:17,240,2.2,18.48,Private,Two-wheeler,Card,Sunny,Friday,8.4
+MS_S_00646,MS-4907,Tata Power,Solapur,17.659852,75.894615,AC Slow,CCS,1,13-06-2025 00:15,13-06-2025 04:09,234,9.93,136.44,Commercial,Two-wheeler,Subscription,Hot,Friday,13.74
+MS_S_00647,MS-1606,MSEDCL,Solapur,17.691697,75.917881,DC Fast,CCS,1,18-06-2025 04:01,18-06-2025 04:27,26,21.93,438.16,Commercial,Three-wheeler,Card,Rain,Wednesday,19.98
+MS_S_00648,MS-8960,Tata Power,Mumbai,19.086056,72.913627,AC Slow,Type-2,2,26-07-2025 02:20,26-07-2025 05:24,184,7.53,70.25,Private,Four-wheeler,Subscription,Sunny,Saturday,9.33
+MS_S_00649,MS-2479,AtherGrid,Aurangabad,19.855673,75.3679,AC Slow,CCS,3,16-06-2025 03:36,16-06-2025 07:14,218,1.29,13.17,Private,Two-wheeler,Wallet,Cloudy,Monday,10.21
+MS_S_00650,MS-2478,MSEDCL,Kolhapur,16.718579,74.24056,DC Fast,Type-2,1,20-07-2025 10:21,20-07-2025 11:08,47,46.59,833.96,Private,Four-wheeler,Card,Rain,Sunday,17.9
+MS_S_00651,MS-2750,MSEDCL,Nagpur,21.133924,79.084887,AC Slow,CCS,1,18-06-2025 14:26,18-06-2025 16:01,95,9.18,135.77,Private,Two-wheeler,Wallet,Hot,Wednesday,14.79
+MS_S_00652,MS-6185,Private-Operator-1,Pune,18.497333,73.822953,AC Slow,Bharat DC-001,2,01-07-2025 21:15,01-07-2025 22:56,101,3.27,41.23,Private,Two-wheeler,Wallet,Hot,Tuesday,12.61
+MS_S_00653,MS-1345,Private-Operator-2,Thane,19.20412,73.017165,AC Slow,Type-2,3,24-07-2025 23:42,25-07-2025 03:36,234,6.81,72.94,Private,Two-wheeler,Subscription,Hot,Thursday,10.71
+MS_S_00654,MS-6945,Private-Operator-2,Thane,19.22631,72.980721,AC Slow,Type-2,1,05-07-2025 07:54,05-07-2025 10:17,143,12.39,180.65,Commercial,Four-wheeler,Wallet,Sunny,Saturday,14.58
+MS_S_00655,MS-2478,MSEDCL,Thane,19.184647,72.957619,AC Slow,CHAdeMO,1,14-06-2025 05:58,14-06-2025 08:20,142,9.43,113.82,Commercial,Four-wheeler,Wallet,Cloudy,Saturday,12.07
+MS_S_00656,MS-9055,AtherGrid,Pune,18.563701,73.880511,AC Slow,Bharat DC-001,1,30-07-2025 10:45,30-07-2025 13:03,138,3.28,43.1,Private,Four-wheeler,Wallet,Hot,Wednesday,13.14
+MS_S_00657,MS-2087,Reliance BP,Amravati,20.921076,77.780563,DC Fast,Bharat DC-001,2,09-07-2025 23:52,10-07-2025 00:37,45,24,538.56,Commercial,Three-wheeler,UPI,Rain,Wednesday,22.44
+MS_S_00658,MS-8264,Private-Operator-2,Nagpur,21.144321,79.086687,AC Slow,CCS,3,01-06-2025 12:12,01-06-2025 15:22,190,6.55,65.96,Private,Two-wheeler,Card,Sunny,Sunday,10.07
+MS_S_00659,MS-3131,Private-Operator-1,Amravati,20.947512,77.808782,AC Slow,Bharat DC-001,2,21-07-2025 10:28,21-07-2025 13:00,152,2.13,31.06,Private,Two-wheeler,Wallet,Hot,Monday,14.58
+MS_S_00660,MS-4254,Tata Power,Thane,19.228129,72.989495,DC Fast,Bharat DC-001,1,24-06-2025 05:25,24-06-2025 05:59,34,31.23,630.53,Private,Two-wheeler,UPI,Hot,Tuesday,20.19
+MS_S_00661,MS-4747,Tata Power,Amravati,20.94612,77.728355,AC Slow,Bharat DC-001,3,13-06-2025 08:44,13-06-2025 09:57,73,2.74,38.72,Commercial,Three-wheeler,Card,Sunny,Friday,14.13
+MS_S_00662,MS-7028,MSEDCL,Pune,18.506901,73.848638,AC Slow,Type-2,3,01-06-2025 22:33,02-06-2025 00:54,141,10.41,118.36,Commercial,Four-wheeler,Subscription,Rain,Sunday,11.37
+MS_S_00663,MS-4677,Private-Operator-2,Pune,18.537215,73.860856,AC Slow,CCS,2,13-06-2025 08:18,13-06-2025 11:59,221,6.33,53.05,Private,Two-wheeler,Card,Sunny,Friday,8.38
+MS_S_00664,MS-4531,Reliance BP,Latur,18.417517,76.568964,AC Slow,CCS,1,27-06-2025 05:26,27-06-2025 09:18,232,7.2,60.05,Commercial,Four-wheeler,Card,Sunny,Friday,8.34
+MS_S_00665,MS-8388,MSEDCL,Latur,18.417884,76.582626,AC Slow,CHAdeMO,1,08-07-2025 21:41,09-07-2025 00:08,147,12.2,144.94,Commercial,Two-wheeler,Wallet,Sunny,Tuesday,11.88
+MS_S_00666,MS-4476,Private-Operator-2,Solapur,17.705349,75.924181,DC Fast,Bharat DC-001,2,16-07-2025 13:47,16-07-2025 14:35,48,27.78,679.22,Private,Two-wheeler,UPI,Sunny,Wednesday,24.45
+MS_S_00667,MS-4847,AtherGrid,Aurangabad,19.87911,75.331018,AC Slow,CHAdeMO,2,09-07-2025 21:51,10-07-2025 00:54,183,9,83.61,Private,Two-wheeler,Subscription,Rain,Wednesday,9.29
+MS_S_00668,MS-7466,Private-Operator-2,Thane,19.21607,72.962001,DC Fast,CHAdeMO,2,09-06-2025 17:02,09-06-2025 17:49,47,17.47,360.93,Private,Two-wheeler,Wallet,Sunny,Monday,20.66
+MS_S_00669,MS-3161,Tata Power,Kolhapur,16.702447,74.232088,AC Slow,CHAdeMO,1,16-07-2025 16:27,16-07-2025 17:33,66,3.83,41.02,Commercial,Two-wheeler,Card,Sunny,Wednesday,10.71
+MS_S_00670,MS-5603,Private-Operator-2,Kolhapur,16.705376,74.219867,AC Slow,CHAdeMO,1,30-07-2025 13:18,30-07-2025 14:55,97,6.36,88.21,Commercial,Two-wheeler,Subscription,Cloudy,Wednesday,13.87
+MS_S_00671,MS-6169,Private-Operator-2,Nagpur,21.148934,79.108671,AC Slow,Bharat DC-001,1,19-07-2025 04:35,19-07-2025 07:53,198,9.03,108,Commercial,Two-wheeler,Card,Cloudy,Saturday,11.96
+MS_S_00672,MS-4766,MSEDCL,Mumbai,19.079506,72.850965,DC Fast,Type-2,1,01-07-2025 08:10,01-07-2025 09:05,55,10.39,130.6,Private,Four-wheeler,Subscription,Sunny,Tuesday,12.57
+MS_S_00673,MS-8233,Reliance BP,Mumbai,19.066909,72.873327,AC Slow,Bharat DC-001,1,30-06-2025 15:07,30-06-2025 18:41,214,14.24,197.94,Private,Two-wheeler,Card,Hot,Monday,13.9
+MS_S_00674,MS-3959,MSEDCL,Thane,19.20396,72.952408,AC Slow,CHAdeMO,1,07-07-2025 21:37,07-07-2025 23:01,84,2.73,31.75,Private,Two-wheeler,Card,Cloudy,Monday,11.63
+MS_S_00675,MS-2258,MSEDCL,Solapur,17.679456,75.864287,DC Fast,Bharat DC-001,2,14-07-2025 03:56,14-07-2025 04:27,31,57.19,792.08,Private,Two-wheeler,UPI,Sunny,Monday,13.85
+MS_S_00676,MS-3519,Tata Power,Aurangabad,19.870156,75.291237,AC Slow,Type-2,1,30-06-2025 22:42,01-07-2025 01:14,152,10.39,129.77,Commercial,Two-wheeler,UPI,Sunny,Monday,12.49
+MS_S_00677,MS-1718,Private-Operator-2,Aurangabad,19.906804,75.356599,AC Slow,Bharat DC-001,1,21-06-2025 23:46,22-06-2025 03:40,234,5.7,52.67,Private,Four-wheeler,Wallet,Cloudy,Saturday,9.24
+MS_S_00678,MS-1909,Private-Operator-2,Aurangabad,19.886124,75.332594,AC Slow,Type-2,1,06-07-2025 19:24,06-07-2025 20:17,53,4.32,37.5,Private,Two-wheeler,Subscription,Sunny,Sunday,8.68
+MS_S_00679,MS-1336,MSEDCL,Pune,18.516737,73.849567,DC Fast,CCS,2,25-06-2025 12:18,25-06-2025 13:09,51,31.13,746.81,Private,Two-wheeler,Subscription,Rain,Wednesday,23.99
+MS_S_00680,MS-6080,Private-Operator-2,Solapur,17.660804,75.907424,AC Slow,CCS,2,23-06-2025 21:06,23-06-2025 23:10,124,14.9,144.23,Commercial,Two-wheeler,Subscription,Cloudy,Monday,9.68
+MS_S_00681,MS-5398,Private-Operator-1,Kolhapur,16.715005,74.232628,AC Slow,Bharat DC-001,1,06-06-2025 13:51,06-06-2025 15:55,124,6.74,100.09,Commercial,Three-wheeler,UPI,Cloudy,Friday,14.85
+MS_S_00682,MS-9410,Reliance BP,Mumbai,19.084695,72.887209,AC Slow,Bharat DC-001,2,14-07-2025 07:41,14-07-2025 11:06,205,6.88,82.9,Commercial,Two-wheeler,UPI,Rain,Monday,12.05
+MS_S_00683,MS-8671,AtherGrid,Thane,19.24389,72.933764,DC Fast,Type-2,1,29-07-2025 15:19,29-07-2025 15:38,19,43.06,595.09,Commercial,Four-wheeler,Subscription,Cool,Tuesday,13.82
+MS_S_00684,MS-1781,Private-Operator-1,Thane,19.198987,73.010683,AC Slow,Type-2,2,29-07-2025 01:32,29-07-2025 02:29,57,14.95,133.8,Commercial,Two-wheeler,Wallet,Cloudy,Tuesday,8.95
+MS_S_00685,MS-5175,Private-Operator-1,Aurangabad,19.864564,75.319822,AC Slow,Type-2,1,20-07-2025 16:01,20-07-2025 17:00,59,14.29,202.35,Commercial,Two-wheeler,Card,Rain,Sunday,14.16
+MS_S_00686,MS-1741,Tata Power,Solapur,17.689849,75.943554,DC Fast,Bharat DC-001,1,27-07-2025 22:19,27-07-2025 22:49,30,28.01,466.37,Commercial,Four-wheeler,Subscription,Cloudy,Sunday,16.65
+MS_S_00687,MS-5342,Reliance BP,Latur,18.422579,76.544352,AC Slow,CCS,1,14-06-2025 05:05,14-06-2025 08:46,221,8.75,104.91,Commercial,Four-wheeler,UPI,Cool,Saturday,11.99
+MS_S_00688,MS-9755,Tata Power,Solapur,17.677488,75.884852,AC Slow,Type-2,1,26-06-2025 03:00,26-06-2025 04:13,73,11.92,142.44,Commercial,Three-wheeler,Subscription,Cloudy,Thursday,11.95
+MS_S_00689,MS-6910,Private-Operator-2,Thane,19.196068,72.977383,AC Slow,Bharat DC-001,2,22-07-2025 09:05,22-07-2025 10:07,62,11.29,138.53,Private,Two-wheeler,UPI,Sunny,Tuesday,12.27
+MS_S_00690,MS-1439,MSEDCL,Nashik,19.960698,73.789154,AC Slow,Bharat DC-001,1,12-07-2025 04:41,12-07-2025 06:12,91,9.39,108.92,Private,Two-wheeler,Subscription,Sunny,Saturday,11.6
+MS_S_00691,MS-8765,AtherGrid,Nagpur,21.143537,79.062216,DC Fast,Type-2,1,08-06-2025 05:57,08-06-2025 06:16,19,37.17,901,Commercial,Four-wheeler,Subscription,Rain,Sunday,24.24
+MS_S_00692,MS-8364,Private-Operator-1,Mumbai,19.095168,72.878733,AC Slow,CCS,2,13-06-2025 09:36,13-06-2025 11:46,130,8.71,94.5,Private,Two-wheeler,Subscription,Sunny,Friday,10.85
+MS_S_00693,MS-9121,Private-Operator-2,Solapur,17.664387,75.92448,AC Slow,CHAdeMO,1,03-06-2025 15:25,03-06-2025 17:59,154,13.06,157.24,Commercial,Two-wheeler,UPI,Cloudy,Tuesday,12.04
+MS_S_00694,MS-1311,AtherGrid,Amravati,20.911999,77.784739,DC Fast,CHAdeMO,1,06-07-2025 02:17,06-07-2025 03:08,51,46.24,1103.75,Commercial,Two-wheeler,Wallet,Sunny,Sunday,23.87
+MS_S_00695,MS-8147,Tata Power,Kolhapur,16.747495,74.269927,AC Slow,CCS,1,19-06-2025 23:12,20-06-2025 01:42,150,4.46,45.22,Private,Two-wheeler,Wallet,Sunny,Thursday,10.14
+MS_S_00696,MS-8675,MSEDCL,Latur,18.410425,76.53473,AC Slow,CHAdeMO,2,17-07-2025 22:24,18-07-2025 00:40,136,2.14,18.43,Commercial,Four-wheeler,Card,Hot,Thursday,8.61
+MS_S_00697,MS-4394,Reliance BP,Latur,18.430368,76.572682,AC Slow,Type-2,1,13-07-2025 15:08,13-07-2025 16:22,74,6.6,90.29,Commercial,Two-wheeler,Subscription,Sunny,Sunday,13.68
+MS_S_00698,MS-5975,MSEDCL,Kolhapur,16.751073,74.213711,DC Fast,CCS,1,06-07-2025 01:01,06-07-2025 01:33,32,13.46,316.58,Commercial,Three-wheeler,Card,Hot,Sunday,23.52
+MS_S_00699,MS-1523,Tata Power,Amravati,20.917932,77.799143,DC Fast,CHAdeMO,2,28-06-2025 03:39,28-06-2025 04:03,24,56.25,1404,Private,Two-wheeler,Wallet,Sunny,Saturday,24.96
+MS_S_00700,MS-1764,Private-Operator-1,Aurangabad,19.859721,75.328918,DC Fast,CHAdeMO,1,28-07-2025 04:54,28-07-2025 05:48,54,17.71,419.2,Private,Three-wheeler,Subscription,Hot,Monday,23.67
+MS_S_00701,MS-2817,Tata Power,Kolhapur,16.720643,74.227482,AC Slow,Type-2,3,23-07-2025 17:02,23-07-2025 19:41,159,8,101.76,Private,Four-wheeler,Wallet,Sunny,Wednesday,12.72
+MS_S_00702,MS-5786,Private-Operator-2,Nagpur,21.146481,79.090427,DC Fast,Bharat DC-001,1,19-07-2025 16:31,19-07-2025 17:27,56,27.59,406.4,Private,Three-wheeler,Wallet,Hot,Saturday,14.73
+MS_S_00703,MS-3014,MSEDCL,Nagpur,21.126084,79.082517,DC Fast,Bharat DC-001,1,27-06-2025 00:15,27-06-2025 00:55,40,48,1054.08,Private,Two-wheeler,Wallet,Sunny,Friday,21.96
+MS_S_00704,MS-6908,Private-Operator-2,Solapur,17.620335,75.907339,DC Fast,CCS,2,10-06-2025 16:26,10-06-2025 17:26,60,36.63,538.09,Commercial,Two-wheeler,Subscription,Sunny,Tuesday,14.69
+MS_S_00705,MS-9456,Private-Operator-2,Kolhapur,16.674144,74.230645,AC Slow,CHAdeMO,2,02-06-2025 14:09,02-06-2025 17:56,227,11.43,110.07,Private,Two-wheeler,Wallet,Sunny,Monday,9.63
+MS_S_00706,MS-3692,AtherGrid,Solapur,17.668331,75.911736,AC Slow,Type-2,2,26-06-2025 01:42,26-06-2025 04:56,194,13.73,145.4,Private,Four-wheeler,Wallet,Sunny,Thursday,10.59
+MS_S_00707,MS-7586,Private-Operator-2,Solapur,17.649961,75.902749,DC Fast,CHAdeMO,1,17-07-2025 23:20,17-07-2025 23:52,32,57.6,973.44,Commercial,Four-wheeler,Card,Sunny,Thursday,16.9
+MS_S_00708,MS-8310,Private-Operator-2,Solapur,17.665073,75.910655,AC Slow,CCS,1,27-07-2025 17:39,27-07-2025 21:30,231,4.48,45.79,Commercial,Three-wheeler,Subscription,Cloudy,Sunday,10.22
+MS_S_00709,MS-5940,Tata Power,Nashik,20.006395,73.773287,AC Slow,Type-2,3,05-07-2025 10:24,05-07-2025 13:59,215,13,173.55,Private,Two-wheeler,Wallet,Rain,Saturday,13.35
+MS_S_00710,MS-2520,Private-Operator-1,Nashik,20.00071,73.834051,DC Fast,CHAdeMO,2,04-07-2025 10:48,04-07-2025 11:38,50,23.24,430.17,Private,Four-wheeler,Wallet,Sunny,Friday,18.51
+MS_S_00711,MS-5979,Private-Operator-2,Nashik,20.021355,73.764643,AC Slow,Bharat DC-001,1,03-07-2025 03:46,03-07-2025 04:31,45,12.23,171.59,Commercial,Three-wheeler,Wallet,Hot,Thursday,14.03
+MS_S_00712,MS-1782,Private-Operator-2,Pune,18.540989,73.874146,DC Fast,Type-2,3,29-06-2025 09:36,29-06-2025 10:33,57,57.02,916.31,Commercial,Four-wheeler,Card,Sunny,Sunday,16.07
+MS_S_00713,MS-5902,Reliance BP,Aurangabad,19.877664,75.340295,DC Fast,CCS,1,16-07-2025 12:33,16-07-2025 13:30,57,53.02,752.88,Commercial,Two-wheeler,Card,Sunny,Wednesday,14.2
+MS_S_00714,MS-8443,Tata Power,Aurangabad,19.879774,75.367884,AC Slow,CCS,3,16-07-2025 13:53,16-07-2025 16:08,135,6.37,58.48,Private,Two-wheeler,Card,Sunny,Wednesday,9.18
+MS_S_00715,MS-4519,AtherGrid,Kolhapur,16.730508,74.240266,AC Slow,Type-2,2,24-06-2025 21:33,24-06-2025 23:46,133,8.16,99.8,Commercial,Four-wheeler,Subscription,Cloudy,Tuesday,12.23
+MS_S_00716,MS-8210,Private-Operator-2,Solapur,17.684264,75.927547,DC Fast,Bharat DC-001,2,17-07-2025 13:52,17-07-2025 14:12,20,10.8,247.43,Private,Two-wheeler,Subscription,Sunny,Thursday,22.91
+MS_S_00717,MS-9408,Private-Operator-1,Nagpur,21.164463,79.083746,AC Slow,Type-2,3,15-07-2025 06:29,15-07-2025 09:00,151,11.16,98.1,Private,Four-wheeler,Wallet,Sunny,Tuesday,8.79
+MS_S_00718,MS-7694,Tata Power,Pune,18.502074,73.839962,AC Slow,Type-2,4,24-06-2025 18:18,24-06-2025 18:58,40,10.51,130.53,Private,Two-wheeler,Wallet,Cloudy,Tuesday,12.42
+MS_S_00719,MS-5816,AtherGrid,Thane,19.226781,72.978889,DC Fast,Type-2,1,21-07-2025 04:09,21-07-2025 05:09,60,47.65,815.29,Private,Four-wheeler,Wallet,Cloudy,Monday,17.11
+MS_S_00720,MS-4532,MSEDCL,Thane,19.238553,72.974937,AC Slow,Bharat DC-001,1,01-06-2025 03:35,01-06-2025 05:34,119,5.82,67.74,Private,Two-wheeler,Wallet,Sunny,Sunday,11.64
+MS_S_00721,MS-8411,Reliance BP,Latur,18.405371,76.558473,AC Slow,Bharat DC-001,2,01-07-2025 23:53,02-07-2025 02:58,185,2.94,43.75,Private,Two-wheeler,Subscription,Sunny,Tuesday,14.88
+MS_S_00722,MS-8357,MSEDCL,Kolhapur,16.692559,74.254955,DC Fast,CHAdeMO,2,06-06-2025 19:42,06-06-2025 20:31,49,27.83,486.75,Private,Four-wheeler,Wallet,Sunny,Friday,17.49
+MS_S_00723,MS-1750,Private-Operator-2,Amravati,20.95456,77.762436,DC Fast,Bharat DC-001,2,18-07-2025 08:41,18-07-2025 08:56,15,28.04,503.32,Private,Two-wheeler,Wallet,Hot,Friday,17.95
+MS_S_00724,MS-3028,Private-Operator-2,Amravati,20.953264,77.776559,AC Slow,Type-2,1,13-06-2025 19:34,13-06-2025 22:31,177,9.34,139.82,Private,Four-wheeler,UPI,Rain,Friday,14.97
+MS_S_00725,MS-9713,MSEDCL,Pune,18.506106,73.867126,AC Slow,Type-2,1,18-06-2025 06:15,18-06-2025 09:45,210,3.86,42.19,Commercial,Two-wheeler,Wallet,Hot,Wednesday,10.93
+MS_S_00726,MS-1737,AtherGrid,Solapur,17.639997,75.90277,AC Slow,Type-2,1,22-06-2025 13:11,22-06-2025 15:27,136,11.14,161.53,Commercial,Two-wheeler,UPI,Sunny,Sunday,14.5
+MS_S_00727,MS-2627,Private-Operator-1,Pune,18.508681,73.863282,AC Slow,CCS,1,19-06-2025 04:11,19-06-2025 05:46,95,6.25,77.19,Private,Two-wheeler,Subscription,Rain,Thursday,12.35
+MS_S_00728,MS-1965,Private-Operator-1,Nagpur,21.170857,79.079236,AC Slow,CHAdeMO,4,12-06-2025 00:45,12-06-2025 01:29,44,4.26,35.7,Private,Two-wheeler,Subscription,Sunny,Thursday,8.38
+MS_S_00729,MS-5225,AtherGrid,Aurangabad,19.881747,75.342854,AC Slow,Type-2,1,04-06-2025 06:15,04-06-2025 09:57,222,10.46,120.92,Private,Two-wheeler,Subscription,Cloudy,Wednesday,11.56
+MS_S_00730,MS-5412,Tata Power,Pune,18.524915,73.857052,AC Slow,CHAdeMO,4,30-06-2025 17:26,30-06-2025 18:12,46,11.56,112.59,Commercial,Three-wheeler,UPI,Sunny,Monday,9.74
+MS_S_00731,MS-2663,MSEDCL,Thane,19.231594,72.967042,DC Fast,CCS,1,20-06-2025 18:26,20-06-2025 19:04,38,43.85,723.09,Private,Four-wheeler,Card,Sunny,Friday,16.49
+MS_S_00732,MS-9854,MSEDCL,Aurangabad,19.86056,75.328106,AC Slow,CCS,3,05-07-2025 13:58,05-07-2025 16:50,172,1.01,10.25,Private,Four-wheeler,Wallet,Sunny,Saturday,10.15
+MS_S_00733,MS-1008,Tata Power,Nagpur,21.109177,79.063631,AC Slow,Bharat DC-001,1,18-06-2025 19:16,18-06-2025 22:40,204,8.78,88.15,Commercial,Four-wheeler,Card,Sunny,Wednesday,10.04
+MS_S_00734,MS-9361,Reliance BP,Latur,18.405994,76.554066,DC Fast,Type-2,3,11-06-2025 23:34,12-06-2025 00:20,46,32.11,523.07,Private,Two-wheeler,UPI,Sunny,Wednesday,16.29
+MS_S_00735,MS-5578,AtherGrid,Nagpur,21.152127,79.070495,AC Slow,CCS,1,10-07-2025 16:51,10-07-2025 18:42,111,3.3,44.48,Commercial,Three-wheeler,Subscription,Hot,Thursday,13.48
+MS_S_00736,MS-5029,Private-Operator-2,Thane,19.221921,73.004166,AC Slow,CHAdeMO,1,22-06-2025 06:29,22-06-2025 09:32,183,13.73,128.1,Private,Three-wheeler,UPI,Sunny,Sunday,9.33
+MS_S_00737,MS-8807,Tata Power,Latur,18.414144,76.555787,AC Slow,Type-2,4,14-07-2025 05:26,14-07-2025 08:18,172,4.46,62.53,Commercial,Four-wheeler,UPI,Hot,Monday,14.02
+MS_S_00738,MS-9825,Tata Power,Pune,18.517113,73.860942,AC Slow,Bharat DC-001,2,14-07-2025 03:22,14-07-2025 07:20,238,11.77,171.14,Commercial,Two-wheeler,UPI,Sunny,Monday,14.54
+MS_S_00739,MS-8580,Reliance BP,Pune,18.496054,73.859889,AC Slow,CCS,1,29-06-2025 00:14,29-06-2025 03:54,220,6.28,67.51,Commercial,Three-wheeler,Wallet,Sunny,Sunday,10.75
+MS_S_00740,MS-2474,Private-Operator-1,Nashik,20.0106,73.806016,DC Fast,CHAdeMO,1,22-07-2025 22:14,22-07-2025 22:38,24,22.07,409.18,Commercial,Two-wheeler,Subscription,Cool,Tuesday,18.54
+MS_S_00741,MS-4425,Tata Power,Latur,18.38371,76.524738,AC Slow,CCS,1,23-07-2025 20:25,23-07-2025 21:23,58,8.66,74.56,Commercial,Two-wheeler,Card,Hot,Wednesday,8.61
+MS_S_00742,MS-3875,Tata Power,Latur,18.401344,76.558125,AC Slow,CCS,1,18-07-2025 02:08,18-07-2025 03:44,96,14.38,211.1,Private,Four-wheeler,Wallet,Hot,Friday,14.68
+MS_S_00743,MS-1378,Private-Operator-2,Nashik,19.989502,73.795186,AC Slow,CHAdeMO,1,14-07-2025 17:56,14-07-2025 20:22,146,14.27,128.29,Commercial,Three-wheeler,UPI,Sunny,Monday,8.99
+MS_S_00744,MS-8086,AtherGrid,Aurangabad,19.852677,75.353051,DC Fast,CHAdeMO,1,08-06-2025 21:33,08-06-2025 22:12,39,47.64,783.68,Private,Four-wheeler,Card,Sunny,Sunday,16.45
+MS_S_00745,MS-5553,AtherGrid,Mumbai,19.099638,72.887318,AC Slow,Bharat DC-001,3,21-06-2025 00:25,21-06-2025 01:44,79,13.85,196.81,Private,Four-wheeler,Card,Sunny,Saturday,14.21
+MS_S_00746,MS-2219,MSEDCL,Solapur,17.640498,75.898449,AC Slow,CCS,1,11-06-2025 10:19,11-06-2025 11:05,46,5.39,67.11,Private,Two-wheeler,Subscription,Cloudy,Wednesday,12.45
+MS_S_00747,MS-6477,Reliance BP,Mumbai,19.063714,72.863504,AC Slow,CCS,3,07-06-2025 15:15,07-06-2025 17:12,117,6.35,56.71,Commercial,Two-wheeler,Card,Hot,Saturday,8.93
+MS_S_00748,MS-8184,Tata Power,Pune,18.542217,73.847441,AC Slow,Bharat DC-001,2,08-07-2025 03:05,08-07-2025 03:50,45,9.41,121.11,Commercial,Two-wheeler,UPI,Hot,Tuesday,12.87
+MS_S_00749,MS-2015,AtherGrid,Nagpur,21.171721,79.066057,AC Slow,Type-2,1,20-06-2025 19:40,20-06-2025 22:00,140,12.21,113.06,Private,Two-wheeler,Wallet,Sunny,Friday,9.26
+MS_S_00750,MS-7581,Tata Power,Solapur,17.631984,75.918227,AC Slow,Bharat DC-001,2,15-06-2025 19:50,15-06-2025 23:08,198,5.43,45.56,Commercial,Two-wheeler,Subscription,Cloudy,Sunday,8.39
+MS_S_00751,MS-2659,Reliance BP,Latur,18.408859,76.556288,AC Slow,Type-2,1,30-06-2025 16:21,30-06-2025 19:21,180,3.06,30.88,Private,Two-wheeler,UPI,Sunny,Monday,10.09
+MS_S_00752,MS-4172,Private-Operator-1,Latur,18.41539,76.593672,AC Slow,CCS,1,11-07-2025 16:16,11-07-2025 18:16,120,13.96,127.45,Commercial,Two-wheeler,Card,Sunny,Friday,9.13
+MS_S_00753,MS-1991,MSEDCL,Mumbai,19.054053,72.848162,DC Fast,CHAdeMO,2,08-07-2025 13:32,08-07-2025 14:23,51,34.4,500.18,Commercial,Two-wheeler,Card,Rain,Tuesday,14.54
+MS_S_00754,MS-8692,Reliance BP,Nagpur,21.1648,79.09306,DC Fast,CHAdeMO,1,19-06-2025 11:00,19-06-2025 11:43,43,57.36,1238.4,Private,Two-wheeler,UPI,Cloudy,Thursday,21.59
+MS_S_00755,MS-6633,MSEDCL,Solapur,17.665934,75.909911,AC Slow,CCS,1,11-07-2025 06:50,11-07-2025 07:37,47,7.51,72.02,Commercial,Three-wheeler,Subscription,Sunny,Friday,9.59
+MS_S_00756,MS-6425,Private-Operator-1,Latur,18.365077,76.557358,AC Slow,CHAdeMO,1,10-07-2025 09:26,10-07-2025 11:20,114,14.46,160.65,Commercial,Four-wheeler,UPI,Sunny,Thursday,11.11
+MS_S_00757,MS-4594,Tata Power,Kolhapur,16.689001,74.20514,DC Fast,CCS,2,15-07-2025 07:29,15-07-2025 08:18,49,46.92,1058.05,Commercial,Three-wheeler,Wallet,Sunny,Tuesday,22.55
+MS_S_00758,MS-4363,AtherGrid,Solapur,17.687769,75.920611,DC Fast,CCS,1,23-07-2025 00:23,23-07-2025 00:33,10,48.67,1179.27,Private,Two-wheeler,Card,Sunny,Wednesday,24.23
+MS_S_00759,MS-8215,MSEDCL,Thane,19.251681,72.959249,DC Fast,CHAdeMO,3,03-06-2025 00:12,03-06-2025 00:34,22,26.73,338.67,Private,Four-wheeler,Card,Sunny,Tuesday,12.67
+MS_S_00760,MS-5029,MSEDCL,Aurangabad,19.887918,75.328565,AC Slow,CCS,2,02-06-2025 05:53,02-06-2025 07:30,97,6,74.64,Private,Four-wheeler,Card,Hot,Monday,12.44
+MS_S_00761,MS-2818,Reliance BP,Solapur,17.62992,75.904563,AC Slow,CCS,1,20-06-2025 14:15,20-06-2025 16:19,124,5.09,67.39,Private,Four-wheeler,Subscription,Hot,Friday,13.24
+MS_S_00762,MS-2941,MSEDCL,Pune,18.539392,73.855512,DC Fast,CCS,2,21-07-2025 06:12,21-07-2025 06:56,44,57.64,1011.58,Commercial,Two-wheeler,Subscription,Sunny,Monday,17.55
+MS_S_00763,MS-1756,Private-Operator-1,Nashik,19.992247,73.783072,AC Slow,CCS,2,25-07-2025 17:18,25-07-2025 21:10,232,4.53,50.42,Private,Two-wheeler,Wallet,Sunny,Friday,11.13
+MS_S_00764,MS-9327,Private-Operator-1,Nagpur,21.165006,79.09745,AC Slow,Bharat DC-001,1,14-06-2025 23:05,15-06-2025 02:55,230,14.68,142.4,Private,Two-wheeler,Subscription,Sunny,Saturday,9.7
+MS_S_00765,MS-7131,AtherGrid,Amravati,20.95515,77.794217,AC Slow,Bharat DC-001,1,12-06-2025 10:45,12-06-2025 12:50,125,11.19,136.52,Commercial,Three-wheeler,Subscription,Cloudy,Thursday,12.2
+MS_S_00766,MS-5396,Private-Operator-1,Kolhapur,16.698011,74.227849,DC Fast,Bharat DC-001,2,11-07-2025 18:41,11-07-2025 18:53,12,23.79,486.03,Private,Two-wheeler,Card,Sunny,Friday,20.43
+MS_S_00767,MS-4581,Reliance BP,Solapur,17.651656,75.924669,DC Fast,Bharat DC-001,2,27-07-2025 12:36,27-07-2025 12:56,20,26.65,483.7,Commercial,Two-wheeler,UPI,Hot,Sunday,18.15
+MS_S_00768,MS-2376,Reliance BP,Nagpur,21.1402,79.062619,DC Fast,Bharat DC-001,1,04-07-2025 11:14,04-07-2025 12:01,47,47.72,1098.51,Commercial,Two-wheeler,Subscription,Sunny,Friday,23.02
+MS_S_00769,MS-7700,Reliance BP,Solapur,17.648287,75.894172,AC Slow,Bharat DC-001,2,21-06-2025 08:24,21-06-2025 09:00,36,8.49,105.7,Private,Two-wheeler,UPI,Sunny,Saturday,12.45
+MS_S_00770,MS-2350,Reliance BP,Aurangabad,19.861567,75.381109,AC Slow,Type-2,1,21-07-2025 08:59,21-07-2025 10:27,88,8.84,123.85,Private,Two-wheeler,Card,Sunny,Monday,14.01
+MS_S_00771,MS-4221,Private-Operator-2,Aurangabad,19.864035,75.350562,DC Fast,CHAdeMO,2,17-06-2025 09:47,17-06-2025 10:46,59,56.16,1059.18,Commercial,Two-wheeler,Card,Cloudy,Tuesday,18.86
+MS_S_00772,MS-5278,Tata Power,Amravati,20.929456,77.756955,AC Slow,CHAdeMO,2,19-06-2025 11:50,19-06-2025 14:03,133,8.9,108.58,Private,Two-wheeler,Card,Hot,Thursday,12.2
+MS_S_00773,MS-4728,MSEDCL,Solapur,17.670025,75.935346,AC Slow,CCS,4,01-07-2025 07:33,01-07-2025 10:33,180,11.19,161.81,Commercial,Three-wheeler,Subscription,Rain,Tuesday,14.46
+MS_S_00774,MS-2406,Reliance BP,Aurangabad,19.939241,75.32083,AC Slow,CCS,2,28-06-2025 22:26,28-06-2025 23:49,83,9.73,118.9,Private,Two-wheeler,Card,Sunny,Saturday,12.22
+MS_S_00775,MS-1158,AtherGrid,Thane,19.256769,72.962608,AC Slow,CHAdeMO,2,22-06-2025 07:26,22-06-2025 09:44,138,3.77,51.42,Commercial,Four-wheeler,Wallet,Cloudy,Sunday,13.64
+MS_S_00776,MS-1380,Private-Operator-1,Aurangabad,19.834898,75.343869,AC Slow,Type-2,1,30-07-2025 04:09,30-07-2025 06:03,114,8.81,91.89,Commercial,Four-wheeler,Card,Cloudy,Wednesday,10.43
+MS_S_00777,MS-2043,Private-Operator-1,Solapur,17.692768,75.913613,DC Fast,Bharat DC-001,1,13-06-2025 15:06,13-06-2025 15:37,31,31.11,509.27,Commercial,Three-wheeler,Wallet,Cloudy,Friday,16.37
+MS_S_00778,MS-3808,Tata Power,Pune,18.493063,73.868551,AC Slow,CCS,1,03-06-2025 22:38,04-06-2025 01:13,155,14.61,169.91,Private,Two-wheeler,Subscription,Sunny,Tuesday,11.63
+MS_S_00779,MS-4373,MSEDCL,Thane,19.208535,72.990767,AC Slow,CHAdeMO,1,13-07-2025 16:04,13-07-2025 18:30,146,2.05,17.92,Private,Two-wheeler,Subscription,Sunny,Sunday,8.74
+MS_S_00780,MS-3572,Tata Power,Solapur,17.6402,75.910374,AC Slow,CCS,2,05-07-2025 13:30,05-07-2025 17:10,220,11.76,99.14,Private,Two-wheeler,Card,Sunny,Saturday,8.43
+MS_S_00781,MS-8081,Private-Operator-2,Thane,19.216719,72.966518,AC Slow,Bharat DC-001,1,11-06-2025 19:36,11-06-2025 21:25,109,12.68,111.96,Commercial,Two-wheeler,UPI,Cloudy,Wednesday,8.83
+MS_S_00782,MS-8302,Tata Power,Nagpur,21.189199,79.059726,DC Fast,Bharat DC-001,1,09-07-2025 07:33,09-07-2025 08:04,31,28.19,352.94,Commercial,Two-wheeler,UPI,Hot,Wednesday,12.52
+MS_S_00783,MS-5717,Private-Operator-2,Pune,18.504777,73.851504,AC Slow,Bharat DC-001,1,23-06-2025 22:53,24-06-2025 02:25,212,5.42,47.42,Commercial,Three-wheeler,Card,Rain,Monday,8.75
+MS_S_00784,MS-5081,MSEDCL,Solapur,17.691871,75.922443,DC Fast,Bharat DC-001,4,30-06-2025 12:58,30-06-2025 13:50,52,58.35,1356.64,Private,Two-wheeler,UPI,Sunny,Monday,23.25
+MS_S_00785,MS-3587,Reliance BP,Nashik,19.981312,73.808934,AC Slow,CHAdeMO,2,13-07-2025 02:44,13-07-2025 06:19,215,7.38,83.91,Private,Four-wheeler,Subscription,Rain,Sunday,11.37
+MS_S_00786,MS-2986,Reliance BP,Amravati,20.941495,77.794318,AC Slow,Type-2,3,19-07-2025 03:32,19-07-2025 07:18,226,1.79,20.41,Commercial,Two-wheeler,Wallet,Rain,Saturday,11.4
+MS_S_00787,MS-9291,Tata Power,Nashik,20.011514,73.846093,AC Slow,Bharat DC-001,1,02-06-2025 02:40,02-06-2025 06:07,207,5.81,81.11,Commercial,Two-wheeler,Subscription,Cloudy,Monday,13.96
+MS_S_00788,MS-7499,Tata Power,Nashik,19.982739,73.793425,AC Slow,Type-2,1,17-06-2025 03:45,17-06-2025 04:49,64,14.49,154.17,Commercial,Two-wheeler,UPI,Sunny,Tuesday,10.64
+MS_S_00789,MS-9985,Private-Operator-2,Pune,18.549644,73.865673,DC Fast,CCS,3,16-07-2025 14:08,16-07-2025 14:48,40,36.66,500.04,Private,Two-wheeler,UPI,Hot,Wednesday,13.64
+MS_S_00790,MS-2646,MSEDCL,Latur,18.389982,76.56697,AC Slow,CHAdeMO,3,08-06-2025 17:47,08-06-2025 19:57,130,10.08,144.04,Private,Three-wheeler,Card,Sunny,Sunday,14.29
+MS_S_00791,MS-6866,MSEDCL,Kolhapur,16.681215,74.26438,AC Slow,CCS,1,16-07-2025 01:57,16-07-2025 05:19,202,13.72,182.75,Commercial,Three-wheeler,UPI,Cloudy,Wednesday,13.32
+MS_S_00792,MS-6051,AtherGrid,Solapur,17.650981,75.908663,AC Slow,Type-2,2,09-07-2025 00:03,09-07-2025 03:50,227,7.64,73.19,Private,Four-wheeler,Wallet,Sunny,Wednesday,9.58
+MS_S_00793,MS-4276,Tata Power,Nashik,19.989733,73.783688,AC Slow,Type-2,1,27-06-2025 00:00,27-06-2025 01:56,116,3.07,45.71,Private,Two-wheeler,UPI,Hot,Friday,14.89
+MS_S_00794,MS-3736,Tata Power,Nagpur,21.172023,79.083714,AC Slow,Bharat DC-001,2,03-07-2025 03:52,03-07-2025 05:45,113,6.96,83.24,Private,Three-wheeler,Subscription,Sunny,Thursday,11.96
+MS_S_00795,MS-2979,MSEDCL,Solapur,17.682691,75.898653,DC Fast,CCS,1,07-06-2025 11:20,07-06-2025 11:41,21,34.61,826.14,Commercial,Two-wheeler,Card,Sunny,Saturday,23.87
+MS_S_00796,MS-4606,Tata Power,Kolhapur,16.683028,74.27171,AC Slow,CHAdeMO,3,12-07-2025 19:23,12-07-2025 20:04,41,11.52,168.08,Private,Two-wheeler,Subscription,Sunny,Saturday,14.59
+MS_S_00797,MS-9784,Private-Operator-1,Pune,18.53231,73.844902,DC Fast,CCS,1,17-06-2025 03:38,17-06-2025 04:08,30,23.27,491.23,Commercial,Three-wheeler,Card,Cool,Tuesday,21.11
+MS_S_00798,MS-3872,Private-Operator-2,Aurangabad,19.903221,75.361024,DC Fast,CHAdeMO,1,25-07-2025 21:30,25-07-2025 21:44,14,26.3,412.38,Commercial,Two-wheeler,Card,Sunny,Friday,15.68
+MS_S_00799,MS-1217,MSEDCL,Amravati,20.933393,77.783637,DC Fast,Type-2,1,10-07-2025 03:19,10-07-2025 03:44,25,49.1,866.62,Private,Three-wheeler,UPI,Rain,Thursday,17.65
+MS_S_00800,MS-7136,AtherGrid,Nagpur,21.176976,79.057591,DC Fast,CHAdeMO,1,13-06-2025 04:24,13-06-2025 04:47,23,22.94,500.78,Private,Four-wheeler,Subscription,Cloudy,Friday,21.83
+MS_S_00801,MS-3199,Reliance BP,Aurangabad,19.871346,75.3055,AC Slow,CHAdeMO,2,12-07-2025 01:33,12-07-2025 05:25,232,4.2,35.32,Commercial,Four-wheeler,Card,Cool,Saturday,8.41
+MS_S_00802,MS-6615,MSEDCL,Aurangabad,19.895356,75.347452,AC Slow,CCS,1,05-07-2025 01:58,05-07-2025 05:18,200,6.6,55.44,Private,Three-wheeler,Subscription,Cool,Saturday,8.4
+MS_S_00803,MS-6269,MSEDCL,Amravati,20.922696,77.812124,AC Slow,Bharat DC-001,2,11-07-2025 00:04,11-07-2025 02:39,155,10.31,112.79,Private,Two-wheeler,Card,Sunny,Friday,10.94
+MS_S_00804,MS-3057,Tata Power,Nashik,19.995284,73.782035,AC Slow,CCS,1,08-07-2025 17:53,08-07-2025 21:46,233,10.68,134.89,Private,Two-wheeler,Subscription,Hot,Tuesday,12.63
+MS_S_00805,MS-6103,MSEDCL,Kolhapur,16.717378,74.276067,DC Fast,CCS,1,16-06-2025 13:11,16-06-2025 13:59,48,32.61,777.1,Commercial,Two-wheeler,Card,Sunny,Monday,23.83
+MS_S_00806,MS-8883,Tata Power,Thane,19.226068,72.976204,DC Fast,CHAdeMO,3,26-06-2025 12:10,26-06-2025 12:50,40,30.13,547.76,Commercial,Four-wheeler,Subscription,Sunny,Thursday,18.18
+MS_S_00807,MS-7249,AtherGrid,Mumbai,19.077722,72.862762,DC Fast,Type-2,1,19-07-2025 09:38,19-07-2025 10:22,44,52.46,957.39,Private,Two-wheeler,Subscription,Sunny,Saturday,18.25
+MS_S_00808,MS-8431,Reliance BP,Thane,19.205303,72.979783,AC Slow,Bharat DC-001,3,06-07-2025 19:30,06-07-2025 20:18,48,3.86,53.23,Commercial,Two-wheeler,Card,Sunny,Sunday,13.79
+MS_S_00809,MS-1210,Private-Operator-1,Mumbai,19.067345,72.893576,DC Fast,CHAdeMO,2,02-07-2025 12:59,02-07-2025 13:35,36,21,380.1,Commercial,Two-wheeler,Wallet,Hot,Wednesday,18.1
+MS_S_00810,MS-2167,AtherGrid,Latur,18.378144,76.557387,AC Slow,Type-2,1,29-07-2025 03:24,29-07-2025 06:18,174,5.17,69.59,Commercial,Four-wheeler,Wallet,Sunny,Tuesday,13.46
+MS_S_00811,MS-9005,Private-Operator-2,Amravati,20.937214,77.78514,AC Slow,CHAdeMO,1,15-07-2025 01:41,15-07-2025 03:49,128,14.16,147.26,Private,Two-wheeler,UPI,Hot,Tuesday,10.4
+MS_S_00812,MS-1462,Private-Operator-2,Aurangabad,19.881767,75.333116,AC Slow,CCS,3,17-06-2025 19:29,17-06-2025 22:53,204,7.44,96.5,Private,Three-wheeler,Card,Sunny,Tuesday,12.97
+MS_S_00813,MS-2912,Tata Power,Mumbai,19.066425,72.88489,AC Slow,Bharat DC-001,1,26-06-2025 22:37,26-06-2025 23:27,50,1.55,12.63,Private,Four-wheeler,Card,Cloudy,Thursday,8.15
+MS_S_00814,MS-5143,Private-Operator-2,Solapur,17.667816,75.911671,AC Slow,CHAdeMO,2,03-07-2025 17:42,03-07-2025 19:49,127,7,57.33,Commercial,Four-wheeler,UPI,Cloudy,Thursday,8.19
+MS_S_00815,MS-6642,MSEDCL,Pune,18.542346,73.825387,AC Slow,CHAdeMO,2,18-07-2025 06:59,18-07-2025 10:40,221,7.68,82.33,Commercial,Two-wheeler,Card,Sunny,Friday,10.72
+MS_S_00816,MS-1025,Tata Power,Kolhapur,16.709873,74.221496,DC Fast,Type-2,4,20-07-2025 22:26,20-07-2025 23:09,43,32.99,590.19,Commercial,Three-wheeler,Card,Sunny,Sunday,17.89
+MS_S_00817,MS-7138,MSEDCL,Nagpur,21.148011,79.075674,AC Slow,CCS,1,13-06-2025 15:11,13-06-2025 17:49,158,6.67,99.98,Commercial,Two-wheeler,Card,Hot,Friday,14.99
+MS_S_00818,MS-4292,Tata Power,Nagpur,21.128663,79.065679,AC Slow,CCS,1,22-07-2025 06:16,22-07-2025 08:30,134,7.15,82.73,Private,Four-wheeler,Card,Sunny,Tuesday,11.57
+MS_S_00819,MS-5802,Tata Power,Pune,18.536357,73.819513,AC Slow,Bharat DC-001,1,08-06-2025 08:04,08-06-2025 10:01,117,14.53,212.28,Private,Two-wheeler,UPI,Sunny,Sunday,14.61
+MS_S_00820,MS-2000,Reliance BP,Mumbai,19.07691,72.888867,DC Fast,Type-2,1,13-07-2025 18:50,13-07-2025 19:02,12,49.59,1206.52,Private,Two-wheeler,Wallet,Sunny,Sunday,24.33
+MS_S_00821,MS-8753,Reliance BP,Kolhapur,16.711489,74.207223,AC Slow,Bharat DC-001,1,22-06-2025 11:43,22-06-2025 13:40,117,7.3,93.8,Private,Four-wheeler,Subscription,Cool,Sunday,12.85
+MS_S_00822,MS-1937,Reliance BP,Solapur,17.659789,75.92997,AC Slow,CHAdeMO,1,22-07-2025 03:00,22-07-2025 05:26,146,3.37,50.01,Commercial,Three-wheeler,Card,Hot,Tuesday,14.84
+MS_S_00823,MS-3013,Private-Operator-1,Mumbai,19.081532,72.877871,AC Slow,CHAdeMO,1,15-07-2025 07:23,15-07-2025 09:48,145,8.61,110.72,Commercial,Two-wheeler,Card,Cloudy,Tuesday,12.86
+MS_S_00824,MS-6278,Tata Power,Mumbai,19.044739,72.854111,AC Slow,CHAdeMO,1,26-07-2025 01:51,26-07-2025 05:29,218,11.81,108.53,Commercial,Two-wheeler,Subscription,Sunny,Saturday,9.19
+MS_S_00825,MS-2333,Reliance BP,Solapur,17.623062,75.924241,AC Slow,Bharat DC-001,2,30-07-2025 15:42,30-07-2025 19:11,209,7.78,105.5,Commercial,Two-wheeler,Card,Hot,Wednesday,13.56
+MS_S_00826,MS-9520,Private-Operator-1,Nagpur,21.149086,79.132124,DC Fast,Type-2,1,09-06-2025 15:50,09-06-2025 16:05,15,17.34,321.83,Commercial,Two-wheeler,Subscription,Sunny,Monday,18.56
+MS_S_00827,MS-8899,Private-Operator-2,Pune,18.524591,73.834867,AC Slow,CCS,4,16-06-2025 06:10,16-06-2025 09:52,222,9,126.36,Private,Two-wheeler,UPI,Hot,Monday,14.04
+MS_S_00828,MS-6349,AtherGrid,Nagpur,21.143966,79.070445,DC Fast,CHAdeMO,2,15-06-2025 23:16,16-06-2025 00:08,52,44.49,749.21,Private,Three-wheeler,Subscription,Sunny,Sunday,16.84
+MS_S_00829,MS-6452,MSEDCL,Pune,18.53559,73.850865,AC Slow,Type-2,3,12-07-2025 10:24,12-07-2025 13:57,213,4.42,65.28,Commercial,Three-wheeler,Subscription,Rain,Saturday,14.77
+MS_S_00830,MS-4662,Reliance BP,Nashik,19.975075,73.808388,DC Fast,Type-2,1,19-06-2025 02:07,19-06-2025 02:22,15,22.65,426.73,Private,Three-wheeler,UPI,Sunny,Thursday,18.84
+MS_S_00831,MS-7025,MSEDCL,Latur,18.381829,76.539005,DC Fast,CHAdeMO,1,25-06-2025 18:47,25-06-2025 18:57,10,7.71,131.22,Private,Four-wheeler,Subscription,Sunny,Wednesday,17.02
+MS_S_00832,MS-6980,Private-Operator-2,Aurangabad,19.874838,75.350579,AC Slow,CCS,1,04-07-2025 21:38,05-07-2025 00:39,181,3.69,37.53,Commercial,Two-wheeler,Subscription,Sunny,Friday,10.17
+MS_S_00833,MS-3370,Reliance BP,Aurangabad,19.899388,75.362762,AC Slow,CCS,2,02-07-2025 21:29,02-07-2025 22:36,67,14.77,143.12,Private,Three-wheeler,UPI,Cloudy,Wednesday,9.69
+MS_S_00834,MS-6245,Reliance BP,Latur,18.439183,76.572712,AC Slow,Type-2,1,18-06-2025 22:36,19-06-2025 01:08,152,10.48,88.56,Private,Two-wheeler,Subscription,Cloudy,Wednesday,8.45
+MS_S_00835,MS-6458,MSEDCL,Mumbai,19.046319,72.873531,AC Slow,CCS,3,25-07-2025 23:59,26-07-2025 03:56,237,1.42,19.75,Private,Four-wheeler,Card,Sunny,Friday,13.91
+MS_S_00836,MS-7419,Reliance BP,Kolhapur,16.729132,74.212757,AC Slow,CCS,4,02-06-2025 17:25,02-06-2025 19:21,116,2.02,18.97,Commercial,Four-wheeler,Subscription,Sunny,Monday,9.39
+MS_S_00837,MS-2176,Private-Operator-1,Solapur,17.651428,75.879088,AC Slow,CHAdeMO,1,19-06-2025 22:59,20-06-2025 00:18,79,5.06,48.93,Commercial,Two-wheeler,Wallet,Rain,Thursday,9.67
+MS_S_00838,MS-1886,Private-Operator-2,Latur,18.3964,76.575239,DC Fast,CHAdeMO,1,30-06-2025 20:10,30-06-2025 20:56,46,25.17,429.9,Commercial,Two-wheeler,Card,Sunny,Monday,17.08
+MS_S_00839,MS-4573,Private-Operator-2,Nashik,20.007394,73.797469,AC Slow,CCS,1,18-07-2025 20:00,18-07-2025 22:02,122,4.74,54.7,Private,Three-wheeler,Card,Rain,Friday,11.54
+MS_S_00840,MS-7997,Private-Operator-2,Solapur,17.66299,75.899669,DC Fast,CCS,1,30-07-2025 01:06,30-07-2025 01:38,32,42.8,687.8,Private,Four-wheeler,UPI,Cool,Wednesday,16.07
+MS_S_00841,MS-6545,Private-Operator-1,Amravati,20.92215,77.799726,AC Slow,Bharat DC-001,1,10-06-2025 20:46,10-06-2025 22:59,133,5.61,72.09,Private,Two-wheeler,Subscription,Sunny,Tuesday,12.85
+MS_S_00842,MS-3826,Private-Operator-2,Thane,19.231927,72.955026,DC Fast,Bharat DC-001,1,20-07-2025 22:50,20-07-2025 23:42,52,29.55,633.85,Commercial,Four-wheeler,Subscription,Cloudy,Sunday,21.45
+MS_S_00843,MS-8292,Reliance BP,Thane,19.185078,72.988165,AC Slow,Type-2,3,08-06-2025 03:05,08-06-2025 04:06,61,3.19,42.3,Private,Two-wheeler,Subscription,Sunny,Sunday,13.26
+MS_S_00844,MS-2549,Private-Operator-1,Thane,19.257267,72.998602,AC Slow,CCS,1,25-06-2025 15:41,25-06-2025 19:10,209,9.11,129.54,Private,Two-wheeler,UPI,Sunny,Wednesday,14.22
+MS_S_00845,MS-4029,AtherGrid,Amravati,20.918592,77.767785,AC Slow,Type-2,1,26-06-2025 17:52,26-06-2025 20:39,167,4.26,48.73,Commercial,Two-wheeler,UPI,Rain,Thursday,11.44
+MS_S_00846,MS-2922,MSEDCL,Nashik,20.005584,73.804117,AC Slow,CCS,1,01-06-2025 17:28,01-06-2025 21:22,234,4.61,51.86,Private,Two-wheeler,Card,Sunny,Sunday,11.25
+MS_S_00847,MS-2438,Private-Operator-1,Nagpur,21.151948,79.071708,AC Slow,CHAdeMO,2,25-07-2025 01:05,25-07-2025 02:06,61,12.31,164.58,Commercial,Four-wheeler,Card,Cloudy,Friday,13.37
+MS_S_00848,MS-1001,MSEDCL,Solapur,17.649387,75.907048,DC Fast,CHAdeMO,2,03-06-2025 16:57,03-06-2025 17:57,60,40.55,728.28,Commercial,Two-wheeler,Subscription,Sunny,Tuesday,17.96
+MS_S_00849,MS-9563,Reliance BP,Aurangabad,19.854358,75.346007,AC Slow,CCS,1,15-07-2025 03:42,15-07-2025 07:41,239,7.09,71.25,Private,Two-wheeler,Wallet,Sunny,Tuesday,10.05
+MS_S_00850,MS-3198,Private-Operator-1,Nashik,19.950067,73.830641,DC Fast,CCS,2,08-07-2025 11:17,08-07-2025 11:35,18,13.98,186.77,Commercial,Two-wheeler,Wallet,Rain,Tuesday,13.36
+MS_S_00851,MS-7255,Private-Operator-2,Thane,19.204963,72.982058,AC Slow,CCS,2,26-06-2025 14:05,26-06-2025 15:40,95,13.15,181.47,Private,Two-wheeler,UPI,Cloudy,Thursday,13.8
+MS_S_00852,MS-4156,Private-Operator-2,Thane,19.204574,72.949447,AC Slow,CHAdeMO,1,07-07-2025 21:41,08-07-2025 01:41,240,4.6,41.17,Private,Two-wheeler,Card,Cloudy,Monday,8.95
+MS_S_00853,MS-8104,AtherGrid,Aurangabad,19.882687,75.332645,DC Fast,Type-2,2,09-07-2025 07:04,09-07-2025 07:31,27,50.92,1081.03,Private,Three-wheeler,Subscription,Sunny,Wednesday,21.23
+MS_S_00854,MS-6396,Private-Operator-2,Pune,18.502387,73.837416,AC Slow,Type-2,2,24-06-2025 10:49,24-06-2025 12:28,99,5.77,86.43,Private,Two-wheeler,UPI,Sunny,Tuesday,14.98
+MS_S_00855,MS-4640,AtherGrid,Solapur,17.669646,75.927839,DC Fast,Type-2,1,21-07-2025 03:11,21-07-2025 03:54,43,43.32,928.35,Commercial,Two-wheeler,Subscription,Rain,Monday,21.43
+MS_S_00856,MS-9666,Reliance BP,Pune,18.517897,73.873638,AC Slow,CHAdeMO,1,06-07-2025 08:38,06-07-2025 09:33,55,10.1,150.29,Private,Two-wheeler,Subscription,Hot,Sunday,14.88
+MS_S_00857,MS-6655,Private-Operator-2,Nagpur,21.132433,79.086978,AC Slow,Bharat DC-001,1,01-07-2025 18:08,01-07-2025 19:44,96,12.57,162.28,Private,Three-wheeler,Card,Sunny,Tuesday,12.91
+MS_S_00858,MS-5380,Tata Power,Solapur,17.665141,75.867409,AC Slow,CHAdeMO,1,16-07-2025 07:43,16-07-2025 10:48,185,14,174.86,Commercial,Two-wheeler,Wallet,Sunny,Wednesday,12.49
+MS_S_00859,MS-9228,Reliance BP,Kolhapur,16.732394,74.221579,AC Slow,CHAdeMO,4,28-06-2025 16:45,28-06-2025 20:43,238,6.04,68.55,Private,Four-wheeler,Subscription,Sunny,Saturday,11.35
+MS_S_00860,MS-2476,Private-Operator-2,Aurangabad,19.883207,75.326414,DC Fast,Type-2,2,05-06-2025 23:15,05-06-2025 23:30,15,19.75,317.98,Private,Two-wheeler,Wallet,Sunny,Thursday,16.1
+MS_S_00861,MS-9074,Tata Power,Amravati,20.901777,77.734391,AC Slow,Bharat DC-001,2,14-07-2025 16:59,14-07-2025 20:36,217,13.18,187.68,Commercial,Two-wheeler,UPI,Sunny,Monday,14.24
+MS_S_00862,MS-1227,Private-Operator-1,Solapur,17.683369,75.900949,AC Slow,CCS,2,29-07-2025 23:00,30-07-2025 02:32,212,12.5,121.38,Commercial,Two-wheeler,UPI,Sunny,Tuesday,9.71
+MS_S_00863,MS-8350,MSEDCL,Latur,18.420038,76.574205,DC Fast,CCS,1,12-06-2025 02:23,12-06-2025 02:41,18,35.28,511.56,Private,Two-wheeler,Subscription,Cloudy,Thursday,14.5
+MS_S_00864,MS-7115,Tata Power,Nagpur,21.128235,79.090198,AC Slow,CHAdeMO,3,29-07-2025 21:15,30-07-2025 00:03,168,7.13,74.15,Private,Two-wheeler,Subscription,Hot,Tuesday,10.4
+MS_S_00865,MS-5337,MSEDCL,Thane,19.241293,72.984032,DC Fast,Type-2,2,18-07-2025 20:36,18-07-2025 21:11,35,15.26,220.51,Commercial,Four-wheeler,UPI,Sunny,Friday,14.45
+MS_S_00866,MS-8999,Tata Power,Kolhapur,16.681858,74.216637,AC Slow,CHAdeMO,1,01-06-2025 19:29,01-06-2025 21:23,114,9.02,123.93,Private,Two-wheeler,Card,Sunny,Sunday,13.74
+MS_S_00867,MS-6808,Tata Power,Solapur,17.683672,75.943387,AC Slow,Type-2,1,28-06-2025 15:12,28-06-2025 16:03,51,1.37,18.02,Private,Two-wheeler,Subscription,Cloudy,Saturday,13.15
+MS_S_00868,MS-3549,Private-Operator-2,Mumbai,19.093002,72.886054,DC Fast,CHAdeMO,2,15-06-2025 15:25,15-06-2025 15:58,33,16.32,270.59,Commercial,Four-wheeler,Wallet,Sunny,Sunday,16.58
+MS_S_00869,MS-8185,Private-Operator-2,Pune,18.526864,73.882376,DC Fast,Bharat DC-001,2,11-06-2025 04:22,11-06-2025 05:19,57,15.13,202.29,Commercial,Four-wheeler,Card,Sunny,Wednesday,13.37
+MS_S_00870,MS-4105,Reliance BP,Pune,18.511177,73.871831,AC Slow,Type-2,2,09-06-2025 12:26,09-06-2025 16:06,220,10.85,150.16,Private,Two-wheeler,Card,Sunny,Monday,13.84
+MS_S_00871,MS-5354,Tata Power,Kolhapur,16.68111,74.249016,AC Slow,Bharat DC-001,1,02-07-2025 17:31,02-07-2025 21:25,234,14.41,118.59,Private,Two-wheeler,Subscription,Cloudy,Wednesday,8.23
+MS_S_00872,MS-7370,MSEDCL,Amravati,20.945814,77.767442,DC Fast,Type-2,1,07-06-2025 00:08,07-06-2025 00:27,19,17.95,330.82,Private,Four-wheeler,Card,Sunny,Saturday,18.43
+MS_S_00873,MS-6605,AtherGrid,Mumbai,19.064213,72.868527,AC Slow,Type-2,3,28-06-2025 15:18,28-06-2025 17:00,102,3.05,38.19,Commercial,Two-wheeler,Card,Sunny,Saturday,12.52
+MS_S_00874,MS-4061,MSEDCL,Amravati,20.894006,77.755116,DC Fast,CHAdeMO,2,20-07-2025 03:55,20-07-2025 04:21,26,46.52,745.25,Private,Three-wheeler,Subscription,Cool,Sunday,16.02
+MS_S_00875,MS-8764,Private-Operator-2,Nashik,19.965828,73.79806,DC Fast,Type-2,1,15-07-2025 23:32,16-07-2025 00:21,49,21.21,352.3,Private,Two-wheeler,Card,Sunny,Tuesday,16.61
+MS_S_00876,MS-1628,Reliance BP,Solapur,17.673709,75.911712,DC Fast,CCS,1,30-07-2025 04:27,30-07-2025 04:38,11,54.27,724.5,Private,Four-wheeler,Subscription,Cloudy,Wednesday,13.35
+MS_S_00877,MS-9601,Reliance BP,Solapur,17.63616,75.927556,AC Slow,CCS,4,15-06-2025 10:27,15-06-2025 12:59,152,7.34,107.31,Commercial,Three-wheeler,Wallet,Sunny,Sunday,14.62
+MS_S_00878,MS-5411,Reliance BP,Pune,18.516842,73.838444,AC Slow,CHAdeMO,1,23-06-2025 22:26,23-06-2025 23:59,93,2.3,20.72,Private,Two-wheeler,UPI,Sunny,Monday,9.01
+MS_S_00879,MS-6269,MSEDCL,Mumbai,19.066246,72.899187,DC Fast,CHAdeMO,1,01-07-2025 08:58,01-07-2025 09:46,48,12.17,247.78,Private,Two-wheeler,Subscription,Sunny,Tuesday,20.36
+MS_S_00880,MS-6476,Reliance BP,Aurangabad,19.848443,75.358577,DC Fast,Type-2,2,07-06-2025 21:00,07-06-2025 21:53,53,42.24,881.55,Private,Two-wheeler,Wallet,Cloudy,Saturday,20.87
+MS_S_00881,MS-9664,Private-Operator-1,Latur,18.419017,76.543031,AC Slow,CHAdeMO,1,16-06-2025 20:17,16-06-2025 21:40,83,13.47,161.51,Private,Four-wheeler,Card,Cloudy,Monday,11.99
+MS_S_00882,MS-2971,Tata Power,Latur,18.423849,76.547848,DC Fast,CCS,4,13-06-2025 22:28,13-06-2025 22:44,16,59.21,1239.27,Commercial,Two-wheeler,Subscription,Sunny,Friday,20.93
+MS_S_00883,MS-9741,Private-Operator-2,Nashik,19.976696,73.828704,AC Slow,CCS,2,03-06-2025 04:12,03-06-2025 06:29,137,13.74,146.74,Commercial,Four-wheeler,Wallet,Cloudy,Tuesday,10.68
+MS_S_00884,MS-8347,Private-Operator-2,Aurangabad,19.883604,75.354986,AC Slow,Type-2,1,29-07-2025 13:04,29-07-2025 15:37,153,11.67,169.8,Private,Two-wheeler,Wallet,Sunny,Tuesday,14.55
+MS_S_00885,MS-5745,Tata Power,Nagpur,21.173664,79.104987,AC Slow,Type-2,1,21-07-2025 22:12,22-07-2025 01:51,219,4.75,68.35,Commercial,Three-wheeler,UPI,Hot,Monday,14.39
+MS_S_00886,MS-8172,Private-Operator-1,Nagpur,21.125688,79.095403,AC Slow,Bharat DC-001,2,06-07-2025 12:25,06-07-2025 15:30,185,1.39,14.78,Private,Two-wheeler,Card,Sunny,Sunday,10.63
+MS_S_00887,MS-1145,Private-Operator-1,Latur,18.391073,76.564986,DC Fast,Bharat DC-001,1,03-07-2025 22:46,03-07-2025 23:29,43,40.88,706,Private,Two-wheeler,Wallet,Sunny,Thursday,17.27
+MS_S_00888,MS-2951,MSEDCL,Amravati,20.954449,77.754416,AC Slow,CCS,3,03-06-2025 17:15,03-06-2025 18:59,104,4.77,65.54,Private,Four-wheeler,Wallet,Sunny,Tuesday,13.74
+MS_S_00889,MS-5430,Tata Power,Nagpur,21.133872,79.082216,DC Fast,CCS,3,23-07-2025 06:34,23-07-2025 06:51,17,32.66,729.62,Commercial,Three-wheeler,Wallet,Sunny,Wednesday,22.34
+MS_S_00890,MS-2363,Private-Operator-2,Aurangabad,19.852661,75.379711,AC Slow,CHAdeMO,3,17-07-2025 04:26,17-07-2025 07:32,186,6.3,54.31,Private,Three-wheeler,UPI,Sunny,Thursday,8.62
+MS_S_00891,MS-4592,Private-Operator-2,Aurangabad,19.880389,75.323609,AC Slow,CHAdeMO,4,12-06-2025 08:01,12-06-2025 10:48,167,12.49,124.53,Private,Three-wheeler,Subscription,Cloudy,Thursday,9.97
+MS_S_00892,MS-4377,AtherGrid,Thane,19.23873,72.996478,DC Fast,CCS,1,21-06-2025 08:13,21-06-2025 09:00,47,51.36,914.21,Commercial,Two-wheeler,Card,Cloudy,Saturday,17.8
+MS_S_00893,MS-7039,MSEDCL,Solapur,17.670816,75.862969,AC Slow,Bharat DC-001,1,06-06-2025 15:11,06-06-2025 17:38,147,9.92,84.22,Private,Two-wheeler,Subscription,Sunny,Friday,8.49
+MS_S_00894,MS-5621,Tata Power,Nagpur,21.154236,79.114404,DC Fast,CHAdeMO,1,11-06-2025 05:52,11-06-2025 06:27,35,49.88,878.89,Private,Two-wheeler,UPI,Cloudy,Wednesday,17.62
+MS_S_00895,MS-5018,AtherGrid,Solapur,17.638057,75.901326,DC Fast,Bharat DC-001,1,07-06-2025 23:33,07-06-2025 23:51,18,38.24,772.07,Private,Three-wheeler,Subscription,Rain,Saturday,20.19
+MS_S_00896,MS-1339,Tata Power,Solapur,17.673627,75.889622,AC Slow,Type-2,1,19-07-2025 20:59,19-07-2025 21:40,41,13.23,127.8,Private,Two-wheeler,UPI,Sunny,Saturday,9.66
+MS_S_00897,MS-2742,Private-Operator-1,Mumbai,19.104839,72.867453,AC Slow,CHAdeMO,2,25-07-2025 22:05,25-07-2025 23:26,81,3.28,48.28,Commercial,Four-wheeler,Wallet,Sunny,Friday,14.72
+MS_S_00898,MS-8846,MSEDCL,Aurangabad,19.899121,75.28655,AC Slow,CCS,1,04-06-2025 17:44,04-06-2025 19:22,98,1.28,15.5,Private,Two-wheeler,UPI,Cloudy,Wednesday,12.11
+MS_S_00899,MS-9923,Reliance BP,Pune,18.502653,73.872136,AC Slow,Type-2,1,03-07-2025 13:09,03-07-2025 13:39,30,11.05,122.66,Private,Two-wheeler,Subscription,Hot,Thursday,11.1
+MS_S_00900,MS-6788,Private-Operator-2,Nagpur,21.167721,79.096706,DC Fast,CHAdeMO,2,15-06-2025 21:24,15-06-2025 22:17,53,16.59,250.18,Private,Two-wheeler,UPI,Hot,Sunday,15.08
+MS_S_00901,MS-2666,Reliance BP,Nashik,19.983915,73.731515,AC Slow,CHAdeMO,1,05-06-2025 19:21,05-06-2025 20:21,60,13.14,166.62,Private,Four-wheeler,Card,Sunny,Thursday,12.68
+MS_S_00902,MS-8022,Private-Operator-1,Nagpur,21.105453,79.031553,AC Slow,CHAdeMO,2,09-07-2025 05:43,09-07-2025 08:01,138,6.02,90.12,Commercial,Three-wheeler,Wallet,Sunny,Wednesday,14.97
+MS_S_00903,MS-2702,Reliance BP,Aurangabad,19.888946,75.375626,AC Slow,Bharat DC-001,3,13-07-2025 11:59,13-07-2025 13:36,97,12.21,136.26,Private,Four-wheeler,Card,Hot,Sunday,11.16
+MS_S_00904,MS-6247,MSEDCL,Nagpur,21.140828,79.100732,AC Slow,Bharat DC-001,1,29-06-2025 23:50,30-06-2025 03:41,231,7.5,72.9,Private,Two-wheeler,Subscription,Cool,Sunday,9.72
+MS_S_00905,MS-3370,Tata Power,Thane,19.211994,72.95928,DC Fast,CHAdeMO,2,09-06-2025 05:49,09-06-2025 06:23,34,39.73,757.25,Commercial,Two-wheeler,Subscription,Sunny,Monday,19.06
+MS_S_00906,MS-6463,MSEDCL,Latur,18.397688,76.551174,AC Slow,CCS,2,25-06-2025 13:35,25-06-2025 16:12,157,7.26,97.65,Commercial,Two-wheeler,Card,Cloudy,Wednesday,13.45
+MS_S_00907,MS-2369,Private-Operator-1,Solapur,17.642777,75.907111,AC Slow,Bharat DC-001,3,04-07-2025 18:49,04-07-2025 22:16,207,10.95,119.68,Private,Three-wheeler,Card,Hot,Friday,10.93
+MS_S_00908,MS-1046,MSEDCL,Aurangabad,19.885805,75.322198,DC Fast,Type-2,2,24-06-2025 17:30,24-06-2025 17:48,18,20.7,406.13,Private,Four-wheeler,Wallet,Hot,Tuesday,19.62
+MS_S_00909,MS-5828,AtherGrid,Nagpur,21.163029,79.093226,AC Slow,CCS,2,24-07-2025 17:59,24-07-2025 20:16,137,11.88,150.99,Private,Two-wheeler,Card,Sunny,Thursday,12.71
+MS_S_00910,MS-3344,AtherGrid,Pune,18.549821,73.84271,AC Slow,Type-2,1,15-07-2025 13:23,15-07-2025 14:06,43,4.48,66.84,Private,Two-wheeler,Card,Rain,Tuesday,14.92
+MS_S_00911,MS-3406,Reliance BP,Mumbai,19.047128,72.868042,DC Fast,CCS,1,06-06-2025 07:04,06-06-2025 07:14,10,18.14,284.07,Commercial,Two-wheeler,Card,Cloudy,Friday,15.66
+MS_S_00912,MS-3295,Private-Operator-2,Kolhapur,16.724026,74.253838,AC Slow,CHAdeMO,3,01-07-2025 13:46,01-07-2025 15:42,116,14.52,150.86,Private,Two-wheeler,Card,Sunny,Tuesday,10.39
+MS_S_00913,MS-1526,Private-Operator-1,Mumbai,19.078526,72.868317,AC Slow,CCS,1,03-07-2025 05:00,03-07-2025 07:11,131,12.06,148.46,Commercial,Two-wheeler,Wallet,Hot,Thursday,12.31
+MS_S_00914,MS-9222,Reliance BP,Latur,18.420547,76.558027,AC Slow,CCS,1,28-06-2025 05:17,28-06-2025 06:10,53,11.78,161.15,Private,Three-wheeler,Subscription,Cloudy,Saturday,13.68
+MS_S_00915,MS-1917,MSEDCL,Latur,18.396833,76.572451,AC Slow,Bharat DC-001,2,12-06-2025 23:35,13-06-2025 02:39,184,7.77,110.96,Commercial,Two-wheeler,Subscription,Hot,Thursday,14.28
+MS_S_00916,MS-3700,Tata Power,Solapur,17.707667,75.930085,DC Fast,CHAdeMO,3,12-07-2025 13:12,12-07-2025 13:39,27,20.9,509.54,Private,Two-wheeler,Wallet,Sunny,Saturday,24.38
+MS_S_00917,MS-4924,Reliance BP,Mumbai,19.090457,72.879936,AC Slow,CCS,1,05-07-2025 03:04,05-07-2025 04:28,84,14.45,120.08,Commercial,Two-wheeler,Card,Cloudy,Saturday,8.31
+MS_S_00918,MS-4937,Reliance BP,Mumbai,19.074382,72.814291,DC Fast,Type-2,3,07-07-2025 18:02,07-07-2025 18:48,46,5.73,109.16,Commercial,Two-wheeler,Wallet,Cool,Monday,19.05
+MS_S_00919,MS-6056,Tata Power,Pune,18.496621,73.855702,AC Slow,CHAdeMO,2,19-07-2025 09:25,19-07-2025 12:03,158,8.05,107.55,Commercial,Three-wheeler,Card,Sunny,Saturday,13.36
+MS_S_00920,MS-6428,AtherGrid,Pune,18.504582,73.85738,AC Slow,Type-2,1,03-07-2025 04:01,03-07-2025 07:01,180,13.21,162.35,Commercial,Two-wheeler,UPI,Rain,Thursday,12.29
+MS_S_00921,MS-3641,MSEDCL,Thane,19.218332,72.986395,AC Slow,Bharat DC-001,1,06-06-2025 20:05,06-06-2025 23:38,213,12.25,168.07,Private,Four-wheeler,Card,Sunny,Friday,13.72
+MS_S_00922,MS-9218,Private-Operator-1,Nagpur,21.128435,79.090156,AC Slow,CHAdeMO,2,29-06-2025 04:21,29-06-2025 06:05,104,2.85,33.72,Commercial,Two-wheeler,Subscription,Sunny,Sunday,11.83
+MS_S_00923,MS-4421,Private-Operator-1,Nashik,19.992782,73.781662,AC Slow,Type-2,3,10-06-2025 18:40,10-06-2025 21:17,157,12.99,112.88,Private,Two-wheeler,Wallet,Sunny,Tuesday,8.69
+MS_S_00924,MS-2428,AtherGrid,Amravati,20.907455,77.804619,DC Fast,Type-2,1,30-06-2025 10:10,30-06-2025 10:38,28,44.6,594.07,Commercial,Two-wheeler,Wallet,Sunny,Monday,13.32
+MS_S_00925,MS-2165,MSEDCL,Pune,18.533839,73.864384,DC Fast,Bharat DC-001,1,17-06-2025 15:16,17-06-2025 16:14,58,40.16,604.81,Private,Four-wheeler,Subscription,Hot,Tuesday,15.06
+MS_S_00926,MS-6955,Reliance BP,Mumbai,19.052339,72.872645,AC Slow,Bharat DC-001,3,27-06-2025 19:58,27-06-2025 23:22,204,9.31,82.77,Commercial,Two-wheeler,Wallet,Sunny,Friday,8.89
+MS_S_00927,MS-2367,Private-Operator-2,Aurangabad,19.889112,75.343688,DC Fast,Bharat DC-001,2,03-07-2025 14:16,03-07-2025 15:09,53,10.82,201.04,Private,Three-wheeler,Card,Sunny,Thursday,18.58
+MS_S_00928,MS-1130,MSEDCL,Amravati,20.915495,77.715466,AC Slow,Type-2,1,19-06-2025 12:10,19-06-2025 15:05,175,12.87,147.36,Private,Two-wheeler,Subscription,Sunny,Thursday,11.45
+MS_S_00929,MS-6716,AtherGrid,Pune,18.575504,73.850588,DC Fast,Bharat DC-001,3,12-07-2025 17:57,12-07-2025 18:36,39,27.19,444.01,Private,Three-wheeler,Subscription,Sunny,Saturday,16.33
+MS_S_00930,MS-4268,AtherGrid,Solapur,17.654588,75.898402,AC Slow,CHAdeMO,2,05-06-2025 10:21,05-06-2025 13:25,184,7.81,80.76,Commercial,Two-wheeler,Subscription,Sunny,Thursday,10.34
+MS_S_00931,MS-9930,MSEDCL,Mumbai,19.085724,72.838713,DC Fast,Bharat DC-001,1,10-06-2025 20:13,10-06-2025 20:43,30,14.29,257.08,Commercial,Two-wheeler,Wallet,Cloudy,Tuesday,17.99
+MS_S_00932,MS-8756,MSEDCL,Solapur,17.631991,75.892242,AC Slow,Type-2,1,14-06-2025 00:48,14-06-2025 04:13,205,7.26,107.16,Commercial,Three-wheeler,UPI,Sunny,Saturday,14.76
+MS_S_00933,MS-2134,Reliance BP,Nagpur,21.174346,79.079811,AC Slow,Bharat DC-001,1,06-06-2025 09:55,06-06-2025 13:27,212,11.63,109.79,Commercial,Two-wheeler,Wallet,Sunny,Friday,9.44
+MS_S_00934,MS-1880,Tata Power,Nagpur,21.151947,79.083245,AC Slow,Bharat DC-001,2,22-06-2025 09:10,22-06-2025 10:30,80,3.87,51.05,Commercial,Two-wheeler,Card,Sunny,Sunday,13.19
+MS_S_00935,MS-6811,Private-Operator-2,Solapur,17.656734,75.902723,AC Slow,Bharat DC-001,2,23-07-2025 00:35,23-07-2025 04:25,230,5.47,78.44,Private,Two-wheeler,Card,Hot,Wednesday,14.34
+MS_S_00936,MS-6185,Tata Power,Aurangabad,19.874947,75.348125,AC Slow,CCS,1,28-07-2025 14:59,28-07-2025 16:06,67,3.74,54.64,Commercial,Two-wheeler,Subscription,Sunny,Monday,14.61
+MS_S_00937,MS-9531,Private-Operator-2,Thane,19.235675,72.954373,DC Fast,Type-2,2,29-06-2025 04:40,29-06-2025 05:18,38,19.84,419.22,Private,Two-wheeler,Card,Cloudy,Sunday,21.13
+MS_S_00938,MS-9947,MSEDCL,Solapur,17.671657,75.918795,AC Slow,Bharat DC-001,1,14-06-2025 11:13,14-06-2025 12:31,78,1.05,15.75,Private,Two-wheeler,Wallet,Cool,Saturday,15
+MS_S_00939,MS-5947,Reliance BP,Mumbai,19.103017,72.864626,AC Slow,Type-2,1,15-07-2025 15:41,15-07-2025 18:07,146,3.12,31.17,Commercial,Two-wheeler,Subscription,Sunny,Tuesday,9.99
+MS_S_00940,MS-6502,Tata Power,Amravati,20.951112,77.776167,AC Slow,CCS,1,30-06-2025 13:23,30-06-2025 14:38,75,1.25,10.9,Private,Two-wheeler,Subscription,Cloudy,Monday,8.72
+MS_S_00941,MS-8167,Private-Operator-2,Thane,19.207063,72.987687,AC Slow,CHAdeMO,3,15-07-2025 19:59,15-07-2025 20:54,55,7.53,79.29,Private,Two-wheeler,UPI,Cool,Tuesday,10.53
+MS_S_00942,MS-7738,Tata Power,Latur,18.432631,76.607473,AC Slow,Bharat DC-001,1,18-07-2025 19:59,18-07-2025 22:48,169,9.75,142.54,Commercial,Two-wheeler,UPI,Sunny,Friday,14.62
+MS_S_00943,MS-7891,MSEDCL,Thane,19.235715,72.997076,AC Slow,CCS,1,20-07-2025 14:35,20-07-2025 16:42,127,3.62,29.79,Commercial,Four-wheeler,Wallet,Sunny,Sunday,8.23
+MS_S_00944,MS-7765,Private-Operator-2,Kolhapur,16.69126,74.216289,AC Slow,Bharat DC-001,3,01-06-2025 11:50,01-06-2025 13:17,87,3.17,32.05,Commercial,Four-wheeler,Wallet,Cloudy,Sunday,10.11
+MS_S_00945,MS-7794,Private-Operator-2,Thane,19.221239,72.967657,AC Slow,CCS,1,01-06-2025 13:02,01-06-2025 13:35,33,6.7,99.9,Commercial,Four-wheeler,Wallet,Sunny,Sunday,14.91
+MS_S_00946,MS-3792,Private-Operator-1,Aurangabad,19.851309,75.347957,AC Slow,Bharat DC-001,3,16-06-2025 17:25,16-06-2025 18:44,79,8.17,95.51,Commercial,Four-wheeler,Subscription,Cloudy,Monday,11.69
+MS_S_00947,MS-7396,Private-Operator-2,Nagpur,21.132172,79.107557,AC Slow,CCS,1,26-06-2025 10:33,26-06-2025 11:43,70,9.31,88.17,Private,Three-wheeler,Card,Sunny,Thursday,9.47
+MS_S_00948,MS-2939,Private-Operator-2,Amravati,20.920352,77.788507,AC Slow,Bharat DC-001,1,24-07-2025 20:58,24-07-2025 22:34,96,10.76,134.5,Private,Four-wheeler,Card,Hot,Thursday,12.5
+MS_S_00949,MS-2528,Tata Power,Pune,18.504965,73.88889,AC Slow,Bharat DC-001,3,01-06-2025 20:49,01-06-2025 23:50,181,3.93,33.44,Private,Two-wheeler,UPI,Sunny,Sunday,8.51
+MS_S_00950,MS-8433,Private-Operator-2,Nagpur,21.129358,79.063814,DC Fast,CHAdeMO,2,12-06-2025 07:41,12-06-2025 08:05,24,9.97,242.47,Private,Three-wheeler,Subscription,Sunny,Thursday,24.32
+MS_S_00951,MS-1847,Reliance BP,Thane,19.18453,72.955699,AC Slow,Type-2,1,30-07-2025 04:40,30-07-2025 05:15,35,7.95,70.44,Private,Two-wheeler,UPI,Cloudy,Wednesday,8.86
+MS_S_00952,MS-3323,Reliance BP,Pune,18.499852,73.849235,DC Fast,CHAdeMO,3,28-07-2025 05:05,28-07-2025 05:19,14,13.44,225.39,Commercial,Four-wheeler,Card,Sunny,Monday,16.77
+MS_S_00953,MS-2649,AtherGrid,Solapur,17.665257,75.889929,DC Fast,Type-2,2,27-06-2025 02:31,27-06-2025 03:21,50,15.47,259.43,Commercial,Two-wheeler,Wallet,Sunny,Friday,16.77
+MS_S_00954,MS-3639,MSEDCL,Kolhapur,16.721542,74.246459,AC Slow,CHAdeMO,4,01-06-2025 05:42,01-06-2025 08:37,175,11.93,128.01,Private,Two-wheeler,Wallet,Cloudy,Sunday,10.73
+MS_S_00955,MS-8928,Private-Operator-1,Aurangabad,19.903222,75.369155,AC Slow,Type-2,1,11-06-2025 16:47,11-06-2025 18:22,95,6.3,87.57,Private,Three-wheeler,UPI,Hot,Wednesday,13.9
+MS_S_00956,MS-9384,MSEDCL,Amravati,20.970675,77.785105,DC Fast,CCS,3,26-07-2025 11:07,26-07-2025 11:30,23,55.59,735.46,Private,Two-wheeler,Card,Sunny,Saturday,13.23
+MS_S_00957,MS-5483,AtherGrid,Thane,19.209329,72.982871,DC Fast,CCS,2,06-06-2025 11:45,06-06-2025 12:30,45,14.17,316.98,Commercial,Three-wheeler,Subscription,Cloudy,Friday,22.37
+MS_S_00958,MS-9399,AtherGrid,Solapur,17.681831,75.862575,AC Slow,CCS,1,17-06-2025 05:12,17-06-2025 08:37,205,5.72,46.5,Commercial,Four-wheeler,UPI,Hot,Tuesday,8.13
+MS_S_00959,MS-6105,MSEDCL,Latur,18.409063,76.5852,AC Slow,CCS,2,17-07-2025 15:27,17-07-2025 17:51,144,12.71,120.87,Commercial,Four-wheeler,UPI,Sunny,Thursday,9.51
+MS_S_00960,MS-7275,AtherGrid,Latur,18.420745,76.556487,DC Fast,CCS,1,07-07-2025 11:23,07-07-2025 12:13,50,21.67,439.9,Commercial,Two-wheeler,UPI,Hot,Monday,20.3
+MS_S_00961,MS-5146,Private-Operator-1,Amravati,20.922605,77.752308,AC Slow,Bharat DC-001,2,19-06-2025 19:52,19-06-2025 23:07,195,9.27,116.52,Commercial,Two-wheeler,UPI,Cool,Thursday,12.57
+MS_S_00962,MS-6286,AtherGrid,Nagpur,21.161598,79.107591,DC Fast,CCS,1,23-06-2025 07:04,23-06-2025 07:27,23,50.48,974.77,Commercial,Two-wheeler,Wallet,Cloudy,Monday,19.31
+MS_S_00963,MS-1157,Reliance BP,Pune,18.51937,73.866762,AC Slow,Type-2,2,16-07-2025 10:13,16-07-2025 12:42,149,13.15,144.91,Commercial,Four-wheeler,UPI,Cloudy,Wednesday,11.02
+MS_S_00964,MS-5646,Private-Operator-1,Solapur,17.646786,75.901686,AC Slow,CCS,1,04-07-2025 06:06,04-07-2025 08:59,173,14.32,146.64,Private,Two-wheeler,Subscription,Sunny,Friday,10.24
+MS_S_00965,MS-6206,Reliance BP,Solapur,17.690475,75.904779,DC Fast,CCS,1,13-06-2025 01:51,13-06-2025 02:32,41,48.06,853.07,Commercial,Two-wheeler,UPI,Sunny,Friday,17.75
+MS_S_00966,MS-3803,Private-Operator-1,Kolhapur,16.732569,74.245616,AC Slow,CHAdeMO,1,08-07-2025 12:15,08-07-2025 15:12,177,6.27,66.27,Private,Three-wheeler,UPI,Sunny,Tuesday,10.57
+MS_S_00967,MS-5659,MSEDCL,Kolhapur,16.710735,74.240356,AC Slow,Bharat DC-001,2,03-06-2025 17:58,03-06-2025 20:43,165,10.39,102.76,Private,Two-wheeler,UPI,Sunny,Tuesday,9.89
+MS_S_00968,MS-5931,Reliance BP,Solapur,17.663752,75.954242,DC Fast,CHAdeMO,2,19-07-2025 11:25,19-07-2025 11:40,15,40.62,502.88,Commercial,Two-wheeler,UPI,Cloudy,Saturday,12.38
+MS_S_00969,MS-5889,Private-Operator-2,Solapur,17.657604,75.917735,AC Slow,Bharat DC-001,1,02-07-2025 20:58,02-07-2025 21:59,61,2.14,20.01,Private,Two-wheeler,UPI,Hot,Wednesday,9.35
+MS_S_00970,MS-3273,Tata Power,Mumbai,19.090228,72.939958,AC Slow,CHAdeMO,1,26-07-2025 22:46,27-07-2025 01:07,141,1.53,19.92,Private,Two-wheeler,Wallet,Sunny,Saturday,13.02
+MS_S_00971,MS-1080,Private-Operator-2,Amravati,20.901487,77.772398,AC Slow,Type-2,2,17-06-2025 01:07,17-06-2025 01:49,42,3.36,31.35,Private,Two-wheeler,Subscription,Hot,Tuesday,9.33
+MS_S_00972,MS-3790,MSEDCL,Thane,19.203615,72.975269,AC Slow,Bharat DC-001,2,08-06-2025 04:20,08-06-2025 05:27,67,10.11,139.21,Commercial,Three-wheeler,UPI,Rain,Sunday,13.77
+MS_S_00973,MS-9644,MSEDCL,Amravati,20.937576,77.774246,AC Slow,Bharat DC-001,4,13-07-2025 15:17,13-07-2025 17:09,112,9.35,121.27,Commercial,Two-wheeler,Wallet,Rain,Sunday,12.97
+MS_S_00974,MS-2356,Reliance BP,Thane,19.176205,73.018944,AC Slow,CCS,2,13-07-2025 20:47,13-07-2025 22:09,82,13.89,205.29,Private,Four-wheeler,UPI,Cloudy,Sunday,14.78
+MS_S_00975,MS-1215,Private-Operator-2,Nashik,19.993782,73.757812,DC Fast,CCS,2,30-06-2025 12:12,30-06-2025 12:53,41,8.57,154.69,Private,Four-wheeler,Wallet,Sunny,Monday,18.05
+MS_S_00976,MS-8438,Private-Operator-2,Thane,19.244062,72.97839,AC Slow,CCS,2,25-07-2025 16:06,25-07-2025 17:09,63,5.99,54.81,Commercial,Two-wheeler,Subscription,Sunny,Friday,9.15
+MS_S_00977,MS-9412,MSEDCL,Latur,18.42362,76.571369,DC Fast,Bharat DC-001,1,13-06-2025 02:17,13-06-2025 02:54,37,56.45,1346.9,Commercial,Four-wheeler,UPI,Sunny,Friday,23.86
+MS_S_00978,MS-8552,Tata Power,Nagpur,21.189502,79.074466,DC Fast,Type-2,3,16-06-2025 00:57,16-06-2025 01:36,39,38.03,718.39,Private,Two-wheeler,Subscription,Sunny,Monday,18.89
+MS_S_00979,MS-5351,Tata Power,Aurangabad,19.872792,75.327044,AC Slow,Type-2,2,23-06-2025 13:13,23-06-2025 14:21,68,4.92,58.79,Commercial,Two-wheeler,UPI,Sunny,Monday,11.95
+MS_S_00980,MS-5466,Reliance BP,Kolhapur,16.66351,74.242859,DC Fast,Type-2,2,04-06-2025 20:24,04-06-2025 21:20,56,59.49,928.64,Private,Two-wheeler,Subscription,Hot,Wednesday,15.61
+MS_S_00981,MS-5520,Private-Operator-1,Nagpur,21.152633,79.082774,AC Slow,Bharat DC-001,3,04-07-2025 13:06,04-07-2025 16:30,204,10.58,150.02,Private,Four-wheeler,Card,Sunny,Friday,14.18
+MS_S_00982,MS-1870,Tata Power,Pune,18.534587,73.857089,AC Slow,CHAdeMO,3,16-06-2025 02:34,16-06-2025 03:29,55,5.61,57.22,Commercial,Two-wheeler,UPI,Sunny,Monday,10.2
+MS_S_00983,MS-5395,AtherGrid,Nashik,19.990795,73.762979,AC Slow,CCS,1,11-06-2025 06:22,11-06-2025 09:35,193,12.99,139.9,Commercial,Three-wheeler,UPI,Sunny,Wednesday,10.77
+MS_S_00984,MS-9245,Private-Operator-2,Nagpur,21.145389,79.093984,AC Slow,Bharat DC-001,3,18-07-2025 09:54,18-07-2025 13:20,206,11.67,134.67,Commercial,Three-wheeler,Card,Sunny,Friday,11.54
+MS_S_00985,MS-6442,AtherGrid,Nagpur,21.157991,79.057093,AC Slow,CCS,1,01-06-2025 21:30,01-06-2025 23:49,139,7.1,64.61,Private,Four-wheeler,UPI,Sunny,Sunday,9.1
+MS_S_00986,MS-1159,Private-Operator-1,Nagpur,21.152489,79.117761,DC Fast,CHAdeMO,3,01-07-2025 18:00,01-07-2025 18:41,41,53.49,1000.26,Commercial,Two-wheeler,UPI,Hot,Tuesday,18.7
+MS_S_00987,MS-5762,MSEDCL,Latur,18.428126,76.607093,AC Slow,CCS,1,19-07-2025 04:49,19-07-2025 05:43,54,2.77,32.44,Commercial,Two-wheeler,Wallet,Sunny,Saturday,11.71
+MS_S_00988,MS-5216,Private-Operator-2,Amravati,20.900985,77.764885,DC Fast,Bharat DC-001,1,17-06-2025 11:29,17-06-2025 11:39,10,8.5,162.95,Commercial,Three-wheeler,Subscription,Hot,Tuesday,19.17
+MS_S_00989,MS-5422,Private-Operator-2,Pune,18.518098,73.849782,DC Fast,Type-2,1,10-06-2025 13:54,10-06-2025 14:18,24,38.85,670.94,Private,Two-wheeler,UPI,Cloudy,Tuesday,17.27
+MS_S_00990,MS-8056,Reliance BP,Nashik,19.982163,73.791161,AC Slow,CCS,2,18-07-2025 02:12,18-07-2025 04:18,126,14.28,141.09,Commercial,Four-wheeler,Subscription,Cloudy,Friday,9.88
+MS_S_00991,MS-3866,Reliance BP,Amravati,20.942367,77.780562,DC Fast,CHAdeMO,2,27-07-2025 10:25,27-07-2025 11:12,47,41.19,935.42,Commercial,Two-wheeler,UPI,Sunny,Sunday,22.71
+MS_S_00992,MS-9520,Private-Operator-2,Latur,18.387526,76.562222,DC Fast,CHAdeMO,3,24-07-2025 19:07,24-07-2025 19:44,37,33.44,452.11,Commercial,Two-wheeler,UPI,Rain,Thursday,13.52
+MS_S_00993,MS-3410,AtherGrid,Kolhapur,16.704202,74.215215,AC Slow,CCS,1,04-07-2025 09:39,04-07-2025 12:31,172,9.72,78.44,Commercial,Two-wheeler,UPI,Cloudy,Friday,8.07
+MS_S_00994,MS-1255,AtherGrid,Thane,19.186651,72.994437,DC Fast,Type-2,1,14-06-2025 09:52,14-06-2025 10:39,47,28.34,603.36,Commercial,Two-wheeler,Subscription,Sunny,Saturday,21.29
+MS_S_00995,MS-1010,Tata Power,Aurangabad,19.871048,75.341907,AC Slow,CHAdeMO,1,09-06-2025 11:56,09-06-2025 13:38,102,14.52,129.37,Private,Four-wheeler,Wallet,Rain,Monday,8.91
+MS_S_00996,MS-4223,AtherGrid,Nagpur,21.140325,79.087915,AC Slow,Type-2,2,19-06-2025 07:02,19-06-2025 09:33,151,3.82,32.7,Private,Four-wheeler,Subscription,Hot,Thursday,8.56
+MS_S_00997,MS-7539,Tata Power,Solapur,17.66862,75.923277,AC Slow,CHAdeMO,3,29-07-2025 09:38,29-07-2025 11:27,109,11.8,170.04,Commercial,Three-wheeler,Wallet,Sunny,Tuesday,14.41
+MS_S_00998,MS-3280,Private-Operator-2,Latur,18.377356,76.561605,AC Slow,CCS,2,17-06-2025 04:26,17-06-2025 07:17,171,12.84,174.5,Commercial,Two-wheeler,Subscription,Sunny,Tuesday,13.59
+MS_S_00999,MS-4004,AtherGrid,Amravati,20.923553,77.765819,DC Fast,Bharat DC-001,2,07-06-2025 04:33,07-06-2025 05:11,38,58.94,826.34,Commercial,Two-wheeler,Subscription,Cloudy,Saturday,14.02
+MS_S_01000,MS-7889,AtherGrid,Kolhapur,16.725678,74.235151,DC Fast,Bharat DC-001,1,02-06-2025 17:01,02-06-2025 18:00,59,8.67,216.58,Private,Three-wheeler,Wallet,Sunny,Monday,24.98
