@@ -1,11 +1,11 @@
 # SmartCharge-Power-Bi-Dashboard
-##Project Overview
+## Project Overview
 
 This project presents a Machine Learning–based predictive analytics framework for forecasting Electric Vehicle (EV) charging demand, expected waiting time, and tariff fluctuation across multiple cities and charging stations. The system integrates predictive modeling with interactive Power BI dashboards to support data-driven decision-making for EV infrastructure planning, tariff regulation, and station optimization.
 
 The solution bridges data science, energy management, and visualization by combining real-world datasets, ensemble-based regression models, and dynamic Power BI reporting tools. It is designed to assist urban planners, charging network operators, and policymakers in improving the efficiency and sustainability of EV charging ecosystems.
 
-##Key Features
+## Key Features
 
 Machine Learning Framework: Implements regression-based predictive modeling (Random Forest Regressor) to estimate demand, price, and waiting times.
 
@@ -19,7 +19,7 @@ Power BI Dashboard: Offers real-time visualization with interactive maps, cards,
 
 Decision Support: Provides insights for station placement, dynamic pricing, and load management strategies.
 
-##Data Model Overview
+## Data Model Overview
 
 The Power BI data model connects multiple datasets for integrated analysis:
 
@@ -33,7 +33,7 @@ prmMaxDistance: Parameter table for distance-based filtering on the dashboard.
 
 These datasets are linked through station_id and city relationships to enable dynamic spatial filtering and interactive analytics.
 
-##Tech Stack
+## Tech Stack
 
 Languages & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 
@@ -45,7 +45,7 @@ Tools: Power BI Desktop / GitHub
 
 Data Sources: Real-world EV charging data 
 
-##Outcomes
+## Outcomes
 
 Improved accuracy in predicting EV charging demand and tariff trends.
 
